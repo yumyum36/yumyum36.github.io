@@ -5,9 +5,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Human",
-			"collector_number": "120",
+			"collector_number": "174",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/120_Spooky Storyteller.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/174_Spooky Storyteller.png"
 			}
 		},
 		{
@@ -15,9 +15,9 @@
 			"rarity": "rare",
 			"mana_cost": "{5}{W}{B}",
 			"type": "Sorcery",
-			"collector_number": "269",
+			"collector_number": "389",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/269_Sand Scour.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/389_Sand Scour.png"
 			}
 		},
 		{
@@ -25,9 +25,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{WU}{UB}",
 			"type": "Creature — Shade",
-			"collector_number": "298",
+			"collector_number": "432",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/298_Mist-Lure Shade.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/432_Mist-Lure Shade.png"
 			}
 		},
 		{
@@ -35,9 +35,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{X}{4}",
 			"type": "Artifact Creature — Spirit",
-			"collector_number": "307",
+			"collector_number": "451",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/307_Ghost in the Machine.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/451_Ghost in the Machine.png"
 			}
 		},
 		{
@@ -45,9 +45,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "333",
+			"collector_number": "498",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/333_Restless Cascades.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/498_Restless Cascades.png"
 			}
 		},
 		{
@@ -55,9 +55,9 @@
 			"rarity": "mythic",
 			"mana_cost": "",
 			"type": "Legendary Land",
-			"collector_number": "192",
+			"collector_number": "276",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/192_Titania's Court.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/276_Titania's Court.png"
 			}
 		},
 		{
@@ -65,9 +65,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "336",
+			"collector_number": "504",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/336_Tenth District Square.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/504_Tenth District Square.png"
 			}
 		},
 		{
@@ -75,9 +75,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "342",
+			"collector_number": "512",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/342_The Underworld.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/512_The Underworld.png"
 			}
 		},
 		{
@@ -85,9 +85,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Legendary Land — Forest",
-			"collector_number": "339",
+			"collector_number": "508",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/339_Titania's Court.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/508_Titania's Court.png"
 			}
 		},
 		{
@@ -95,9 +95,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Legendary Land",
-			"collector_number": "324",
+			"collector_number": "487",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/324_Gremlin Nest.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/487_Gremlin Nest.png"
 			}
 		},
 		{
@@ -105,9 +105,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land — Forest",
-			"collector_number": "334",
+			"collector_number": "499",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/334_Ruins of Titania's Court.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/499_Ruins of Titania's Court.png"
 			}
 		},
 		{
@@ -115,9 +115,9 @@
 			"rarity": "mythic",
 			"mana_cost": "",
 			"type": "Land — Gate",
-			"collector_number": "337",
+			"collector_number": "506",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/337_Tenth District Square.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/506_Tenth District Square.png"
 			}
 		},
 		{
@@ -125,9 +125,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Legendary Land — Urza's",
-			"collector_number": "348",
+			"collector_number": "518",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/348_Urza's Workshop.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/518_Urza's Workshop.png"
 			}
 		},
 		{
@@ -135,9 +135,9 @@
 			"rarity": "mythic",
 			"mana_cost": "",
 			"type": "Legendary Land",
-			"collector_number": "340",
+			"collector_number": "507",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/340_Titania's Court.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/507_Titania's Court.png"
 			}
 		},
 		{
@@ -145,9 +145,9 @@
 			"rarity": "mythic",
 			"mana_cost": "",
 			"type": "Legendary Land — Urza's",
-			"collector_number": "347",
+			"collector_number": "517",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/347_Urza's Workshop.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/517_Urza's Workshop.png"
 			}
 		},
 		{
@@ -155,9 +155,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Legendary Land",
-			"collector_number": "168",
+			"collector_number": "242",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/168_Urabrask's Hidden Lair.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/242_Urabrask's Hidden Lair.png"
 			}
 		},
 		{
@@ -165,9 +165,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "327",
+			"collector_number": "488",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/327_Gremlin's Nest.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/488_Gremlin's Nest.png"
 			}
 		},
 		{
@@ -175,9 +175,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Legendary Land",
-			"collector_number": "343",
+			"collector_number": "513",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/343_The Underworld.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/513_The Underworld.png"
 			}
 		},
 		{
@@ -185,9 +185,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Legendary Land — Lair",
-			"collector_number": "335",
+			"collector_number": "500",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/335_Seat of the Grand Cenobite.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/500_Seat of the Grand Cenobite.png"
 			}
 		},
 		{
@@ -195,9 +195,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Legendary Land",
-			"collector_number": "344",
+			"collector_number": "514",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/344_The Underworld.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/514_The Underworld.png"
 			}
 		},
 		{
@@ -205,9 +205,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Legendary Enchantment Land",
-			"collector_number": "345",
+			"collector_number": "515",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/345_The Underworld.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/515_The Underworld.png"
 			}
 		},
 		{
@@ -215,9 +215,9 @@
 			"rarity": "mythic",
 			"mana_cost": "",
 			"type": "Legendary Land",
-			"collector_number": "338",
+			"collector_number": "505",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/338_Tenth District Square.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/505_Tenth District Square.png"
 			}
 		},
 		{
@@ -225,9 +225,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "326",
+			"collector_number": "485",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/326_Gremlin Nest.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/485_Gremlin Nest.png"
 			}
 		},
 		{
@@ -235,9 +235,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "325",
+			"collector_number": "486",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/325_Gremlin Nest.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/486_Gremlin Nest.png"
 			}
 		},
 		{
@@ -245,9 +245,9 @@
 			"rarity": "rare",
 			"mana_cost": "{U}",
 			"type": "Enchantment — Class",
-			"collector_number": "37",
+			"collector_number": "54",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/37_Advisor Class.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/54_Advisor Class.png"
 			}
 		},
 		{
@@ -255,9 +255,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}{B}",
 			"type": "Sorcery",
-			"collector_number": "117",
+			"collector_number": "170",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/117_Rot Swap.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/170_Rot Swap.png"
 			}
 		},
 		{
@@ -265,9 +265,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{B}",
 			"type": "Creature — Demon",
-			"collector_number": "82",
+			"collector_number": "120",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/82_Avenger of Ash.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/120_Avenger of Ash.png"
 			}
 		},
 		{
@@ -275,9 +275,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}",
 			"type": "Creature — Beast Druid",
-			"collector_number": "183",
+			"collector_number": "263",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/183_Guardian of Growth.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/263_Guardian of Growth.png"
 			}
 		},
 		{
@@ -285,9 +285,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{R}",
 			"type": "Creature — Human Artificer",
-			"collector_number": "142",
+			"collector_number": "206",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/142_Forger of Flames.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/206_Forger of Flames.png"
 			}
 		},
 		{
@@ -295,9 +295,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
 			"type": "Instant",
-			"collector_number": "162",
+			"collector_number": "233",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/162_Stoke the Blaze.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/233_Stoke the Blaze.png"
 			}
 		},
 		{
@@ -305,9 +305,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}{R}",
 			"type": "Creature — Phoenix",
-			"collector_number": "157",
+			"collector_number": "227",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/157_Pyreborn Phoenix.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/227_Pyreborn Phoenix.png"
 			}
 		},
 		{
@@ -315,9 +315,9 @@
 			"rarity": "mythic",
 			"mana_cost": "",
 			"type": "Legendary Creature — Phyrexian Demon",
-			"collector_number": "83",
+			"collector_number": "121",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/83_Azax-Azog, the Demon Thane.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/121_Azax-Azog, the Demon Thane.png"
 			}
 		},
 		{
@@ -325,9 +325,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{BP}{BP}",
 			"type": "Enchantment",
-			"collector_number": "84",
+			"collector_number": "122",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/84_Azax-Azog's Contract.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/122_Azax-Azog's Contract.png"
 			}
 		},
 		{
@@ -335,9 +335,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Phyrexian Minion",
-			"collector_number": "88",
+			"collector_number": "128",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/88_Compleated Sacrifice.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/128_Compleated Sacrifice.png"
 			}
 		},
 		{
@@ -345,9 +345,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}",
 			"type": "Artifact — Equipment",
-			"collector_number": "312",
+			"collector_number": "457",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/312_Murderous Dagger.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/457_Murderous Dagger.png"
 			}
 		},
 		{
@@ -355,9 +355,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "321",
+			"collector_number": "479",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/321_Doctor Black's Library.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/479_Doctor Black's Library.png"
 			}
 		},
 		{
@@ -365,9 +365,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Human Soldier",
-			"collector_number": "18",
+			"collector_number": "21",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/18_Colonel Mustard.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/21_Colonel Mustard.png"
 			}
 		},
 		{
@@ -375,9 +375,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}",
 			"type": "Artifact",
-			"collector_number": "306",
+			"collector_number": "449",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/306_Fort Cannon.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/449_Fort Cannon.png"
 			}
 		},
 		{
@@ -385,9 +385,9 @@
 			"rarity": "common",
 			"mana_cost": "{U}",
 			"type": "Sorcery",
-			"collector_number": "40",
+			"collector_number": "58",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/40_Charge Up.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/58_Charge Up.png"
 			}
 		},
 		{
@@ -395,9 +395,9 @@
 			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Instant",
-			"collector_number": "138",
+			"collector_number": "202",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/138_Energy Blast.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/202_Energy Blast.png"
 			}
 		},
 		{
@@ -405,9 +405,9 @@
 			"rarity": "rare",
 			"mana_cost": "{U}{R}{W}",
 			"type": "Legendary Creature — Human Pilot",
-			"collector_number": "271",
+			"collector_number": "391",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/271_Shay, Wastebin Wunderkind.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/391_Shay, Wastebin Wunderkind.png"
 			}
 		},
 		{
@@ -415,9 +415,9 @@
 			"rarity": "rare",
 			"mana_cost": "{G}{G}",
 			"type": "Legendary Artifact",
-			"collector_number": "175",
+			"collector_number": "254",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/175_Courage.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/254_Courage.png"
 			}
 		},
 		{
@@ -425,9 +425,9 @@
 			"rarity": "rare",
 			"mana_cost": "{U}{U}",
 			"type": "Legendary Artifact",
-			"collector_number": "77",
+			"collector_number": "114",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/77_Wisdom.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/114_Wisdom.png"
 			}
 		},
 		{
@@ -435,9 +435,9 @@
 			"rarity": "rare",
 			"mana_cost": "{R}{R}",
 			"type": "Legendary Artifact",
-			"collector_number": "155",
+			"collector_number": "225",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/155_Power.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/225_Power.png"
 			}
 		},
 		{
@@ -445,9 +445,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}{B}",
 			"type": "Instant",
-			"collector_number": "234",
+			"collector_number": "343",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/234_Late Night Study.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/343_Late Night Study.png"
 			}
 		},
 		{
@@ -455,9 +455,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}",
 			"type": "Legendary Artifact — Vehicle",
-			"collector_number": "302",
+			"collector_number": "445",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/302_The DeLorean.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/445_The DeLorean.png"
 			}
 		},
 		{
@@ -465,9 +465,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{U}{R}",
 			"type": "Legendary Creature — Human Wizard",
-			"collector_number": "240",
+			"collector_number": "351",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/240_Marty McFly, Temporal Displacer.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/351_Marty McFly, Temporal Displacer.png"
 			}
 		},
 		{
@@ -475,9 +475,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Legendary Snow Creature — Elemental",
-			"collector_number": "118",
+			"collector_number": "172",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/118_Sesskit, The Frozen Embrace.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/172_Sesskit, The Frozen Embrace.png"
 			}
 		},
 		{
@@ -485,9 +485,9 @@
 			"rarity": "rare",
 			"mana_cost": "{G}",
 			"type": "Legendary Creature — Human Druid",
-			"collector_number": "194",
+			"collector_number": "279",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/194_Veline, Nature's Warden.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/279_Veline, Nature's Warden.png"
 			}
 		},
 		{
@@ -495,9 +495,9 @@
 			"rarity": "rare",
 			"mana_cost": "{B}{R}",
 			"type": "Creature — Human Warrior",
-			"collector_number": "278",
+			"collector_number": "401",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/278_Specialized Strategist.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/401_Specialized Strategist.png"
 			}
 		},
 		{
@@ -505,9 +505,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Elf Druid",
-			"collector_number": "181",
+			"collector_number": "261",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/181_Gatesage Elf.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/261_Gatesage Elf.png"
 			}
 		},
 		{
@@ -515,9 +515,9 @@
 			"rarity": "special",
 			"mana_cost": "{W}{U}{B}{R}{G}",
 			"type": "Sorcery",
-			"collector_number": "351",
+			"collector_number": "527",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/351_The Ur-Dragon's Call.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/527_The Ur-Dragon's Call.png"
 			}
 		},
 		{
@@ -525,9 +525,9 @@
 			"rarity": "rare",
 			"mana_cost": "{B}{G}{U}",
 			"type": "Creature — Bear Advisor",
-			"collector_number": "205",
+			"collector_number": "295",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/205_Broker of Bare Necessities.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/295_Broker of Bare Necessities.png"
 			}
 		},
 		{
@@ -535,9 +535,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Legendary Land — Desert",
-			"collector_number": "330",
+			"collector_number": "492",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/330_Nezket, Dune Convergence.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/492_Nezket, Dune Convergence.png"
 			}
 		},
 		{
@@ -545,9 +545,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{B}",
 			"type": "Legendary Creature — Zombie",
-			"collector_number": "104",
+			"collector_number": "154",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/104_Malasekth III, The Expander.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/154_Malasekth III, The Expander.png"
 			}
 		},
 		{
@@ -555,9 +555,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land — Urza's Locus",
-			"collector_number": "346",
+			"collector_number": "516",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/346_Urza's Cloudpost.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/516_Urza's Cloudpost.png"
 			}
 		},
 		{
@@ -565,9 +565,9 @@
 			"rarity": "rare",
 			"mana_cost": "{C}{B}",
 			"type": "Enchantment — Saga",
-			"collector_number": "80",
+			"collector_number": "118",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/80_The Angriest Reaver Drone.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/118_The Angriest Reaver Drone.png"
 			}
 		},
 		{
@@ -575,9 +575,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Witch",
-			"collector_number": "112",
+			"collector_number": "165",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/112_Poppet Witch.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/165_Poppet Witch.png"
 			}
 		},
 		{
@@ -585,9 +585,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{U}{U}{B}{B}{B}{R}{R}",
 			"type": "Sorcery",
-			"collector_number": "287",
+			"collector_number": "414",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/287_Viper's Bargain.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/414_Viper's Bargain.png"
 			}
 		},
 		{
@@ -595,9 +595,9 @@
 			"rarity": "common",
 			"mana_cost": "{U}",
 			"type": "Sorcery",
-			"collector_number": "69",
+			"collector_number": "104",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/69_Submitted.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/104_Submitted.png"
 			}
 		},
 		{
@@ -605,9 +605,9 @@
 			"rarity": "rare",
 			"mana_cost": "{G}{U}{R}",
 			"type": "Enchantment — Saga",
-			"collector_number": "211",
+			"collector_number": "305",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/211_The Custom Card Contest.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/305_The Custom Card Contest.png"
 			}
 		},
 		{
@@ -615,9 +615,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{B}{B}{B}",
 			"type": "Sorcery",
-			"collector_number": "101",
+			"collector_number": "148",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/101_Hydra.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/148_Hydra.png"
 			}
 		},
 		{
@@ -625,9 +625,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{W}{W}",
 			"type": "Legendary Creature — Panda Soldier",
-			"collector_number": "11",
+			"collector_number": "14",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/11_Arsteel, Weenie Commander.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/14_Arsteel, Weenie Commander.png"
 			}
 		},
 		{
@@ -635,9 +635,9 @@
 			"rarity": "rare",
 			"mana_cost": "{G}{W}{U}",
 			"type": "Legendary Creature — Human",
-			"collector_number": "239",
+			"collector_number": "349",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/239_Maple, the Non-Fungible.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/349_Maple, the Non-Fungible.png"
 			}
 		},
 		{
@@ -645,9 +645,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{B}{G}",
 			"type": "Legendary Creature — Human Warlock",
-			"collector_number": "288",
+			"collector_number": "415",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/288_Vrolos, Grand Resurrector.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/415_Vrolos, Grand Resurrector.png"
 			}
 		},
 		{
@@ -655,9 +655,9 @@
 			"rarity": "common",
 			"mana_cost": "{5}{U}{R}",
 			"type": "Creature — Dwarf Artificer",
-			"collector_number": "226",
+			"collector_number": "333",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/226_Inventory Manager.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/333_Inventory Manager.png"
 			}
 		},
 		{
@@ -665,9 +665,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{R}",
 			"type": "Legendary Creature — Elemental Noble",
-			"collector_number": "159",
+			"collector_number": "229",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/159_Ragthrax, Lord of Flame.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/229_Ragthrax, Lord of Flame.png"
 			}
 		},
 		{
@@ -675,9 +675,9 @@
 			"rarity": "rare",
 			"mana_cost": "{B}",
 			"type": "Artifact Creature — Equipment Fungus",
-			"collector_number": "114",
+			"collector_number": "167",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/114_Putrefying Parasite.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/167_Putrefying Parasite.png"
 			}
 		},
 		{
@@ -685,9 +685,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}{G}{W}",
 			"type": "Creature — Human Artificer",
-			"collector_number": "263",
+			"collector_number": "380",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/263_Rebellious Inventor.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/380_Rebellious Inventor.png"
 			}
 		},
 		{
@@ -695,9 +695,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U}{R}",
 			"type": "Instant",
-			"collector_number": "217",
+			"collector_number": "318",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/217_Frenzied Search.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/318_Frenzied Search.png"
 			}
 		},
 		{
@@ -705,9 +705,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{W}",
 			"type": "Creature — Human Wizard",
-			"collector_number": "12",
+			"collector_number": "15",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/12_Bant Foresummoner.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/15_Bant Foresummoner.png"
 			}
 		},
 		{
@@ -715,9 +715,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}{U}",
 			"type": "Instant",
-			"collector_number": "266",
+			"collector_number": "385",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/266_Return to Nyx.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/385_Return to Nyx.png"
 			}
 		},
 		{
@@ -725,9 +725,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}{G}",
 			"type": "Creature — Jackal Warrior",
-			"collector_number": "292",
+			"collector_number": "419",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/292_Wither-Blade Khenra.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/419_Wither-Blade Khenra.png"
 			}
 		},
 		{
@@ -735,9 +735,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
 			"type": "Artifact",
-			"collector_number": "193",
+			"collector_number": "277",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/193_Tools of Recovery.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/277_Tools of Recovery.png"
 			}
 		},
 		{
@@ -745,9 +745,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Artifact Creature — Thopter",
-			"collector_number": "33",
+			"collector_number": "50",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/33_Thopter of Healing.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/50_Thopter of Healing.png"
 			}
 		},
 		{
@@ -755,9 +755,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}",
 			"type": "Artifact",
-			"collector_number": "311",
+			"collector_number": "456",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/311_Morphing Urn.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/456_Morphing Urn.png"
 			}
 		},
 		{
@@ -765,9 +765,9 @@
 			"rarity": "rare",
 			"mana_cost": "{R}",
 			"type": "Artifact",
-			"collector_number": "156",
+			"collector_number": "226",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/156_Punishment Stone.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/226_Punishment Stone.png"
 			}
 		},
 		{
@@ -775,9 +775,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{U}{U}",
 			"type": "Artifact — Equipment",
-			"collector_number": "71",
+			"collector_number": "108",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/71_Time Walkman.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/108_Time Walkman.png"
 			}
 		},
 		{
@@ -785,9 +785,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}",
 			"type": "Artifact",
-			"collector_number": "305",
+			"collector_number": "448",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/305_Force of Mobility.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/448_Force of Mobility.png"
 			}
 		},
 		{
@@ -795,9 +795,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{U}",
 			"type": "Artifact",
-			"collector_number": "54",
+			"collector_number": "81",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/54_Lo and Behold.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/81_Lo and Behold.png"
 			}
 		},
 		{
@@ -805,9 +805,9 @@
 			"rarity": "common",
 			"mana_cost": "{2G}{2G}",
 			"type": "Creature — Bear",
-			"collector_number": "197",
+			"collector_number": "282",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/197_Woodland Bears.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/282_Woodland Bears.png"
 			}
 		},
 		{
@@ -815,9 +815,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}",
 			"type": "Enchantment",
-			"collector_number": "153",
+			"collector_number": "222",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/153_Phyrexian Proclamation.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/222_Phyrexian Proclamation.png"
 			}
 		},
 		{
@@ -825,9 +825,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{G}{G}",
 			"type": "Legendary Creature — Wolf Warrior",
-			"collector_number": "182",
+			"collector_number": "262",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/182_Great Grey Wolf Sif.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/262_Great Grey Wolf Sif.png"
 			}
 		},
 		{
@@ -835,9 +835,9 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{G}{G}",
 			"type": "Creature — Hippo",
-			"collector_number": "184",
+			"collector_number": "266",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/184_Lumbering River-King.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/266_Lumbering River-King.png"
 			}
 		},
 		{
@@ -845,9 +845,9 @@
 			"rarity": "rare",
 			"mana_cost": "{5}{C}{C}",
 			"type": "Legendary Creature — Eldrazi",
-			"collector_number": "5",
+			"collector_number": "7",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/5_Izekul, Waste Spreader.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/7_Izekul, Waste Spreader.png"
 			}
 		},
 		{
@@ -855,9 +855,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}{B}",
 			"type": "Sorcery",
-			"collector_number": "91",
+			"collector_number": "131",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/91_Dead or Alive.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/131_Dead or Alive.png"
 			}
 		},
 		{
@@ -865,9 +865,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{W}{B}{G}",
 			"type": "Instant",
-			"collector_number": "218",
+			"collector_number": "322",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/218_Glorious Bounty.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/322_Glorious Bounty.png"
 			}
 		},
 		{
@@ -875,9 +875,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}",
 			"type": "Artifact",
-			"collector_number": "301",
+			"collector_number": "440",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/301_Bounty Board.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/440_Bounty Board.png"
 			}
 		},
 		{
@@ -885,9 +885,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{6}{U}{U}{R}{R}",
 			"type": "Legendary Creature — Kraken God",
-			"collector_number": "241",
+			"collector_number": "352",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/241_Merysk, Perpetual Storm.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/352_Merysk, Perpetual Storm.png"
 			}
 		},
 		{
@@ -895,9 +895,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{X}{G}",
 			"type": "Creature — Snake Hydra Mutant",
-			"collector_number": "191",
+			"collector_number": "275",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/191_Symbiotic Hydroid.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/275_Symbiotic Hydroid.png"
 			}
 		},
 		{
@@ -905,9 +905,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{B}{G}{U}",
 			"type": "Legendary Creature — Shade Ooze",
-			"collector_number": "204",
+			"collector_number": "294",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/204_The Broken Vessel.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/294_The Broken Vessel.png"
 			}
 		},
 		{
@@ -915,9 +915,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Legendary Land",
-			"collector_number": "318",
+			"collector_number": "472",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/318_Azerverl, Soul of Sands.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/472_Azerverl, Soul of Sands.png"
 			}
 		},
 		{
@@ -925,9 +925,9 @@
 			"rarity": "rare",
 			"mana_cost": "{G}{G}{G}{G}",
 			"type": "Creature — Beast",
-			"collector_number": "174",
+			"collector_number": "252",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/174_Chasmfiend.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/252_Chasmfiend.png"
 			}
 		},
 		{
@@ -935,9 +935,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U}",
 			"type": "Sorcery",
-			"collector_number": "56",
+			"collector_number": "84",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/56_Metacognition.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/84_Metacognition.png"
 			}
 		},
 		{
@@ -945,9 +945,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Zombie",
-			"collector_number": "115",
+			"collector_number": "168",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/115_Reassembling Scaab.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/168_Reassembling Scaab.png"
 			}
 		},
 		{
@@ -955,9 +955,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{X}{U}{B}{B}",
 			"type": "Instant",
-			"collector_number": "264",
+			"collector_number": "381",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/264_Relive the Nightmares.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/381_Relive the Nightmares.png"
 			}
 		},
 		{
@@ -965,9 +965,9 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{B}{B}",
 			"type": "Creature — Demon",
-			"collector_number": "92",
+			"collector_number": "133",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/92_Demon of Forgotten Desires.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/133_Demon of Forgotten Desires.png"
 			}
 		},
 		{
@@ -975,9 +975,9 @@
 			"rarity": "rare",
 			"mana_cost": "{X}{X}{G}{G}",
 			"type": "Instant",
-			"collector_number": "185",
+			"collector_number": "267",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/185_Might of the Ancestors.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/267_Might of the Ancestors.png"
 			}
 		},
 		{
@@ -985,9 +985,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{G}",
 			"type": "Creature — Fungus",
-			"collector_number": "170",
+			"collector_number": "244",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/170_Always-Useful Fungus.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/244_Always-Useful Fungus.png"
 			}
 		},
 		{
@@ -995,9 +995,9 @@
 			"rarity": "rare",
 			"mana_cost": "{6}{B}",
 			"type": "Sorcery",
-			"collector_number": "95",
+			"collector_number": "136",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/95_Devastating Plague.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/136_Devastating Plague.png"
 			}
 		},
 		{
@@ -1005,9 +1005,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}{B}",
 			"type": "Creature — Zombie Cleric",
-			"collector_number": "230",
+			"collector_number": "338",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/230_Judge of Life and Death.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/338_Judge of Life and Death.png"
 			}
 		},
 		{
@@ -1015,9 +1015,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{BP}",
 			"type": "Artifact",
-			"collector_number": "107",
+			"collector_number": "159",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/107_Necromancer's Tome.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/159_Necromancer's Tome.png"
 			}
 		},
 		{
@@ -1025,9 +1025,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{U}{B}",
 			"type": "Legendary Artifact",
-			"collector_number": "247",
+			"collector_number": "359",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/247_Nevinyrral's Tome.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/359_Nevinyrral's Tome.png"
 			}
 		},
 		{
@@ -1035,9 +1035,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{BG}",
 			"type": "Legendary Creature — Elder Insect",
-			"collector_number": "295",
+			"collector_number": "423",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/295_Asavah, Titan of the Swarm.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/423_Asavah, Titan of the Swarm.png"
 			}
 		},
 		{
@@ -1045,9 +1045,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Jackal Wizard",
-			"collector_number": "35",
+			"collector_number": "52",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/35_Wrapcaster Mage.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/52_Wrapcaster Mage.png"
 			}
 		},
 		{
@@ -1055,9 +1055,9 @@
 			"rarity": "rare",
 			"mana_cost": "{B}{B}",
 			"type": "Sorcery",
-			"collector_number": "102",
+			"collector_number": "152",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/102_Lich's Restoration.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/152_Lich's Restoration.png"
 			}
 		},
 		{
@@ -1065,9 +1065,9 @@
 			"rarity": "rare",
 			"mana_cost": "{U}",
 			"type": "Enchantment — Class",
-			"collector_number": "38",
+			"collector_number": "55",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/38_Alchemist.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/55_Alchemist.png"
 			}
 		},
 		{
@@ -1075,9 +1075,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{R}{G}{W}",
 			"type": "Enchantment — Class",
-			"collector_number": "201",
+			"collector_number": "289",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/201_Ally Class.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/289_Ally Class.png"
 			}
 		},
 		{
@@ -1085,9 +1085,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}",
 			"type": "Enchantment — Class",
-			"collector_number": "81",
+			"collector_number": "119",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/81_Assassin Class.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/119_Assassin Class.png"
 			}
 		},
 		{
@@ -1095,9 +1095,9 @@
 			"rarity": "common",
 			"mana_cost": "{G}",
 			"type": "Enchantment — Class",
-			"collector_number": "172",
+			"collector_number": "249",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/172_Biomancer Class.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/249_Biomancer Class.png"
 			}
 		},
 		{
@@ -1105,9 +1105,9 @@
 			"rarity": "rare",
 			"mana_cost": "{R}",
 			"type": "Enchantment — Class",
-			"collector_number": "152",
+			"collector_number": "219",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/152_Merchant Class.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/219_Merchant Class.png"
 			}
 		},
 		{
@@ -1115,9 +1115,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}",
 			"type": "Artifact Creature — Golem Warrior",
-			"collector_number": "308",
+			"collector_number": "452",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/308_Golem Guard.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/452_Golem Guard.png"
 			}
 		},
 		{
@@ -1125,9 +1125,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}{B}",
 			"type": "Creature — Horror Zombie",
-			"collector_number": "121",
+			"collector_number": "175",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/121_Stalker of Vast Reaches.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/175_Stalker of Vast Reaches.png"
 			}
 		},
 		{
@@ -1135,9 +1135,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{G}{G}",
 			"type": "Creature — Spider",
-			"collector_number": "190",
+			"collector_number": "273",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/190_Spawning Spider.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/273_Spawning Spider.png"
 			}
 		},
 		{
@@ -1145,9 +1145,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Creature — Horror",
-			"collector_number": "122",
+			"collector_number": "177",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/122_Thing from the Swamp.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/177_Thing from the Swamp.png"
 			}
 		},
 		{
@@ -1155,9 +1155,9 @@
 			"rarity": "rare",
 			"mana_cost": "{B}",
 			"type": "Sorcery",
-			"collector_number": "79",
+			"collector_number": "117",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/79_All for Nothing.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/117_All for Nothing.png"
 			}
 		},
 		{
@@ -1165,9 +1165,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Goblin",
-			"collector_number": "145",
+			"collector_number": "209",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/145_Gold-Cursed Goblin.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/209_Gold-Cursed Goblin.png"
 			}
 		},
 		{
@@ -1175,9 +1175,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}{R}",
 			"type": "Creature — Dragon",
-			"collector_number": "133",
+			"collector_number": "195",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/133_Chimney Dragon.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/195_Chimney Dragon.png"
 			}
 		},
 		{
@@ -1185,9 +1185,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{U}{U}",
 			"type": "Creature — Whale",
-			"collector_number": "43",
+			"collector_number": "64",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/43_Dovin's Aether Whales.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/64_Dovin's Aether Whales.png"
 			}
 		},
 		{
@@ -1195,9 +1195,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{4}{U}{U}{U}",
 			"type": "Legendary Creature — Human Wizard",
-			"collector_number": "49",
+			"collector_number": "71",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/49_Geralf, the Stitcher.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/71_Geralf, the Stitcher.png"
 			}
 		},
 		{
@@ -1205,9 +1205,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Fish",
-			"collector_number": "65",
+			"collector_number": "97",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/65_Sea Skipper.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/97_Sea Skipper.png"
 			}
 		},
 		{
@@ -1215,9 +1215,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Enchantment",
-			"collector_number": "17",
+			"collector_number": "20",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/17_Chromatic Seal.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/20_Chromatic Seal.png"
 			}
 		},
 		{
@@ -1225,9 +1225,9 @@
 			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Enchantment",
-			"collector_number": "134",
+			"collector_number": "196",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/134_Countdown.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/196_Countdown.png"
 			}
 		},
 		{
@@ -1235,9 +1235,9 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{W}",
 			"type": "Creature — Human Knight",
-			"collector_number": "19",
+			"collector_number": "22",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/19_Courageous Knight.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/22_Courageous Knight.png"
 			}
 		},
 		{
@@ -1245,9 +1245,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}",
 			"type": "Artifact Creature — Construct",
-			"collector_number": "303",
+			"collector_number": "446",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/303_Demonstration Aide.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/446_Demonstration Aide.png"
 			}
 		},
 		{
@@ -1255,9 +1255,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{U}{R}",
 			"type": "Creature — Dragon",
-			"collector_number": "214",
+			"collector_number": "311",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/214_Dragon Messengers.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/311_Dragon Messengers.png"
 			}
 		},
 		{
@@ -1265,9 +1265,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{4}",
 			"type": "Artifact — Junk",
-			"collector_number": "304",
+			"collector_number": "447",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/304_Endless Scrap Heap.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/447_Endless Scrap Heap.png"
 			}
 		},
 		{
@@ -1275,9 +1275,9 @@
 			"rarity": "rare",
 			"mana_cost": "{U}{U}",
 			"type": "Instant",
-			"collector_number": "44",
+			"collector_number": "65",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/44_Epiphany.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/65_Epiphany.png"
 			}
 		},
 		{
@@ -1285,9 +1285,9 @@
 			"rarity": "rare",
 			"mana_cost": "{B}{R}",
 			"type": "Creature — Goblin Bard",
-			"collector_number": "219",
+			"collector_number": "324",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/219_Goblin Storyteller.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/324_Goblin Storyteller.png"
 			}
 		},
 		{
@@ -1295,9 +1295,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}{W}",
 			"type": "Legendary Creature — Human Warrior",
-			"collector_number": "231",
+			"collector_number": "340",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/231_La Hire.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/340_La Hire.png"
 			}
 		},
 		{
@@ -1305,9 +1305,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{B}{B}{B}",
 			"type": "Enchantment",
-			"collector_number": "105",
+			"collector_number": "155",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/105_Mana Erosion.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/155_Mana Erosion.png"
 			}
 		},
 		{
@@ -1315,9 +1315,9 @@
 			"rarity": "rare",
 			"mana_cost": "{B}{B}{B}",
 			"type": "Sorcery",
-			"collector_number": "111",
+			"collector_number": "163",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/111_One with Nothingness.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/163_One with Nothingness.png"
 			}
 		},
 		{
@@ -1325,9 +1325,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{4}{U}{R}",
 			"type": "Creature — Elemental",
-			"collector_number": "259",
+			"collector_number": "376",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/259_Prophet of Thunder.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/376_Prophet of Thunder.png"
 			}
 		},
 		{
@@ -1335,9 +1335,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}{B}{R}",
 			"type": "Instant",
-			"collector_number": "265",
+			"collector_number": "382",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/265_Remove All Traces.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/382_Remove All Traces.png"
 			}
 		},
 		{
@@ -1345,9 +1345,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
 			"type": "Artifact Creature — Human Soldier",
-			"collector_number": "29",
+			"collector_number": "42",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/29_Resonant Sentries.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/42_Resonant Sentries.png"
 			}
 		},
 		{
@@ -1355,9 +1355,9 @@
 			"rarity": "common",
 			"mana_cost": "{0}",
 			"type": "Creature — Snake Insect",
-			"collector_number": "6",
+			"collector_number": "8",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/6_Snake Catepillar.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/8_Snake Catepillar.png"
 			}
 		},
 		{
@@ -1365,9 +1365,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}{U}",
 			"type": "Sorcery",
-			"collector_number": "70",
+			"collector_number": "105",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/70_Subtracti[ ]V[ ]e[ ]text[ ].png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/105_Subtracti[ ]V[ ]e[ ]text[ ].png"
 			}
 		},
 		{
@@ -1375,9 +1375,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}{G}",
 			"type": "Enchantment — Aura",
-			"collector_number": "282",
+			"collector_number": "406",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/282_Surprise Kiss.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/406_Surprise Kiss.png"
 			}
 		},
 		{
@@ -1385,9 +1385,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}{U}",
 			"type": "Instant",
-			"collector_number": "283",
+			"collector_number": "408",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/283_Sweeping Denial.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/408_Sweeping Denial.png"
 			}
 		},
 		{
@@ -1395,9 +1395,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G}{U}",
 			"type": "Instant",
-			"collector_number": "286",
+			"collector_number": "411",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/286_UG Utility Spell.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/411_UG Utility Spell.png"
 			}
 		},
 		{
@@ -1405,9 +1405,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}{U}",
 			"type": "Instant",
-			"collector_number": "73",
+			"collector_number": "110",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/73_Unprompted Advance.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/110_Unprompted Advance.png"
 			}
 		},
 		{
@@ -1415,9 +1415,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Shapeshifter Ooze",
-			"collector_number": "75",
+			"collector_number": "112",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/75_Volatile Ooze.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/112_Volatile Ooze.png"
 			}
 		},
 		{
@@ -1425,9 +1425,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Sorcery — Follow-up",
-			"collector_number": "14",
+			"collector_number": "17",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/14_Benevolent Blessing.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/17_Benevolent Blessing.png"
 			}
 		},
 		{
@@ -1435,9 +1435,9 @@
 			"rarity": "rare",
 			"mana_cost": "{U}",
 			"type": "Instant — Follow-up",
-			"collector_number": "42",
+			"collector_number": "63",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/42_Double-Dip.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/63_Double-Dip.png"
 			}
 		},
 		{
@@ -1445,9 +1445,9 @@
 			"rarity": "rare",
 			"mana_cost": "{B}",
 			"type": "Sorcery — Follow-up",
-			"collector_number": "93",
+			"collector_number": "134",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/93_Demonic Gift.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/134_Demonic Gift.png"
 			}
 		},
 		{
@@ -1455,9 +1455,9 @@
 			"rarity": "rare",
 			"mana_cost": "{R}",
 			"type": "Sorcery — Follow-up",
-			"collector_number": "144",
+			"collector_number": "208",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/144_Goblin Cavaclade.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/208_Goblin Cavaclade.png"
 			}
 		},
 		{
@@ -1465,9 +1465,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}{G}",
 			"type": "Sorcery — Follow-up",
-			"collector_number": "187",
+			"collector_number": "270",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/187_Predatory Might.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/270_Predatory Might.png"
 			}
 		},
 		{
@@ -1475,9 +1475,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{W}{B}",
 			"type": "Sorcery — Incantation",
-			"collector_number": "225",
+			"collector_number": "332",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/225_Inkling Summons.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/332_Inkling Summons.png"
 			}
 		},
 		{
@@ -1485,9 +1485,9 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{U}{U}{U}",
 			"type": "Instant — Cosmic",
-			"collector_number": "72",
+			"collector_number": "109",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/72_Undo Reality.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/109_Undo Reality.png"
 			}
 		},
 		{
@@ -1495,9 +1495,9 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{R}{R}",
 			"type": "Instant — Trap",
-			"collector_number": "125",
+			"collector_number": "183",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/125_Ambush Trap.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/183_Ambush Trap.png"
 			}
 		},
 		{
@@ -1505,9 +1505,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U}{U}{U}",
 			"type": "Instant — Trap",
-			"collector_number": "61",
+			"collector_number": "93",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/61_Quell.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/93_Quell.png"
 			}
 		},
 		{
@@ -1515,9 +1515,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{R}",
 			"type": "Instant — Magnetic",
-			"collector_number": "137",
+			"collector_number": "200",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/137_Electro-Static-Tricity.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/200_Electro-Static-Tricity.png"
 			}
 		},
 		{
@@ -1525,9 +1525,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Instant — Trap",
-			"collector_number": "46",
+			"collector_number": "67",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/46_Fall into Dreams.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/67_Fall into Dreams.png"
 			}
 		},
 		{
@@ -1535,9 +1535,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{W}{W}",
 			"type": "Instant — Trap",
-			"collector_number": "31",
+			"collector_number": "48",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/31_Teferi's Trap.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/48_Teferi's Trap.png"
 			}
 		},
 		{
@@ -1545,9 +1545,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{R}",
 			"type": "Sorcery — Lesson",
-			"collector_number": "127",
+			"collector_number": "186",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/127_BanBans Lesson.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/186_BanBans Lesson.png"
 			}
 		},
 		{
@@ -1555,9 +1555,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{G}{W}",
 			"type": "Sorcery — Lesson",
-			"collector_number": "222",
+			"collector_number": "328",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/222_Gym Class.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/328_Gym Class.png"
 			}
 		},
 		{
@@ -1565,9 +1565,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}{W}",
 			"type": "Sorcery — Lesson",
-			"collector_number": "13",
+			"collector_number": "16",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/13_Battlefield Scavenging.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/16_Battlefield Scavenging.png"
 			}
 		},
 		{
@@ -1575,9 +1575,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{R}",
 			"type": "Kindred Instant — Dragon",
-			"collector_number": "169",
+			"collector_number": "243",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/169_Wrath of the Dragons.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/243_Wrath of the Dragons.png"
 			}
 		},
 		{
@@ -1585,9 +1585,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}",
 			"type": "Instant — Formula",
-			"collector_number": "27",
+			"collector_number": "37",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/27_Perfected Reality Excision.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/37_Perfected Reality Excision.png"
 			}
 		},
 		{
@@ -1595,9 +1595,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}{B}",
 			"type": "Enchantment",
-			"collector_number": "279",
+			"collector_number": "403",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/279_Strands of Shadow.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/403_Strands of Shadow.png"
 			}
 		},
 		{
@@ -1605,9 +1605,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{R}",
 			"type": "Creature — Human Pirate Artificer",
-			"collector_number": "216",
+			"collector_number": "315",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/216_Filigree Filibuster.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/315_Filigree Filibuster.png"
 			}
 		},
 		{
@@ -1615,9 +1615,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}{W}",
 			"type": "Creature — Human Knight",
-			"collector_number": "274",
+			"collector_number": "394",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/274_Sigardian Vanguard.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/394_Sigardian Vanguard.png"
 			}
 		},
 		{
@@ -1625,9 +1625,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}{R}",
 			"type": "Legendary Creature — Ogre Warrior",
-			"collector_number": "262",
+			"collector_number": "379",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/262_Rax, Sawtooth Boss.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/379_Rax, Sawtooth Boss.png"
 			}
 		},
 		{
@@ -1635,9 +1635,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}{G}",
 			"type": "Creature — Shaman",
-			"collector_number": "277",
+			"collector_number": "399",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/277_Snagwood Shaman.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/399_Snagwood Shaman.png"
 			}
 		},
 		{
@@ -1645,9 +1645,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}{G}",
 			"type": "Legendary Creature — Human Witch",
-			"collector_number": "221",
+			"collector_number": "327",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/221_Grisilda, Mayor of Sweettooth.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/327_Grisilda, Mayor of Sweettooth.png"
 			}
 		},
 		{
@@ -1655,9 +1655,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{9}",
 			"type": "Creature — Eldrazi Plant",
-			"collector_number": "4",
+			"collector_number": "6",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/4_Enslaved Estuary.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/6_Enslaved Estuary.png"
 			}
 		},
 		{
@@ -1665,9 +1665,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{B}",
 			"type": "Creature — Human Rogue",
-			"collector_number": "213",
+			"collector_number": "307",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/213_Death Augur.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/307_Death Augur.png"
 			}
 		},
 		{
@@ -1675,9 +1675,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}{U}",
 			"type": "Creature — Human Wizard",
-			"collector_number": "198",
+			"collector_number": "286",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/198_Adventuring Sage.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/286_Adventuring Sage.png"
 			}
 		},
 		{
@@ -1685,9 +1685,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}{R}",
 			"type": "Legendary Creature — Orc Shaman",
-			"collector_number": "268",
+			"collector_number": "388",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/268_Rootha, Tenured Tutor.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/388_Rootha, Tenured Tutor.png"
 			}
 		},
 		{
@@ -1695,9 +1695,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{X}{G}{U}",
 			"type": "Creature — Elf Warrior Ally",
-			"collector_number": "276",
+			"collector_number": "398",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/276_Skyrider Protector.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/398_Skyrider Protector.png"
 			}
 		},
 		{
@@ -1705,9 +1705,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}{G}",
 			"type": "Sorcery",
-			"collector_number": "256",
+			"collector_number": "372",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/256_Pest Rain.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/372_Pest Rain.png"
 			}
 		},
 		{
@@ -1715,9 +1715,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{U}{R}",
 			"type": "Creature — Human Shaman",
-			"collector_number": "270",
+			"collector_number": "390",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/270_Shaman of the Flames.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/390_Shaman of the Flames.png"
 			}
 		},
 		{
@@ -1725,9 +1725,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}{W}",
 			"type": "Legendary Creature — Human Clown Artificer",
-			"collector_number": "232",
+			"collector_number": "341",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/232_Lando, the Perfectionist.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/341_Lando, the Perfectionist.png"
 			}
 		},
 		{
@@ -1735,9 +1735,9 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{U}{R}{W}",
 			"type": "Legendary Creature — Human Rogue",
-			"collector_number": "250",
+			"collector_number": "364",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/250_Ondy, Scavenging Trader.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/364_Ondy, Scavenging Trader.png"
 			}
 		},
 		{
@@ -1745,9 +1745,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{5}{G}{G}",
 			"type": "Enchantment",
-			"collector_number": "195",
+			"collector_number": "280",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/195_Virtue of Creation.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/280_Virtue of Creation.png"
 			}
 		},
 		{
@@ -1755,9 +1755,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}{U}",
 			"type": "Enchantment Creature — Spirit",
-			"collector_number": "235",
+			"collector_number": "344",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/235_Lightbound Sprite.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/344_Lightbound Sprite.png"
 			}
 		},
 		{
@@ -1765,9 +1765,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{B}{B}{B}",
 			"type": "Enchantment",
-			"collector_number": "103",
+			"collector_number": "153",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/103_Locthwain Ascendancy.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/153_Locthwain Ascendancy.png"
 			}
 		},
 		{
@@ -1775,9 +1775,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{B}{G}",
 			"type": "Legendary Enchantment Creature — God",
-			"collector_number": "257",
+			"collector_number": "373",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/257_Pharika, Blight-Blessed.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/373_Pharika, Blight-Blessed.png"
 			}
 		},
 		{
@@ -1785,9 +1785,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{W}{W}",
 			"type": "Creature — Human Spellshaper",
-			"collector_number": "8",
+			"collector_number": "11",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/8_Alchemist Prodigy.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/11_Alchemist Prodigy.png"
 			}
 		},
 		{
@@ -1795,9 +1795,9 @@
 			"rarity": "rare",
 			"mana_cost": "{UB}{UB}{W}",
 			"type": "World Enchantment",
-			"collector_number": "294",
+			"collector_number": "422",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/294_Alela's Festival.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/422_Alela's Festival.png"
 			}
 		},
 		{
@@ -1805,9 +1805,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Bird Cat",
-			"collector_number": "10",
+			"collector_number": "13",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/10_Aparchet's Familiar.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/13_Aparchet's Familiar.png"
 			}
 		},
 		{
@@ -1815,9 +1815,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{4}{W}{B}{G}",
 			"type": "Enchantment — Saga",
-			"collector_number": "208",
+			"collector_number": "302",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/208_The Creation of the Nyxborn.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/302_The Creation of the Nyxborn.png"
 			}
 		},
 		{
@@ -1825,9 +1825,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}",
 			"type": "World Kindred Enchantment — Horse",
-			"collector_number": "7",
+			"collector_number": "9",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/7_Space Derby.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/9_Space Derby.png"
 			}
 		},
 		{
@@ -1835,9 +1835,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{U}{U}{B}",
 			"type": "Enchantment — Saga",
-			"collector_number": "280",
+			"collector_number": "404",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/280_A Strange Dream.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/404_A Strange Dream.png"
 			}
 		},
 		{
@@ -1845,9 +1845,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{U}{B}",
 			"type": "Creature — Merfolk Warlock",
-			"collector_number": "210",
+			"collector_number": "304",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/210_Curse Broker.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/304_Curse Broker.png"
 			}
 		},
 		{
@@ -1855,9 +1855,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{WB}{BG}{GW}",
 			"type": "Legendary Enchantment",
-			"collector_number": "299",
+			"collector_number": "436",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/299_Starfield Alignment.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/436_Starfield Alignment.png"
 			}
 		},
 		{
@@ -1865,9 +1865,9 @@
 			"rarity": "rare",
 			"mana_cost": "{R}{G}",
 			"type": "Enchantment",
-			"collector_number": "285",
+			"collector_number": "410",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/285_Towards Beyond.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/410_Towards Beyond.png"
 			}
 		},
 		{
@@ -1875,9 +1875,9 @@
 			"rarity": "common",
 			"mana_cost": "{U}{U}",
 			"type": "Creature — Merfolk Wizard",
-			"collector_number": "59",
+			"collector_number": "90",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/59_Pestersage.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/90_Pestersage.png"
 			}
 		},
 		{
@@ -1885,9 +1885,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{U}{U}",
 			"type": "Creature — Elemental Wizard",
-			"collector_number": "76",
+			"collector_number": "113",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/76_Waterdeep Archmage.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/113_Waterdeep Archmage.png"
 			}
 		},
 		{
@@ -1895,9 +1895,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Enchantment Creature — Spirit",
-			"collector_number": "58",
+			"collector_number": "88",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/58_Nimbus Eidolon.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/88_Nimbus Eidolon.png"
 			}
 		},
 		{
@@ -1905,9 +1905,9 @@
 			"rarity": "common",
 			"mana_cost": "{U}",
 			"type": "Artifact",
-			"collector_number": "68",
+			"collector_number": "102",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/68_Sorcerer's Umbrella.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/102_Sorcerer's Umbrella.png"
 			}
 		},
 		{
@@ -1915,9 +1915,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Aetherborn Rogue",
-			"collector_number": "109",
+			"collector_number": "161",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/109_Night Market Smuggler.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/161_Night Market Smuggler.png"
 			}
 		},
 		{
@@ -1925,9 +1925,9 @@
 			"rarity": "common",
 			"mana_cost": "{BG}",
 			"type": "Creature — Insect",
-			"collector_number": "297",
+			"collector_number": "430",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/297_Golgari Terror Mites.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/430_Golgari Terror Mites.png"
 			}
 		},
 		{
@@ -1935,9 +1935,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Skeleton Knight",
-			"collector_number": "99",
+			"collector_number": "146",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/99_Hankon's Paladin.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/146_Hankon's Paladin.png"
 			}
 		},
 		{
@@ -1945,9 +1945,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Knight",
-			"collector_number": "15",
+			"collector_number": "18",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/15_Carcosan Guard.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/18_Carcosan Guard.png"
 			}
 		},
 		{
@@ -1955,9 +1955,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{R}",
 			"type": "Creature — Human Warrior",
-			"collector_number": "129",
+			"collector_number": "188",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/129_Barroom Brawler.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/188_Barroom Brawler.png"
 			}
 		},
 		{
@@ -1965,9 +1965,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Sorcery",
-			"collector_number": "131",
+			"collector_number": "191",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/131_Beneath the Brain.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/191_Beneath the Brain.png"
 			}
 		},
 		{
@@ -1975,9 +1975,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Human Cleric",
-			"collector_number": "26",
+			"collector_number": "35",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/26_Mentor of Errantry.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/35_Mentor of Errantry.png"
 			}
 		},
 		{
@@ -1985,9 +1985,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Spirit Detective",
-			"collector_number": "63",
+			"collector_number": "95",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/63_Restless Spook.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/95_Restless Spook.png"
 			}
 		},
 		{
@@ -1995,9 +1995,9 @@
 			"rarity": "common",
 			"mana_cost": "{G}",
 			"type": "Creature — Human Druid",
-			"collector_number": "173",
+			"collector_number": "250",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/173_Bitter Hermit.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/250_Bitter Hermit.png"
 			}
 		},
 		{
@@ -2005,9 +2005,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Instant",
-			"collector_number": "123",
+			"collector_number": "178",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/123_Uncover the Truth.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/178_Uncover the Truth.png"
 			}
 		},
 		{
@@ -2015,9 +2015,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{8}{U}{R}",
 			"type": "Legendary Creature — Human Bard",
-			"collector_number": "289",
+			"collector_number": "416",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/289_Wang Chung.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/416_Wang Chung.png"
 			}
 		},
 		{
@@ -2025,9 +2025,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{U}",
 			"type": "Instant",
-			"collector_number": "74",
+			"collector_number": "111",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/74_Untitled Sonata.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/111_Untitled Sonata.png"
 			}
 		},
 		{
@@ -2035,9 +2035,9 @@
 			"rarity": "common",
 			"mana_cost": "{B}{B}",
 			"type": "Creature — Rat Bard",
-			"collector_number": "86",
+			"collector_number": "125",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/86_Bugler Rat.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/125_Bugler Rat.png"
 			}
 		},
 		{
@@ -2045,9 +2045,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{U}{B}{B}",
 			"type": "Sorcery",
-			"collector_number": "275",
+			"collector_number": "397",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/275_Skyfall.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/397_Skyfall.png"
 			}
 		},
 		{
@@ -2055,9 +2055,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{W}{U}",
 			"type": "Legendary Artifact — Equipment",
-			"collector_number": "237",
+			"collector_number": "346",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/237_The Magic Flute.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/346_The Magic Flute.png"
 			}
 		},
 		{
@@ -2065,9 +2065,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}{G}",
 			"type": "Creature — Troll Bard",
-			"collector_number": "176",
+			"collector_number": "255",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/176_Discordant Monstro.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/255_Discordant Monstro.png"
 			}
 		},
 		{
@@ -2075,9 +2075,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{R}{G}{W}",
 			"type": "Enchantment",
-			"collector_number": "212",
+			"collector_number": "306",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/212_Dancing in September.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/306_Dancing in September.png"
 			}
 		},
 		{
@@ -2085,9 +2085,9 @@
 			"rarity": "rare",
 			"mana_cost": "{X}{U}{U}",
 			"type": "Enchantment — Aura",
-			"collector_number": "53",
+			"collector_number": "80",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/53_Leitmotif.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/80_Leitmotif.png"
 			}
 		},
 		{
@@ -2095,9 +2095,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{R}{R}",
 			"type": "Battle — Contest",
-			"collector_number": "130",
+			"collector_number": "189",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/130_Battle of the Bands.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/189_Battle of the Bands.png"
 			}
 		},
 		{
@@ -2105,9 +2105,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Enchantment — Aura",
-			"collector_number": "67",
+			"collector_number": "99",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/67_Sing.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/99_Sing.png"
 			}
 		},
 		{
@@ -2115,9 +2115,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Human Wizard",
-			"collector_number": "57",
+			"collector_number": "85",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/57_Most Perfect Idol.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/85_Most Perfect Idol.png"
 			}
 		},
 		{
@@ -2125,9 +2125,9 @@
 			"rarity": "rare",
 			"mana_cost": "{5}{R}{W}",
 			"type": "Sorcery",
-			"collector_number": "245",
+			"collector_number": "356",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/245_A Mothers Wrath.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/356_A Mothers Wrath.png"
 			}
 		},
 		{
@@ -2135,9 +2135,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{4}{C}{C}{G}{G}",
 			"type": "Legendary Creature — Eldrazi Idol",
-			"collector_number": "186",
+			"collector_number": "268",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/186_Ninomae Ina'nis.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/268_Ninomae Ina'nis.png"
 			}
 		},
 		{
@@ -2145,9 +2145,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Sorcery",
-			"collector_number": "163",
+			"collector_number": "234",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/163_Stone Rain.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/234_Stone Rain.png"
 			}
 		},
 		{
@@ -2155,9 +2155,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{B}{B}",
 			"type": "Legendary Creature — Skeleton Idol",
-			"collector_number": "87",
+			"collector_number": "127",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/87_Calliope Mori.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/127_Calliope Mori.png"
 			}
 		},
 		{
@@ -2165,9 +2165,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{W}",
 			"type": "Legendary Creature — Human Detective Idol",
-			"collector_number": "9",
+			"collector_number": "12",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/9_Amelia Watson.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/12_Amelia Watson.png"
 			}
 		},
 		{
@@ -2175,9 +2175,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{4}{U}{U}",
 			"type": "Legendary Creature — Shark Idol",
-			"collector_number": "48",
+			"collector_number": "70",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/48_Gawr Gura.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/70_Gawr Gura.png"
 			}
 		},
 		{
@@ -2185,9 +2185,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{R}{R}",
 			"type": "Legendary Creature — Phoenix Idol",
-			"collector_number": "164",
+			"collector_number": "237",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/164_Takanashi Kiara.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/237_Takanashi Kiara.png"
 			}
 		},
 		{
@@ -2195,9 +2195,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{7}{B}{G}{U}",
 			"type": "Legendary Creature — Elder God",
-			"collector_number": "209",
+			"collector_number": "303",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/209_Cthulu, the Great Dreamer.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/303_Cthulu, the Great Dreamer.png"
 			}
 		},
 		{
@@ -2205,9 +2205,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{R}{W}{B}",
 			"type": "Legendary Creature — Elder God",
-			"collector_number": "223",
+			"collector_number": "329",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/223_Hastur, King in Yellow.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/329_Hastur, King in Yellow.png"
 			}
 		},
 		{
@@ -2215,9 +2215,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{4}{U}{R}{W}",
 			"type": "Legendary Creature — Elder God",
-			"collector_number": "249",
+			"collector_number": "361",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/249_Nyarlathotep, Crawling Chaos.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/361_Nyarlathotep, Crawling Chaos.png"
 			}
 		},
 		{
@@ -2225,9 +2225,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{4}{G}{U}{R}",
 			"type": "Legendary Creature — Elder God",
-			"collector_number": "293",
+			"collector_number": "420",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/293_Yog-Sothoth, Key and Gate.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/420_Yog-Sothoth, Key and Gate.png"
 			}
 		},
 		{
@@ -2235,9 +2235,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{6}{W}{B}{G}",
 			"type": "Legendary Creature — Elder God",
-			"collector_number": "272",
+			"collector_number": "392",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/272_Shub-Niggurath, All Mother.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/392_Shub-Niggurath, All Mother.png"
 			}
 		},
 		{
@@ -2245,9 +2245,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{13}",
 			"type": "Legendary Creature — Eldrazi",
-			"collector_number": "1",
+			"collector_number": "2",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/1_Cthulu, Awoken.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/2_Cthulu, Awoken.png"
 			}
 		},
 		{
@@ -2255,9 +2255,9 @@
 			"rarity": "rare",
 			"mana_cost": "{B}{B}",
 			"type": "Instant",
-			"collector_number": "98",
+			"collector_number": "143",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/98_Frenzy.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/143_Frenzy.png"
 			}
 		},
 		{
@@ -2265,9 +2265,9 @@
 			"rarity": "rare",
 			"mana_cost": "{U}{B}",
 			"type": "Creature — Horror",
-			"collector_number": "260",
+			"collector_number": "377",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/260_Prowling Amygdala.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/377_Prowling Amygdala.png"
 			}
 		},
 		{
@@ -2275,9 +2275,9 @@
 			"rarity": "rare",
 			"mana_cost": "{B}{B}{G}",
 			"type": "Enchantment",
-			"collector_number": "224",
+			"collector_number": "330",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/224_The Hunt.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/330_The Hunt.png"
 			}
 		},
 		{
@@ -2285,9 +2285,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Legendary Land",
-			"collector_number": "349",
+			"collector_number": "522",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/349_Yharnam.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/522_Yharnam.png"
 			}
 		},
 		{
@@ -2295,9 +2295,9 @@
 			"rarity": "rare",
 			"mana_cost": "{B}{R}",
 			"type": "Sorcery",
-			"collector_number": "203",
+			"collector_number": "291",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/203_Beast Blood Pellets.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/291_Beast Blood Pellets.png"
 			}
 		},
 		{
@@ -2305,9 +2305,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{R}",
 			"type": "Enchantment",
-			"collector_number": "132",
+			"collector_number": "192",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/132_Blood Moon.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/192_Blood Moon.png"
 			}
 		},
 		{
@@ -2315,9 +2315,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}",
 			"type": "Creature — Human Warrior",
-			"collector_number": "148",
+			"collector_number": "214",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/148_Keshik.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/214_Keshik.png"
 			}
 		},
 		{
@@ -2325,9 +2325,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}{R}",
 			"type": "Creature — Human Archer",
-			"collector_number": "151",
+			"collector_number": "218",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/151_Mangudai.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/218_Mangudai.png"
 			}
 		},
 		{
@@ -2335,9 +2335,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Human Warrior",
-			"collector_number": "166",
+			"collector_number": "239",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/166_Tarkan.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/239_Tarkan.png"
 			}
 		},
 		{
@@ -2345,9 +2345,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Instant",
-			"collector_number": "140",
+			"collector_number": "204",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/140_Feigned Retreat.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/204_Feigned Retreat.png"
 			}
 		},
 		{
@@ -2355,9 +2355,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{R}{R}",
 			"type": "Enchantment — Saga",
-			"collector_number": "147",
+			"collector_number": "211",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/147_The Great Conquereors from the East.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/211_The Great Conquereors from the East.png"
 			}
 		},
 		{
@@ -2365,9 +2365,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}{R}",
 			"type": "Enchantment",
-			"collector_number": "146",
+			"collector_number": "210",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/146_The Golden Horde.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/210_The Golden Horde.png"
 			}
 		},
 		{
@@ -2375,9 +2375,9 @@
 			"rarity": "rare",
 			"mana_cost": "{R}{R}",
 			"type": "Legendary Creature — Human Warrior",
-			"collector_number": "126",
+			"collector_number": "185",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/126_Attila, the Scourge of God.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/185_Attila, the Scourge of God.png"
 			}
 		},
 		{
@@ -2385,9 +2385,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{R}",
 			"type": "Legendary Creature — Human Archer",
-			"collector_number": "165",
+			"collector_number": "238",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/165_Tamerlane, Timurid Emperor.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/238_Tamerlane, Timurid Emperor.png"
 			}
 		},
 		{
@@ -2395,9 +2395,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{R}",
 			"type": "Legendary Creature — Human Archer",
-			"collector_number": "167",
+			"collector_number": "240",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/167_Temujin, Mongol Unifier.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/240_Temujin, Mongol Unifier.png"
 			}
 		},
 		{
@@ -2405,9 +2405,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Legendary Land",
-			"collector_number": "317",
+			"collector_number": "470",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/317_.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/470_.png"
 			}
 		},
 		{
@@ -2415,9 +2415,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Horror Wizard",
-			"collector_number": "36",
+			"collector_number": "53",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/36_Abjured Oilbearer.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/53_Abjured Oilbearer.png"
 			}
 		},
 		{
@@ -2425,9 +2425,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{U}{R}{W}",
 			"type": "Legendary Creature — Human Wizard",
-			"collector_number": "199",
+			"collector_number": "287",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/199_Alan MacMasters.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/287_Alan MacMasters.png"
 			}
 		},
 		{
@@ -2435,9 +2435,9 @@
 			"rarity": "rare",
 			"mana_cost": "{R}{W}{B}",
 			"type": "Legendary Creature — Human Soldier",
-			"collector_number": "200",
+			"collector_number": "288",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/200_Alexander, The Great.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/288_Alexander, The Great.png"
 			}
 		},
 		{
@@ -2445,9 +2445,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}{U}",
 			"type": "Creature — Bird",
-			"collector_number": "39",
+			"collector_number": "56",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/39_Arrogant Falcon.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/56_Arrogant Falcon.png"
 			}
 		},
 		{
@@ -2455,9 +2455,9 @@
 			"rarity": "rare",
 			"mana_cost": "{G}",
 			"type": "Sorcery",
-			"collector_number": "171",
+			"collector_number": "246",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/171_Awaken the Earth.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/246_Awaken the Earth.png"
 			}
 		},
 		{
@@ -2465,9 +2465,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{R}{W}{B}",
 			"type": "Creature — Human",
-			"collector_number": "202",
+			"collector_number": "290",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/202_Baby With a Gun.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/290_Baby With a Gun.png"
 			}
 		},
 		{
@@ -2475,9 +2475,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}{R}",
 			"type": "Creature — Human Shaman Barbarian",
-			"collector_number": "128",
+			"collector_number": "187",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/128_Barbarous Cannibal.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/187_Barbarous Cannibal.png"
 			}
 		},
 		{
@@ -2485,9 +2485,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}",
 			"type": "Artifact — Equipment",
-			"collector_number": "300",
+			"collector_number": "439",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/300_Bedsheet.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/439_Bedsheet.png"
 			}
 		},
 		{
@@ -2495,9 +2495,9 @@
 			"rarity": "rare",
 			"mana_cost": "{B}{B}{B}",
 			"type": "Creature — Human Cultist",
-			"collector_number": "85",
+			"collector_number": "123",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/85_Blood Cultist.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/123_Blood Cultist.png"
 			}
 		},
 		{
@@ -2505,9 +2505,9 @@
 			"rarity": "rare",
 			"mana_cost": "{U}{R}{W}",
 			"type": "Legendary Creature — Human Monk",
-			"collector_number": "206",
+			"collector_number": "296",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/206_Bruce Lee, Like Water.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/296_Bruce Lee, Like Water.png"
 			}
 		},
 		{
@@ -2515,9 +2515,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Legendary Land",
-			"collector_number": "319",
+			"collector_number": "473",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/319_Castle Black.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/473_Castle Black.png"
 			}
 		},
 		{
@@ -2525,9 +2525,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{W}{W}",
 			"type": "Creature — Human Knight",
-			"collector_number": "16",
+			"collector_number": "19",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/16_Cavalry Commander.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/19_Cavalry Commander.png"
 			}
 		},
 		{
@@ -2535,9 +2535,9 @@
 			"rarity": "common",
 			"mana_cost": "{W}{B}",
 			"type": "Creature — Spirit",
-			"collector_number": "207",
+			"collector_number": "298",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/207_Church Grim.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/298_Church Grim.png"
 			}
 		},
 		{
@@ -2545,9 +2545,9 @@
 			"rarity": "mythic",
 			"mana_cost": "",
 			"type": "Legendary Land",
-			"collector_number": "320",
+			"collector_number": "475",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/320_City of Revenge.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/475_City of Revenge.png"
 			}
 		},
 		{
@@ -2555,9 +2555,9 @@
 			"rarity": "rare",
 			"mana_cost": "{B}",
 			"type": "Sorcery",
-			"collector_number": "89",
+			"collector_number": "129",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/89_Consuming Search.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/129_Consuming Search.png"
 			}
 		},
 		{
@@ -2565,9 +2565,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}{B}",
 			"type": "Sorcery",
-			"collector_number": "90",
+			"collector_number": "130",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/90_Cull the Living.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/130_Cull the Living.png"
 			}
 		},
 		{
@@ -2575,9 +2575,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{U}",
 			"type": "Instant",
-			"collector_number": "41",
+			"collector_number": "61",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/41_Deadeye Rebuke.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/61_Deadeye Rebuke.png"
 			}
 		},
 		{
@@ -2585,9 +2585,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{B}",
 			"type": "Sorcery",
-			"collector_number": "94",
+			"collector_number": "135",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/94_Depths of the Mind.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/135_Depths of the Mind.png"
 			}
 		},
 		{
@@ -2595,9 +2595,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}",
 			"type": "Legendary Creature — Pokemon",
-			"collector_number": "135",
+			"collector_number": "198",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/135_Detective Pikachu.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/198_Detective Pikachu.png"
 			}
 		},
 		{
@@ -2605,9 +2605,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{BG}{BG}{BG}",
 			"type": "Legendary Creature — Skeleton Druid",
-			"collector_number": "296",
+			"collector_number": "428",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/296_Dhucnan, the Eternal Hermit.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/428_Dhucnan, the Eternal Hermit.png"
 			}
 		},
 		{
@@ -2615,9 +2615,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{C}",
 			"type": "Creature — Eldrazi Monger",
-			"collector_number": "2",
+			"collector_number": "3",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/2_Distortedmonger.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/3_Distortedmonger.png"
 			}
 		},
 		{
@@ -2625,9 +2625,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{R}{R}",
 			"type": "Sorcery",
-			"collector_number": "136",
+			"collector_number": "199",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/136_Disturb the Peace.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/199_Disturb the Peace.png"
 			}
 		},
 		{
@@ -2635,9 +2635,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Creature — Demon",
-			"collector_number": "96",
+			"collector_number": "137",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/96_Doomed Heretic.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/137_Doomed Heretic.png"
 			}
 		},
 		{
@@ -2645,9 +2645,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{W}{W}",
 			"type": "Creature — Dragon Spirit",
-			"collector_number": "20",
+			"collector_number": "24",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/20_Dragon of Bladehold.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/24_Dragon of Bladehold.png"
 			}
 		},
 		{
@@ -2655,9 +2655,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{4}{B}{B}{B}",
 			"type": "Creature — Beast",
-			"collector_number": "97",
+			"collector_number": "139",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/97_Dreaded Behemoth.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/139_Dreaded Behemoth.png"
 			}
 		},
 		{
@@ -2665,9 +2665,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{7}{G}{G}",
 			"type": "Legendary Artifact",
-			"collector_number": "177",
+			"collector_number": "256",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/177_Elven Cottage.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/256_Elven Cottage.png"
 			}
 		},
 		{
@@ -2675,9 +2675,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{8}",
 			"type": "Legendary Creature — Eldrazi",
-			"collector_number": "3",
+			"collector_number": "4",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/3_Emrakul, the Hunted.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/4_Emrakul, the Hunted.png"
 			}
 		},
 		{
@@ -2685,9 +2685,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}{G}",
 			"type": "Creature — Beast",
-			"collector_number": "178",
+			"collector_number": "257",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/178_Endangered Species.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/257_Endangered Species.png"
 			}
 		},
 		{
@@ -2695,9 +2695,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Spirit Knight",
-			"collector_number": "21",
+			"collector_number": "26",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/21_Ethereal Knight.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/26_Ethereal Knight.png"
 			}
 		},
 		{
@@ -2705,9 +2705,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Goblin Horror",
-			"collector_number": "139",
+			"collector_number": "203",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/139_Extraplanar Invader.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/203_Extraplanar Invader.png"
 			}
 		},
 		{
@@ -2715,9 +2715,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{U}{U}",
 			"type": "Creature — Faerie Wizard",
-			"collector_number": "45",
+			"collector_number": "66",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/45_Faerie Trickster.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/66_Faerie Trickster.png"
 			}
 		},
 		{
@@ -2725,9 +2725,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{W}{W}",
 			"type": "Creature — Angel",
-			"collector_number": "22",
+			"collector_number": "29",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/22_Faithful Guardian.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/29_Faithful Guardian.png"
 			}
 		},
 		{
@@ -2735,9 +2735,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Legendary Land — Forest",
-			"collector_number": "322",
+			"collector_number": "481",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/322_Fangorn Forest.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/481_Fangorn Forest.png"
 			}
 		},
 		{
@@ -2745,9 +2745,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}{B}{R}",
 			"type": "Legendary Creature — Wolf Avatar",
-			"collector_number": "215",
+			"collector_number": "314",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/215_Fenrir, Hound of Darkness.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/314_Fenrir, Hound of Darkness.png"
 			}
 		},
 		{
@@ -2755,9 +2755,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{4}{R}{R}{R}",
 			"type": "Creature — Beast",
-			"collector_number": "141",
+			"collector_number": "205",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/141_Ferocious Behemoth.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/205_Ferocious Behemoth.png"
 			}
 		},
 		{
@@ -2765,9 +2765,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U}",
 			"type": "Sorcery",
-			"collector_number": "47",
+			"collector_number": "68",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/47_Final Understanding.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/68_Final Understanding.png"
 			}
 		},
 		{
@@ -2775,9 +2775,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G}",
 			"type": "Creature — Elf Warrior",
-			"collector_number": "179",
+			"collector_number": "259",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/179_Forest Guardian.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/259_Forest Guardian.png"
 			}
 		},
 		{
@@ -2785,9 +2785,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{4}{G}{G}{G}",
 			"type": "Creature — Elemental Beast",
-			"collector_number": "180",
+			"collector_number": "260",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/180_Friendly Behemoth.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/260_Friendly Behemoth.png"
 			}
 		},
 		{
@@ -2795,9 +2795,9 @@
 			"rarity": "mythic",
 			"mana_cost": "",
 			"type": "Land — Desert",
-			"collector_number": "323",
+			"collector_number": "484",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/323_Geonosis.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/484_Geonosis.png"
 			}
 		},
 		{
@@ -2805,9 +2805,9 @@
 			"rarity": "rare",
 			"mana_cost": "{R}",
 			"type": "Creature — Goblin",
-			"collector_number": "143",
+			"collector_number": "207",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/143_Goblin Bomber.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/207_Goblin Bomber.png"
 			}
 		},
 		{
@@ -2815,9 +2815,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{U}{R}",
 			"type": "Creature — Bird Barbarian",
-			"collector_number": "220",
+			"collector_number": "325",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/220_Grand Theft Falco.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/325_Grand Theft Falco.png"
 			}
 		},
 		{
@@ -2825,9 +2825,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Artifact — Fortification",
-			"collector_number": "309",
+			"collector_number": "453",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/309_Growth Serum.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/453_Growth Serum.png"
 			}
 		},
 		{
@@ -2835,9 +2835,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Human Wizard",
-			"collector_number": "50",
+			"collector_number": "74",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/50_Harry Potter.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/74_Harry Potter.png"
 			}
 		},
 		{
@@ -2845,9 +2845,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{4}{W}{W}",
 			"type": "Sorcery",
-			"collector_number": "24",
+			"collector_number": "32",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/24_Heroic Sacrifice.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/32_Heroic Sacrifice.png"
 			}
 		},
 		{
@@ -2855,9 +2855,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{4}{B}{B}",
 			"type": "Sorcery",
-			"collector_number": "100",
+			"collector_number": "147",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/100_Highlander.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/147_Highlander.png"
 			}
 		},
 		{
@@ -2865,9 +2865,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Legendary Land",
-			"collector_number": "328",
+			"collector_number": "489",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/328_Hogwarts, School of Wizards.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/489_Hogwarts, School of Wizards.png"
 			}
 		},
 		{
@@ -2875,9 +2875,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{U}{U}",
 			"type": "Kindred Instant — Leviathan",
-			"collector_number": "51",
+			"collector_number": "76",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/51_Iceblast.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/76_Iceblast.png"
 			}
 		},
 		{
@@ -2885,9 +2885,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{U}{B}",
 			"type": "Creature — Human Assassin",
-			"collector_number": "227",
+			"collector_number": "334",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/227_Jaqen H'Ghar.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/334_Jaqen H'Ghar.png"
 			}
 		},
 		{
@@ -2895,9 +2895,9 @@
 			"rarity": "rare",
 			"mana_cost": "{R}{W}{B}",
 			"type": "Legendary Creature — Human Soldier",
-			"collector_number": "228",
+			"collector_number": "335",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/228_Joan of Arc.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/335_Joan of Arc.png"
 			}
 		},
 		{
@@ -2905,9 +2905,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{U}{R}{W}",
 			"type": "Legendary Planeswalker — Stalin",
-			"collector_number": "229",
+			"collector_number": "336",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/229_Joseph Stalin.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/336_Joseph Stalin.png"
 			}
 		},
 		{
@@ -2915,9 +2915,9 @@
 			"rarity": "common",
 			"mana_cost": "{U}",
 			"type": "Instant",
-			"collector_number": "52",
+			"collector_number": "78",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/52_Just a Chicken.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/78_Just a Chicken.png"
 			}
 		},
 		{
@@ -2925,9 +2925,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{9}{W}{U}{B}{R}{G}",
 			"type": "Legendary Creature — Eldrazi Avatar",
-			"collector_number": "233",
+			"collector_number": "342",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/233_Laryel, The Eternal Void.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/342_Laryel, The Eternal Void.png"
 			}
 		},
 		{
@@ -2935,9 +2935,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}",
 			"type": "Sorcery",
-			"collector_number": "149",
+			"collector_number": "216",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/149_Last Rage.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/216_Last Rage.png"
 			}
 		},
 		{
@@ -2945,9 +2945,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{R}{W}{B}",
 			"type": "Legendary Creature — Human Warrior",
-			"collector_number": "236",
+			"collector_number": "345",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/236_Lü Bu, the Great Warlord.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/345_Lü Bu, the Great Warlord.png"
 			}
 		},
 		{
@@ -2955,9 +2955,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{4}{W}{W}{W}",
 			"type": "Creature — Beast",
-			"collector_number": "25",
+			"collector_number": "34",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/25_Lumbering Behemoth.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/34_Lumbering Behemoth.png"
 			}
 		},
 		{
@@ -2965,9 +2965,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{4}{U}{U}{U}",
 			"type": "Creature — Beast",
-			"collector_number": "55",
+			"collector_number": "83",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/55_Lurking Behemoth.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/83_Lurking Behemoth.png"
 			}
 		},
 		{
@@ -2975,9 +2975,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{R}",
 			"type": "Instant — Arcane",
-			"collector_number": "150",
+			"collector_number": "217",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/150_Maelstrom Shot.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/217_Maelstrom Shot.png"
 			}
 		},
 		{
@@ -2985,9 +2985,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}",
 			"type": "Artifact Creature — Guardian",
-			"collector_number": "310",
+			"collector_number": "455",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/310_Magna Guard.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/455_Magna Guard.png"
 			}
 		},
 		{
@@ -2995,9 +2995,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{W}",
 			"type": "Legendary Enchantment Creature",
-			"collector_number": "350",
+			"collector_number": "523",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/350_Magus of.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/523_Magus of.png"
 			}
 		},
 		{
@@ -3005,9 +3005,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{B}{B}{G}{G}",
 			"type": "Legendary Creature — Demon",
-			"collector_number": "238",
+			"collector_number": "347",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/238_ManBearPig.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/347_ManBearPig.png"
 			}
 		},
 		{
@@ -3015,9 +3015,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
 			"type": "Sorcery",
-			"collector_number": "106",
+			"collector_number": "156",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/106_Mar.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/156_Mar.png"
 			}
 		},
 		{
@@ -3025,9 +3025,9 @@
 			"rarity": "mythic",
 			"mana_cost": "",
 			"type": "Legendary Land — Desert",
-			"collector_number": "329",
+			"collector_number": "491",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/329_Mars, New Colony.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/491_Mars, New Colony.png"
 			}
 		},
 		{
@@ -3035,9 +3035,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{R}{W}{W}",
 			"type": "Legendary Creature — Human Knight",
-			"collector_number": "242",
+			"collector_number": "353",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/242_Mical, Bellona's Daughter.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/353_Mical, Bellona's Daughter.png"
 			}
 		},
 		{
@@ -3045,9 +3045,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{R}{W}{B}",
 			"type": "Legendary Creature — Iron Human",
-			"collector_number": "243",
+			"collector_number": "354",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/243_Michael Malloy.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/354_Michael Malloy.png"
 			}
 		},
 		{
@@ -3055,9 +3055,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{U}{R}{W}",
 			"type": "Legendary Creature — Human Samurai",
-			"collector_number": "244",
+			"collector_number": "355",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/244_Miyamoto Musashi.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/355_Miyamoto Musashi.png"
 			}
 		},
 		{
@@ -3065,9 +3065,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U}{B}",
 			"type": "Creature — Human Horror",
-			"collector_number": "246",
+			"collector_number": "357",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/246_Murk Lurker.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/357_Murk Lurker.png"
 			}
 		},
 		{
@@ -3075,9 +3075,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}",
 			"type": "Artifact Creature — Myr",
-			"collector_number": "313",
+			"collector_number": "458",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/313_Myr Perfecter.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/458_Myr Perfecter.png"
 			}
 		},
 		{
@@ -3085,9 +3085,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}",
 			"type": "Instant",
-			"collector_number": "108",
+			"collector_number": "160",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/108_Nevermore.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/160_Nevermore.png"
 			}
 		},
 		{
@@ -3095,9 +3095,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}{R}",
 			"type": "Legendary Creature — Demon",
-			"collector_number": "248",
+			"collector_number": "360",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/248_Nezuko Kamado.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/360_Nezuko Kamado.png"
 			}
 		},
 		{
@@ -3105,9 +3105,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{B}",
 			"type": "Creature — Zombie",
-			"collector_number": "110",
+			"collector_number": "162",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/110_Noxious Rebirther.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/162_Noxious Rebirther.png"
 			}
 		},
 		{
@@ -3115,9 +3115,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Legendary Land",
-			"collector_number": "331",
+			"collector_number": "494",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/331_One Apple.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/494_One Apple.png"
 			}
 		},
 		{
@@ -3125,9 +3125,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}{U}",
 			"type": "Creature — Slime",
-			"collector_number": "251",
+			"collector_number": "366",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/251_Overseer of Gluttony.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/366_Overseer of Gluttony.png"
 			}
 		},
 		{
@@ -3135,9 +3135,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}{R}",
 			"type": "Creature — Goblin Wizard",
-			"collector_number": "252",
+			"collector_number": "367",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/252_Overseer of the Experiments.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/367_Overseer of the Experiments.png"
 			}
 		},
 		{
@@ -3145,9 +3145,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}{B}",
 			"type": "Creature — Human Cleric",
-			"collector_number": "253",
+			"collector_number": "368",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/253_Overseer of the Forsaken Path.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/368_Overseer of the Forsaken Path.png"
 			}
 		},
 		{
@@ -3155,9 +3155,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{B}{G}",
 			"type": "Creature — Human Shaman",
-			"collector_number": "254",
+			"collector_number": "369",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/254_Overseer of the Hunt.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/369_Overseer of the Hunt.png"
 			}
 		},
 		{
@@ -3165,9 +3165,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}{W}",
 			"type": "Creature — Human Knight",
-			"collector_number": "255",
+			"collector_number": "370",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/255_Overseers of the Endless War.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/370_Overseers of the Endless War.png"
 			}
 		},
 		{
@@ -3175,9 +3175,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Legendary Land — Lair",
-			"collector_number": "332",
+			"collector_number": "495",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/332_Pandemonium, Capital of Demons.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/495_Pandemonium, Capital of Demons.png"
 			}
 		},
 		{
@@ -3185,9 +3185,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{X}{X}{X}",
 			"type": "Kindred Artifact — Construct",
-			"collector_number": "314",
+			"collector_number": "463",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/314_Phalanx Foundry.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/463_Phalanx Foundry.png"
 			}
 		},
 		{
@@ -3195,9 +3195,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}{R}",
 			"type": "Sorcery",
-			"collector_number": "154",
+			"collector_number": "223",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/154_Pikachu's Addiction.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/223_Pikachu's Addiction.png"
 			}
 		},
 		{
@@ -3205,9 +3205,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}{R}",
 			"type": "Creature — Lizard Shaman",
-			"collector_number": "258",
+			"collector_number": "375",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/258_Priest of Bolas.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/375_Priest of Bolas.png"
 			}
 		},
 		{
@@ -3215,9 +3215,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Sorcery",
-			"collector_number": "113",
+			"collector_number": "166",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/113_Procrastination.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/166_Procrastination.png"
 			}
 		},
 		{
@@ -3225,9 +3225,9 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{U}{U}",
 			"type": "Sorcery",
-			"collector_number": "60",
+			"collector_number": "92",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/60_Pull the Strings.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/92_Pull the Strings.png"
 			}
 		},
 		{
@@ -3235,9 +3235,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Artifact — Food",
-			"collector_number": "188",
+			"collector_number": "271",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/188_Pumpkin.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/271_Pumpkin.png"
 			}
 		},
 		{
@@ -3245,9 +3245,9 @@
 			"rarity": "rare",
 			"mana_cost": "{W}{W}",
 			"type": "Sorcery",
-			"collector_number": "28",
+			"collector_number": "39",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/28_Purge the Impure.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/39_Purge the Impure.png"
 			}
 		},
 		{
@@ -3255,9 +3255,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Goblin Soldier",
-			"collector_number": "158",
+			"collector_number": "228",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/158_Raging Raidleader.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/228_Raging Raidleader.png"
 			}
 		},
 		{
@@ -3265,9 +3265,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{R}{W}",
 			"type": "Kindred Instant — Minotaur",
-			"collector_number": "261",
+			"collector_number": "378",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/261_Ramrod's Perplexity.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/378_Ramrod's Perplexity.png"
 			}
 		},
 		{
@@ -3275,9 +3275,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
 			"type": "Sorcery",
-			"collector_number": "116",
+			"collector_number": "169",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/116_Recuring Wound.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/169_Recuring Wound.png"
 			}
 		},
 		{
@@ -3285,9 +3285,9 @@
 			"rarity": "rare",
 			"mana_cost": "{R}{W}{B}",
 			"type": "Legendary Creature — Angel Knight",
-			"collector_number": "267",
+			"collector_number": "386",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/267_Reva, Chosen by War.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/386_Reva, Chosen by War.png"
 			}
 		},
 		{
@@ -3295,9 +3295,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{U}",
 			"type": "Legendary Creature — Human Mutant",
-			"collector_number": "64",
+			"collector_number": "96",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/64_Richard Iljevitsh Jyrä.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/96_Richard Iljevitsh Jyrä.png"
 			}
 		},
 		{
@@ -3305,9 +3305,9 @@
 			"rarity": "rare",
 			"mana_cost": "{R}{R}",
 			"type": "Legendary Creature — Human Rogue",
-			"collector_number": "160",
+			"collector_number": "230",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/160_Ricky, Truant in Chief.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/230_Ricky, Truant in Chief.png"
 			}
 		},
 		{
@@ -3315,9 +3315,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{G}{G}",
 			"type": "Legendary Creature — Frog Rogue",
-			"collector_number": "189",
+			"collector_number": "272",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/189_ROG, the Hidden One.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/272_ROG, the Hidden One.png"
 			}
 		},
 		{
@@ -3325,9 +3325,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}",
 			"type": "Artifact Creature — Lanbot",
-			"collector_number": "315",
+			"collector_number": "466",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/315_Scrapyard Scavenger.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/466_Scrapyard Scavenger.png"
 			}
 		},
 		{
@@ -3335,9 +3335,9 @@
 			"rarity": "rare",
 			"mana_cost": "{U}{U}",
 			"type": "Legendary Creature — Human Wizard",
-			"collector_number": "66",
+			"collector_number": "98",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/66_Senpai of the Pool.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/98_Senpai of the Pool.png"
 			}
 		},
 		{
@@ -3345,9 +3345,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{W}",
 			"type": "Creature — Spirit",
-			"collector_number": "30",
+			"collector_number": "44",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/30_Serra Acolyte.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/44_Serra Acolyte.png"
 			}
 		},
 		{
@@ -3355,9 +3355,9 @@
 			"rarity": "rare",
 			"mana_cost": "{W}{B}{G}",
 			"type": "Kindred Enchantment — Rhino",
-			"collector_number": "273",
+			"collector_number": "393",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/273_Siege Preparations.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/393_Siege Preparations.png"
 			}
 		},
 		{
@@ -3365,9 +3365,9 @@
 			"rarity": "rare",
 			"mana_cost": "{B}{B}{B}",
 			"type": "Creature — Knight",
-			"collector_number": "119",
+			"collector_number": "173",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/119_Sire of the Ebon Legion.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/173_Sire of the Ebon Legion.png"
 			}
 		},
 		{
@@ -3375,9 +3375,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{X}{2}{R}{R}{R}",
 			"type": "Legendary Creature — Dragon",
-			"collector_number": "161",
+			"collector_number": "231",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/161_Smaug, The Golden.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/231_Smaug, The Golden.png"
 			}
 		},
 		{
@@ -3385,9 +3385,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}{R}{G}",
 			"type": "Enchantment",
-			"collector_number": "281",
+			"collector_number": "405",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/281_Supper of the Spooks.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/405_Supper of the Spooks.png"
 			}
 		},
 		{
@@ -3395,9 +3395,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}",
 			"type": "Artifact — Equipment",
-			"collector_number": "316",
+			"collector_number": "468",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/316_Sword of Void and Soul.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/468_Sword of Void and Soul.png"
 			}
 		},
 		{
@@ -3405,9 +3405,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}{G}",
 			"type": "Creature — Zombie",
-			"collector_number": "284",
+			"collector_number": "409",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/284_Symbiotic Zombie.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/409_Symbiotic Zombie.png"
 			}
 		},
 		{
@@ -3415,9 +3415,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{W}{W}",
 			"type": "Legendary Creature — Giant Soldier",
-			"collector_number": "32",
+			"collector_number": "49",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/32_Thanos, He Who Balances.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/49_Thanos, He Who Balances.png"
 			}
 		},
 		{
@@ -3425,9 +3425,9 @@
 			"rarity": "rare",
 			"mana_cost": "{W}",
 			"type": "Legendary Creature — Construct",
-			"collector_number": "23",
+			"collector_number": "31",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/23_The Golden Snitch.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/31_The Golden Snitch.png"
 			}
 		},
 		{
@@ -3435,9 +3435,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{U}{U}",
 			"type": "Legendary Creature — Human Wizard",
-			"collector_number": "62",
+			"collector_number": "94",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/62_The Rain Man.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/94_The Rain Man.png"
 			}
 		},
 		{
@@ -3445,9 +3445,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Forest",
-			"collector_number": "341",
+			"collector_number": "511",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/341_Truffula Forest.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/511_Truffula Forest.png"
 			}
 		},
 		{
@@ -3455,9 +3455,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}{W}",
 			"type": "Enchantment",
-			"collector_number": "34",
+			"collector_number": "51",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/34_Unflinching Courage.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/51_Unflinching Courage.png"
 			}
 		},
 		{
@@ -3465,9 +3465,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{B}{B}",
 			"type": "Legendary Creature — Human",
-			"collector_number": "124",
+			"collector_number": "180",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/124_Vizzini, The Sicilian.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/180_Vizzini, The Sicilian.png"
 			}
 		},
 		{
@@ -3475,9 +3475,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}{G}",
 			"type": "Creature — Druid",
-			"collector_number": "196",
+			"collector_number": "281",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/196_Wandering Druid.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/281_Wandering Druid.png"
 			}
 		},
 		{
@@ -3485,9 +3485,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{R}{W}{B}",
 			"type": "Legendary Creature — Human Soldier",
-			"collector_number": "290",
+			"collector_number": "417",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/290_William T. Sherman.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/417_William T. Sherman.png"
 			}
 		},
 		{
@@ -3495,9 +3495,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{U}{R}{W}",
 			"type": "Legendary Planeswalker — Churchill",
-			"collector_number": "291",
+			"collector_number": "418",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/291_Winston, Prime Minister.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/418_Winston, Prime Minister.png"
 			}
 		},
 		{
@@ -3505,9 +3505,1779 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}{U}",
 			"type": "Kindred Instant — Wizard",
-			"collector_number": "78",
+			"collector_number": "115",
 			"image_uris": {
-				"en": "https://yumyum36.github.io/sets/ATR-files/img/78_Wizards' Insight.png"
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/115_Wizards' Insight.png"
+			}
+		},
+		{
+			"name": "Gestation Chamber",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact — Incubator",
+			"collector_number": "450",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/450_Gestation Chamber.png"
+			}
+		},
+		{
+			"name": "Pestilence Researcher",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Creature — Human Doctor",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/164_Pestilence Researcher.png"
+			}
+		},
+		{
+			"name": "Conclave in Unison",
+			"rarity": "rare",
+			"mana_cost": "{G}{G}{G}{G}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "299",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/299_Conclave in Unison.png"
+			}
+		},
+		{
+			"name": "Last Minute Studying",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Instant — Lesson",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/79_Last Minute Studying.png"
+			}
+		},
+		{
+			"name": "Chaos Theory",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Instant — Lesson",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/194_Chaos Theory.png"
+			}
+		},
+		{
+			"name": "Carmot Scout",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{WB}{U}",
+			"type": "Artifact Creature — Bird Contruct",
+			"collector_number": "426",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/426_Carmot Scout.png"
+			}
+		},
+		{
+			"name": "The Charge into Abstract",
+			"rarity": "mythic",
+			"mana_cost": "{4}{R}{W}",
+			"type": "Enchantment — Saga",
+			"collector_number": "297",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/297_The Charge into Abstract.png"
+			}
+		},
+		{
+			"name": "Sky Pirate's Will",
+			"rarity": "rare",
+			"mana_cost": "{B}{R}",
+			"type": "Sorcery",
+			"collector_number": "396",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/396_Sky Pirate's Will.png"
+			}
+		},
+		{
+			"name": "Demon Barber's Chair",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Legendary Artifact",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/132_Demon Barber's Chair.png"
+			}
+		},
+		{
+			"name": "Maree, Spark of Resistance",
+			"rarity": "rare",
+			"mana_cost": "{U}{R}",
+			"type": "Legendary Creature — Goblin Artificer",
+			"collector_number": "350",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/350_Maree, Spark of Resistance.png"
+			}
+		},
+		{
+			"name": "Quarantine Lab",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "497",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/497_Quarantine Lab.png"
+			}
+		},
+		{
+			"name": "Fresh Discovery",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "483",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/483_Fresh Discovery.png"
+			}
+		},
+		{
+			"name": "Trailblazers Gloves",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Artifact — Equipment",
+			"collector_number": "278",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/278_Trailblazers Gloves.png"
+			}
+		},
+		{
+			"name": "Journey Beyond",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{G}",
+			"type": "Instant",
+			"collector_number": "337",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/337_Journey Beyond.png"
+			}
+		},
+		{
+			"name": "Ikkar, Horizon Seeker",
+			"rarity": "mythic",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Legendary Creature — Rat Scout",
+			"collector_number": "331",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/331_Ikkar, Horizon Seeker.png"
+			}
+		},
+		{
+			"name": "Ennui",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{C}",
+			"type": "Creature — Incarnation",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/5_Ennui.png"
+			}
+		},
+		{
+			"name": "Kessig Farmstead",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "490",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/490_Kessig Farmstead.png"
+			}
+		},
+		{
+			"name": "Split Concentration",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Enchantment",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/103_Split Concentration.png"
+			}
+		},
+		{
+			"name": "Surfaceward Guide",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment Creature — Zombie",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/176_Surfaceward Guide.png"
+			}
+		},
+		{
+			"name": "Expansive Aegis",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/27_Expansive Aegis.png"
+			}
+		},
+		{
+			"name": "Ascention to Godhood",
+			"rarity": "mythic",
+			"mana_cost": "{4}{G}",
+			"type": "Legendary Enchantment — Aura",
+			"collector_number": "245",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/245_Ascention to Godhood.png"
+			}
+		},
+		{
+			"name": "Deus Ex Machina",
+			"rarity": "rare",
+			"mana_cost": "{G}{W}",
+			"type": "Instant",
+			"collector_number": "308",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/308_Deus Ex Machina.png"
+			}
+		},
+		{
+			"name": "Skye, Curiosity Incarnate",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Legendary Creature — Bird God",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/100_Skye, Curiosity Incarnate.png"
+			}
+		},
+		{
+			"name": "Priest of the True Faith",
+			"rarity": "common",
+			"mana_cost": "{W}{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/38_Priest of the True Faith.png"
+			}
+		},
+		{
+			"name": "Sniff Out The Culprit",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Instant",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/101_Sniff Out The Culprit.png"
+			}
+		},
+		{
+			"name": "Curious Disassembler",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Veldalken Detective",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/60_Curious Disassembler.png"
+			}
+		},
+		{
+			"name": "Gingerbread Treehouse",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Artifact",
+			"collector_number": "321",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/321_Gingerbread Treehouse.png"
+			}
+		},
+		{
+			"name": "Eager Cartographer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Creature — Human Scout",
+			"collector_number": "312",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/312_Eager Cartographer.png"
+			}
+		},
+		{
+			"name": "Oilpack Alpha",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Creature — Phyrexian Wolf",
+			"collector_number": "363",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/363_Oilpack Alpha.png"
+			}
+		},
+		{
+			"name": "Corrupted Construct",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "443",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/443_Corrupted Construct.png"
+			}
+		},
+		{
+			"name": "Rainbow Macroons",
+			"rarity": "rare",
+			"mana_cost": "{X}{3}",
+			"type": "Artifact — Food",
+			"collector_number": "464",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/464_Rainbow Macroons.png"
+			}
+		},
+		{
+			"name": "Pieces of Eight",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{B}{R}",
+			"type": "Enchantment",
+			"collector_number": "374",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/374_Pieces of Eight.png"
+			}
+		},
+		{
+			"name": "Knight of the Fallen Scale",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Creature — Dragon Knight",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/215_Knight of the Fallen Scale.png"
+			}
+		},
+		{
+			"name": "Midas' Touch",
+			"rarity": "mythic",
+			"mana_cost": "{B}{B}",
+			"type": "Enchantment",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/157_Midas' Touch.png"
+			}
+		},
+		{
+			"name": "Gnom the Keystealers",
+			"rarity": "rare",
+			"mana_cost": "{U}{B}{B}",
+			"type": "Legendary Creature — Gnome Faerie",
+			"collector_number": "323",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/323_Gnom the Keystealers.png"
+			}
+		},
+		{
+			"name": "Overclock",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/221_Overclock.png"
+			}
+		},
+		{
+			"name": "Crafty Cook",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "301",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/301_Crafty Cook.png"
+			}
+		},
+		{
+			"name": "Reconfiguration Agent",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Phyrexian Cleric",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/41_Reconfiguration Agent.png"
+			}
+		},
+		{
+			"name": "Nursing Pod",
+			"rarity": "mythic",
+			"mana_cost": "{2}",
+			"type": "Artifact — Incubator",
+			"collector_number": "460",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/460_Nursing Pod.png"
+			}
+		},
+		{
+			"name": "Zap, Foolhardy Tinker",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "421",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/421_Zap, Foolhardy Tinker.png"
+			}
+		},
+		{
+			"name": "The Red-Hot Razor",
+			"rarity": "special",
+			"mana_cost": "{R}{G}",
+			"type": "Artifact — Equipment Food",
+			"collector_number": "526",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/526_The Red-Hot Razor.png"
+			}
+		},
+		{
+			"name": "Distraction",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{U}",
+			"type": "Enchantment",
+			"collector_number": "309",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/309_Distraction.png"
+			}
+		},
+		{
+			"name": "Captain's Chest",
+			"rarity": "mythic",
+			"mana_cost": "{X}",
+			"type": "Artifact",
+			"collector_number": "441",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/441_Captain's Chest.png"
+			}
+		},
+		{
+			"name": "Lodestone Armillary",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Artifact — Map",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/82_Lodestone Armillary.png"
+			}
+		},
+		{
+			"name": "Jarsyl, Planar Voyager",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/150_Jarsyl, Planar Voyager.png"
+			}
+		},
+		{
+			"name": "Expanded Horizons",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Enchantment",
+			"collector_number": "258",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/258_Expanded Horizons.png"
+			}
+		},
+		{
+			"name": "January 6th, 2021",
+			"rarity": "rare",
+			"mana_cost": "{5}{R}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/213_January 6th, 2021.png"
+			}
+		},
+		{
+			"name": "Orb of Order",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "461",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/461_Orb of Order.png"
+			}
+		},
+		{
+			"name": "Lestin, Minotaur Necromancer",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Legendary Creature — Minotaur Wizard",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/151_Lestin, Minotaur Necromancer.png"
+			}
+		},
+		{
+			"name": "The Qu's Arrival",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Enchantment",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/40_The Qu's Arrival.png"
+			}
+		},
+		{
+			"name": "Belligerent Beetle",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Insect Samurai",
+			"collector_number": "248",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/248_Belligerent Beetle.png"
+			}
+		},
+		{
+			"name": "Act of Bargain",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/181_Act of Bargain.png"
+			}
+		},
+		{
+			"name": "Greed, Everhoarding",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}{B}{B}",
+			"type": "Legendary Creature — Elder Demon",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/144_Greed, Everhoarding.png"
+			}
+		},
+		{
+			"name": "Poing, Bareknuckle Brawler",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}",
+			"type": "Legendary Creature — Human Mercenary",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/224_Poing, Bareknuckle Brawler.png"
+			}
+		},
+		{
+			"name": "Trading Plaza",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "510",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/510_Trading Plaza.png"
+			}
+		},
+		{
+			"name": "Potion Seller",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature — Human",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/91_Potion Seller.png"
+			}
+		},
+		{
+			"name": "Buyout",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{U}",
+			"type": "Instant",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/57_Buyout.png"
+			}
+		},
+		{
+			"name": "Strength Potion",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "467",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/467_Strength Potion.png"
+			}
+		},
+		{
+			"name": "Despair",
+			"rarity": "mythic",
+			"mana_cost": "{6}{W}{W}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/23_Despair.png"
+			}
+		},
+		{
+			"name": "Pit Knight",
+			"rarity": "mythic",
+			"mana_cost": "{B}{BR}{BR}{R}",
+			"type": "Creature — Demon",
+			"collector_number": "434",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/434_Pit Knight.png"
+			}
+		},
+		{
+			"name": "Bolts From The Blue",
+			"rarity": "rare",
+			"mana_cost": "{X}{X}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/193_Bolts From The Blue.png"
+			}
+		},
+		{
+			"name": "City Districts",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment",
+			"collector_number": "253",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/253_City Districts.png"
+			}
+		},
+		{
+			"name": "Hunters of Sky Rock",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Elf Ally",
+			"collector_number": "264",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/264_Hunters of Sky Rock.png"
+			}
+		},
+		{
+			"name": "Opening Volley",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/220_Opening Volley.png"
+			}
+		},
+		{
+			"name": "Flickering Mansion",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "482",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/482_Flickering Mansion.png"
+			}
+		},
+		{
+			"name": "Acceptance",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Creature — Incarnation",
+			"collector_number": "283",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/283_Acceptance.png"
+			}
+		},
+		{
+			"name": "Schadenfreude",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Elemental Incarnation",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/171_Schadenfreude.png"
+			}
+		},
+		{
+			"name": "Den of Thieves",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "478",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/478_Den of Thieves.png"
+			}
+		},
+		{
+			"name": "The Backrooms",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/1_The Backrooms.png"
+			}
+		},
+		{
+			"name": "Ohio",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "493",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/493_Ohio.png"
+			}
+		},
+		{
+			"name": "Groundbreaker Baloth",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{RG}{RG}",
+			"type": "Creature — Beast",
+			"collector_number": "431",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/431_Groundbreaker Baloth.png"
+			}
+		},
+		{
+			"name": "Den of Lions",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "477",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/477_Den of Lions.png"
+			}
+		},
+		{
+			"name": "Wànli Chángchéng",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Land — Stronghold",
+			"collector_number": "521",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/521_Wànli Chángchéng.png"
+			}
+		},
+		{
+			"name": "Pillars of Passion",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "496",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/496_Pillars of Passion.png"
+			}
+		},
+		{
+			"name": "Serment du Jeu de Paume",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "501",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/501_Serment du Jeu de Paume.png"
+			}
+		},
+		{
+			"name": "Dormant Monoliths",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "480",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/480_Dormant Monoliths.png"
+			}
+		},
+		{
+			"name": "Coil Site",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "476",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/476_Coil Site.png"
+			}
+		},
+		{
+			"name": "Archdruid's Hollow",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "471",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/471_Archdruid's Hollow.png"
+			}
+		},
+		{
+			"name": "Vesuvan Marsh",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "519",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/519_Vesuvan Marsh.png"
+			}
+		},
+		{
+			"name": "Wandering Worldspires",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "520",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/520_Wandering Worldspires.png"
+			}
+		},
+		{
+			"name": "Tomb of Remembrance",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "509",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/509_Tomb of Remembrance.png"
+			}
+		},
+		{
+			"name": "Shrine to Perfection",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "502",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/502_Shrine to Perfection.png"
+			}
+		},
+		{
+			"name": "Forgiveness",
+			"rarity": "common",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Sorcery",
+			"collector_number": "317",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/317_Forgiveness.png"
+			}
+		},
+		{
+			"name": "Emotional Damage",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/201_Emotional Damage.png"
+			}
+		},
+		{
+			"name": "Faith",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/28_Faith.png"
+			}
+		},
+		{
+			"name": "Betrayal of Julius Casesar",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{W}{B}",
+			"type": "Sorcery",
+			"collector_number": "292",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/292_Betrayal of Julius Casesar.png"
+			}
+		},
+		{
+			"name": "Surprise!!!!!",
+			"rarity": "uncommon",
+			"mana_cost": "{0}",
+			"type": "Creature — Zombie Clown Statue",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/47_Surprise!!!!!.png"
+			}
+		},
+		{
+			"name": "Cave of Hubris",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Cave",
+			"collector_number": "474",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/474_Cave of Hubris.png"
+			}
+		},
+		{
+			"name": "Forced Capitulation",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "316",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/316_Forced Capitulation.png"
+			}
+		},
+		{
+			"name": "Patience",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Enchantment",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/89_Patience.png"
+			}
+		},
+		{
+			"name": "Futility",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{B}",
+			"type": "Instant",
+			"collector_number": "320",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/320_Futility.png"
+			}
+		},
+		{
+			"name": "Embarrass",
+			"rarity": "uncommon",
+			"mana_cost": "{UB}{BR}",
+			"type": "Sorcery",
+			"collector_number": "429",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/429_Embarrass.png"
+			}
+		},
+		{
+			"name": "Frustration",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}{B}{R}{R}",
+			"type": "Creature — Elemental Incarnation",
+			"collector_number": "319",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/319_Frustration.png"
+			}
+		},
+		{
+			"name": "Misery",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/158_Misery.png"
+			}
+		},
+		{
+			"name": "Boglord Hydra",
+			"rarity": "mythic",
+			"mana_cost": "{X}{BG}",
+			"type": "Creature — Hydra Beast",
+			"collector_number": "425",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/425_Boglord Hydra.png"
+			}
+		},
+		{
+			"name": "Bringer of the Darkest Hour",
+			"rarity": "mythic",
+			"mana_cost": "{B}",
+			"type": "Legendary Creature — Demon Avatar",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/124_Bringer of the Darkest Hour.png"
+			}
+		},
+		{
+			"name": "Consumption",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Enchantment — Aura",
+			"collector_number": "300",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/300_Consumption.png"
+			}
+		},
+		{
+			"name": "Suspicious Hideout",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "503",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/503_Suspicious Hideout.png"
+			}
+		},
+		{
+			"name": "Visit a Haunted Mansion",
+			"rarity": "uncommon",
+			"mana_cost": "{WB}",
+			"type": "Instant",
+			"collector_number": "438",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/438_Visit a Haunted Mansion.png"
+			}
+		},
+		{
+			"name": "Act of Grace",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{W}{U}",
+			"type": "Instant",
+			"collector_number": "284",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/284_Act of Grace.png"
+			}
+		},
+		{
+			"name": "Down to the Bone",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/138_Down to the Bone.png"
+			}
+		},
+		{
+			"name": "Feed for the Horde",
+			"rarity": "rare",
+			"mana_cost": "{W}{B}",
+			"type": "Enchantment",
+			"collector_number": "313",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/313_Feed for the Horde.png"
+			}
+		},
+		{
+			"name": "Cardboard Shedder",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "442",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/442_Cardboard Shedder.png"
+			}
+		},
+		{
+			"name": "Unstable Plasma",
+			"rarity": "rare",
+			"mana_cost": "{UR}",
+			"type": "Creature — Weird",
+			"collector_number": "437",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/437_Unstable Plasma.png"
+			}
+		},
+		{
+			"name": "Thalassophobia",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}",
+			"type": "Enchantment",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/107_Thalassophobia.png"
+			}
+		},
+		{
+			"name": "Battle-Frenzied Champion",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/190_Battle-Frenzied Champion.png"
+			}
+		},
+		{
+			"name": "Hunted Whelp",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Creature — Dragon",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/212_Hunted Whelp.png"
+			}
+		},
+		{
+			"name": "Unholy Expression",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/179_Unholy Expression.png"
+			}
+		},
+		{
+			"name": "Phantom Legion",
+			"rarity": "rare",
+			"mana_cost": "{2}{WB}",
+			"type": "Creature — Spirit Warrior",
+			"collector_number": "433",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/433_Phantom Legion.png"
+			}
+		},
+		{
+			"name": "Survivor of Rhonas",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{G}",
+			"type": "Creature — Snake Warrior",
+			"collector_number": "407",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/407_Survivor of Rhonas.png"
+			}
+		},
+		{
+			"name": "Gaulish Mercenaries",
+			"rarity": "special",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "525",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/525_Gaulish Mercenaries.png"
+			}
+		},
+		{
+			"name": "Party Beckoner",
+			"rarity": "mythic",
+			"mana_cost": "{3}{B}{R}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "371",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/371_Party Beckoner.png"
+			}
+		},
+		{
+			"name": "Beemsoox, Bite of the Land",
+			"rarity": "mythic",
+			"mana_cost": "{25}",
+			"type": "Legendary Creature — Snake Elemental",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/1_Beemsoox, Bite of the Land.png"
+			}
+		},
+		{
+			"name": "HMS Victory",
+			"rarity": "uncommon",
+			"mana_cost": "{5}",
+			"type": "Legendary Artifact — Vehicle",
+			"collector_number": "454",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/454_HMS Victory.png"
+			}
+		},
+		{
+			"name": "Study Breaker",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "236",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/236_Study Breaker.png"
+			}
+		},
+		{
+			"name": "Resolute Sharpshoot",
+			"rarity": "common",
+			"mana_cost": "{1}{B}{R}{G}",
+			"type": "Creature — Human Archer",
+			"collector_number": "383",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/383_Resolute Sharpshoot.png"
+			}
+		},
+		{
+			"name": "Offmage",
+			"rarity": "rare",
+			"mana_cost": "{G}{U}",
+			"type": "Creature — Mutant Wizard",
+			"collector_number": "362",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/362_Offmage.png"
+			}
+		},
+		{
+			"name": "Spawn of Sorrow",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Creature — Demon",
+			"collector_number": "400",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/400_Spawn of Sorrow.png"
+			}
+		},
+		{
+			"name": "Abyssal Seizure",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/116_Abyssal Seizure.png"
+			}
+		},
+		{
+			"name": "Veteran Responder",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Creature — Human Knight",
+			"collector_number": "412",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/412_Veteran Responder.png"
+			}
+		},
+		{
+			"name": "Temporal Stutter",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/106_Temporal Stutter.png"
+			}
+		},
+		{
+			"name": "Arena Underdogs",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Warrior",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/184_Arena Underdogs.png"
+			}
+		},
+		{
+			"name": "Void Orb",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "469",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/469_Void Orb.png"
+			}
+		},
+		{
+			"name": "Containment Decree",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Enchantment",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/59_Containment Decree.png"
+			}
+		},
+		{
+			"name": "Deep Remembrance",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/62_Deep Remembrance.png"
+			}
+		},
+		{
+			"name": "Panglacial Sleep",
+			"rarity": "rare",
+			"mana_cost": "{G}{G}",
+			"type": "Instant",
+			"collector_number": "269",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/269_Panglacial Sleep.png"
+			}
+		},
+		{
+			"name": "Chosen Champion",
+			"rarity": "rare",
+			"mana_cost": "{RW}{GW}",
+			"type": "Enchantment Creature — Spirit Knight",
+			"collector_number": "427",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/427_Chosen Champion.png"
+			}
+		},
+		{
+			"name": "The Great Frost",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/73_The Great Frost.png"
+			}
+		},
+		{
+			"name": "Thrill Ride",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "241",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/241_Thrill Ride.png"
+			}
+		},
+		{
+			"name": "Gruesome Defeat",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/145_Gruesome Defeat.png"
+			}
+		},
+		{
+			"name": "Null Sphere",
+			"rarity": "rare",
+			"mana_cost": "{C}",
+			"type": "Artifact",
+			"collector_number": "459",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/459_Null Sphere.png"
+			}
+		},
+		{
+			"name": "Frostscape",
+			"rarity": "mythic",
+			"mana_cost": "{U}",
+			"type": "Enchantment",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/69_Frostscape.png"
+			}
+		},
+		{
+			"name": "Eternal Legacy",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/25_Eternal Legacy.png"
+			}
+		},
+		{
+			"name": "Sylvan Shaper",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Druid",
+			"collector_number": "274",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/274_Sylvan Shaper.png"
+			}
+		},
+		{
+			"name": "Deceitful Never-Smith",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Goblin Artificer",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/197_Deceitful Never-Smith.png"
+			}
+		},
+		{
+			"name": "Death-Near Synthesizer",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "444",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/444_Death-Near Synthesizer.png"
+			}
+		},
+		{
+			"name": "Jace, Army of One",
+			"rarity": "mythic",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Legendary Planeswalker — Jace",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/77_Jace, Army of One.png"
+			}
+		},
+		{
+			"name": "Grandiloquent's Tutelage",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/72_Grandiloquent's Tutelage.png"
+			}
+		},
+		{
+			"name": "Remnant Retainer",
+			"rarity": "rare",
+			"mana_cost": "{4}",
+			"type": "Artifact",
+			"collector_number": "465",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/465_Remnant Retainer.png"
+			}
+		},
+		{
+			"name": "Newton, the Scientist",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Legendary Creature — Human Artificer",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/87_Newton, the Scientist.png"
+			}
+		},
+		{
+			"name": "Riding Instructor",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Creature — Human Knight",
+			"collector_number": "387",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/387_Riding Instructor.png"
+			}
+		},
+		{
+			"name": "Mystic Cryomancer",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Wizard",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/86_Mystic Cryomancer.png"
+			}
+		},
+		{
+			"name": "Paint Can",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment",
+			"collector_number": "462",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/462_Paint Can.png"
+			}
+		},
+		{
+			"name": "Sheikh Mansur",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}",
+			"type": "Legendary Creature — Human Cleric",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/45_Sheikh Mansur.png"
+			}
+		},
+		{
+			"name": "Professor of Deceit",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{UB}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "435",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/435_Professor of Deceit.png"
+			}
+		},
+		{
+			"name": "Blood Broker",
+			"rarity": "rare",
+			"mana_cost": "{B}{R}",
+			"type": "Creature — Vampire Noble",
+			"collector_number": "293",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/293_Blood Broker.png"
+			}
+		},
+		{
+			"name": "The Foul Symbol",
+			"rarity": "mythic",
+			"mana_cost": "{B}{B}",
+			"type": "Legendary Enchantment",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/142_The Foul Symbol.png"
+			}
+		},
+		{
+			"name": "Dub, Noxious Swarmlord",
+			"rarity": "mythic",
+			"mana_cost": "{B}{B}{B}{B}{B}",
+			"type": "Legendary Creature — Rat God",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/140_Dub, Noxious Swarmlord.png"
+			}
+		},
+		{
+			"name": "Spider Volcano",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Enchantment",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/232_Spider Volcano.png"
+			}
+		},
+		{
+			"name": "Admirationis, Lost Ship",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Legendary Artifact — Vehicle",
+			"collector_number": "285",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/285_Admirationis, Lost Ship.png"
+			}
+		},
+		{
+			"name": "Hermitic Oracle",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Advisor",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/75_Hermitic Oracle.png"
+			}
+		},
+		{
+			"name": "Ashspitter",
+			"rarity": "common",
+			"mana_cost": "{3}{BR}",
+			"type": "Creature — Elemental Warrior",
+			"collector_number": "424",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/424_Ashspitter.png"
+			}
+		},
+		{
+			"name": "Sun on the Fields",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/46_Sun on the Fields.png"
+			}
+		},
+		{
+			"name": "Narwop, the Last Home",
+			"rarity": "rare",
+			"mana_cost": "{6}{B}{G}",
+			"type": "Legendary Creature — Treefolk",
+			"collector_number": "358",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/358_Narwop, the Last Home.png"
+			}
+		},
+		{
+			"name": "Beast of the Ruins",
+			"rarity": "mythic",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Beast",
+			"collector_number": "247",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/247_Beast of the Ruins.png"
+			}
+		},
+		{
+			"name": "Greasefang's Scrambler",
+			"rarity": "rare",
+			"mana_cost": "{W}{B}",
+			"type": "Legendary Artifact — Vehicle",
+			"collector_number": "326",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/326_Greasefang's Scrambler.png"
+			}
+		},
+		{
+			"name": "Divining Concoction",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{R}",
+			"type": "Instant",
+			"collector_number": "310",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/310_Divining Concoction.png"
+			}
+		},
+		{
+			"name": "Invoker of Ororos",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/149_Invoker of Ororos.png"
+			}
+		},
+		{
+			"name": "Acolyte of Ororos",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/10_Acolyte of Ororos.png"
+			}
+		},
+		{
+			"name": "Ororos Initiate",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Lizard Monk",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/36_Ororos Initiate.png"
+			}
+		},
+		{
+			"name": "Ororos, Alpha and Omega",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Legendary Planeswalker — Ororos",
+			"collector_number": "365",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/365_Ororos, Alpha and Omega.png"
+			}
+		},
+		{
+			"name": "Vincent, Lord of Hosts",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}{W}{W}",
+			"type": "Legendary Creature — Human Knight Noble",
+			"collector_number": "413",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/413_Vincent, Lord of Hosts.png"
+			}
+		},
+		{
+			"name": "Storm of Swords",
+			"rarity": "rare",
+			"mana_cost": "{5}{R}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "235",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/235_Storm of Swords.png"
+			}
+		},
+		{
+			"name": "Stirrer of Hearts",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{G}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "402",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/402_Stirrer of Hearts.png"
+			}
+		},
+		{
+			"name": "Gallant Chevalier",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Knight",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/30_Gallant Chevalier.png"
+			}
+		},
+		{
+			"name": "Kraxious, Beckoner of Storm",
+			"rarity": "mythic",
+			"mana_cost": "{6}{U}{R}",
+			"type": "Legendary Creature — Giant Serpent",
+			"collector_number": "339",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/339_Kraxious, Beckoner of Storm.png"
+			}
+		},
+		{
+			"name": "Jacque, Grizzeled Captain",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Creature — Human Pirate",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/33_Jacque, Grizzeled Captain.png"
+			}
+		},
+		{
+			"name": "Call the Monster",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}",
+			"type": "Instant",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/126_Call the Monster.png"
+			}
+		},
+		{
+			"name": "Cavern Fisherman",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Druid",
+			"collector_number": "251",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/251_Cavern Fisherman.png"
+			}
+		},
+		{
+			"name": "The First Manifestation",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Enchantment — Saga",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/141_The First Manifestation.png"
+			}
+		},
+		{
+			"name": "Lingering Might",
+			"rarity": "rare",
+			"mana_cost": "{X}{G}",
+			"type": "Enchantment Creature — Human Glimmer",
+			"collector_number": "265",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/265_Lingering Might.png"
+			}
+		},
+		{
+			"name": "Salt Circle",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{1}{W}",
+			"type": "Artifact",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/43_Salt Circle.png"
+			}
+		},
+		{
+			"name": "Aggressive Gremlins",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Gremlin Horror",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/182_Aggressive Gremlins.png"
+			}
+		},
+		{
+			"name": "Fervent Necromancer",
+			"rarity": "special",
+			"mana_cost": "{R}{W}{B}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "524",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/524_Fervent Necromancer.png"
+			}
+		},
+		{
+			"name": "The Many-Mother",
+			"rarity": "mythic",
+			"mana_cost": "{5}{G}{U}{R}",
+			"type": "Legendary Creature — Leviathan",
+			"collector_number": "348",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/348_The Many-Mother.png"
+			}
+		},
+		{
+			"name": "Resplendent Marshall",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{G}{W}",
+			"type": "Creature — HUman Noble",
+			"collector_number": "384",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/384_Resplendent Marshall.png"
+			}
+		},
+		{
+			"name": "Sightless Stalker",
+			"rarity": "mythic",
+			"mana_cost": "{B}{G}{U}",
+			"type": "Enchantment Creature — Horror",
+			"collector_number": "395",
+			"image_uris": {
+				"en": "https://yumyum36.github.io/sets/ATR-files/img/395_Sightless Stalker.png"
 			}
 		},
 	]
@@ -3727,6 +5497,118 @@
 	1 Vizzini, The Sicilian
 	1 William T. Sherman
 	1 Winston, Prime Minister
+	2 Conclave in Unison
+	2 Chaos Theory
+	1 The Charge into Abstract
+	2 Sky Pirate's Will
+	2 Demon Barber's Chair
+	2 Maree, Spark of Resistance
+	2 Fresh Discovery
+	1 Ikkar, Horizon Seeker
+	1 Kessig Farmstead
+	2 Split Concentration
+	2 Surfaceward Guide
+	1 Ascention to Godhood
+	2 Deus Ex Machina
+	2 Gingerbread Treehouse
+	2 Oilpack Alpha
+	2 Corrupted Construct
+	2 Rainbow Macroons
+	2 Pieces of Eight
+	2 Knight of the Fallen Scale
+	1 Midas' Touch
+	2 Gnom the Keystealers
+	2 Overclock
+	2 Crafty Cook
+	2 Reconfiguration Agent
+	1 Nursing Pod
+	2 Zap, Foolhardy Tinker
+	2 Distraction
+	1 Captain's Chest
+	2 Lodestone Armillary
+	2 Jarsyl, Planar Voyager
+	2 January 6th, 2021
+	2 Orb of Order
+	2 Lestin, Minotaur Necromancer
+	1 The Qu's Arrival
+	1 Greed, Everhoarding
+	2 Poing, Bareknuckle Brawler
+	2 Trading Plaza
+	1 Potion Seller
+	1 Despair
+	1 Pit Knight
+	2 Bolts From The Blue
+	2 Opening Volley
+	2 Flickering Mansion
+	1 Acceptance
+	2 Schadenfreude
+	2 Den of Thieves
+	1 Ohio
+	2 Den of Lions
+	2 Wànli Chángchéng
+	1 Pillars of Passion
+	2 Serment du Jeu de Paume
+	2 Dormant Monoliths
+	2 Coil Site
+	2 Archdruid's Hollow
+	2 Vesuvan Marsh
+	2 Wandering Worldspires
+	2 Tomb of Remembrance
+	2 Shrine to Perfection
+	2 Cave of Hubris
+	2 Forced Capitulation
+	2 Patience
+	1 Frustration
+	1 Boglord Hydra
+	1 Bringer of the Darkest Hour
+	2 Suspicious Hideout
+	2 Down to the Bone
+	2 Feed for the Horde
+	2 Cardboard Shedder
+	2 Unstable Plasma
+	2 Thalassophobia
+	2 Battle-Frenzied Champion
+	2 Hunted Whelp
+	1 Unholy Expression
+	2 Phantom Legion
+	1 Party Beckoner
+	1 Beemsoox, Bite of the Land
+	2 Offmage
+	2 Spawn of Sorrow
+	2 Abyssal Seizure
+	2 Temporal Stutter
+	2 Arena Underdogs
+	2 Void Orb
+	2 Panglacial Sleep
+	2 Chosen Champion
+	2 Thrill Ride
+	2 Null Sphere
+	1 Frostscape
+	2 Eternal Legacy
+	2 Deceitful Never-Smith
+	2 Death-Near Synthesizer
+	1 Jace, Army of One
+	2 Remnant Retainer
+	2 Sheikh Mansur
+	2 Blood Broker
+	1 The Foul Symbol
+	1 Dub, Noxious Swarmlord
+	2 Spider Volcano
+	1 Admirationis, Lost Ship
+	2 Narwop, the Last Home
+	1 Beast of the Ruins
+	2 Greasefang's Scrambler
+	2 Invoker of Ororos
+	1 Ororos, Alpha and Omega
+	1 Vincent, Lord of Hosts
+	2 Storm of Swords
+	1 Kraxious, Beckoner of Storm
+	2 Jacque, Grizzeled Captain
+	1 The First Manifestation
+	2 Lingering Might
+	1 The Many-Mother
+	2 Resplendent Marshall
+	1 Sightless Stalker
 [uncommon(4)]
 	4 Mist-Lure Shade
 	4 Gremlin's Nest
@@ -3809,6 +5691,51 @@
 	4 Truffula Forest
 	4 Unflinching Courage
 	4 Wizards' Insight
+	4 Gestation Chamber
+	4 Pestilence Researcher
+	4 Last Minute Studying
+	4 Carmot Scout
+	4 Quarantine Lab
+	4 Journey Beyond
+	4 Ennui
+	4 Expansive Aegis
+	4 Skye, Curiosity Incarnate
+	4 Sniff Out The Culprit
+	4 Curious Disassembler
+	4 Eager Cartographer
+	4 Expanded Horizons
+	4 Act of Bargain
+	4 Buyout
+	4 Hunters of Sky Rock
+	4 Groundbreaker Baloth
+	4 Emotional Damage
+	4 Faith
+	4 Betrayal of Julius Casesar
+	4 Surprise!!!!!
+	4 Futility
+	4 Embarrass
+	4 Misery
+	4 Consumption
+	4 Visit a Haunted Mansion
+	4 Act of Grace
+	4 Survivor of Rhonas
+	4 HMS Victory
+	4 Veteran Responder
+	4 Containment Decree
+	4 Deep Remembrance
+	4 The Great Frost
+	4 Gruesome Defeat
+	4 Grandiloquent's Tutelage
+	4 Newton, the Scientist
+	4 Riding Instructor
+	4 Professor of Deceit
+	4 Hermitic Oracle
+	4 Sun on the Fields
+	4 Divining Concoction
+	4 Acolyte of Ororos
+	4 Stirrer of Hearts
+	4 Call the Monster
+	4 Salt Circle
 [common(7)]
 	8 Spooky Storyteller
 	8 Compleated Sacrifice
@@ -3864,6 +5791,22 @@
 	8 Noxious Rebirther
 	8 Raging Raidleader
 	8 Wandering Druid
+	8 Trailblazers Gloves
+	8 Priest of the True Faith
+	8 Belligerent Beetle
+	8 Strength Potion
+	8 City Districts
+	8 Forgiveness
+	8 Study Breaker
+	8 Resolute Sharpshoot
+	8 Sylvan Shaper
+	8 Mystic Cryomancer
+	8 Paint Can
+	8 Ashspitter
+	8 Ororos Initiate
+	8 Gallant Chevalier
+	8 Cavern Fisherman
+	8 Aggressive Gremlins
 [wildcard(2)]
 	6 Spooky Storyteller
 	7 Sand Scour
@@ -4214,3 +6157,176 @@
 	4 William T. Sherman
 	4 Winston, Prime Minister
 	15 Wizards' Insight
+	15 Gestation Chamber
+	15 Pestilence Researcher
+	7 Conclave in Unison
+	15 Last Minute Studying
+	7 Chaos Theory
+	15 Carmot Scout
+	4 The Charge into Abstract
+	7 Sky Pirate's Will
+	7 Demon Barber's Chair
+	7 Maree, Spark of Resistance
+	15 Quarantine Lab
+	7 Fresh Discovery
+	6 Trailblazers Gloves
+	15 Journey Beyond
+	4 Ikkar, Horizon Seeker
+	15 Ennui
+	4 Kessig Farmstead
+	7 Split Concentration
+	7 Surfaceward Guide
+	15 Expansive Aegis
+	4 Ascention to Godhood
+	7 Deus Ex Machina
+	15 Skye, Curiosity Incarnate
+	6 Priest of the True Faith
+	15 Sniff Out The Culprit
+	15 Curious Disassembler
+	7 Gingerbread Treehouse
+	15 Eager Cartographer
+	7 Oilpack Alpha
+	7 Corrupted Construct
+	7 Rainbow Macroons
+	7 Pieces of Eight
+	7 Knight of the Fallen Scale
+	4 Midas' Touch
+	7 Gnom the Keystealers
+	7 Overclock
+	7 Crafty Cook
+	7 Reconfiguration Agent
+	4 Nursing Pod
+	7 Zap, Foolhardy Tinker
+	7 Distraction
+	4 Captain's Chest
+	7 Lodestone Armillary
+	7 Jarsyl, Planar Voyager
+	15 Expanded Horizons
+	7 January 6th, 2021
+	7 Orb of Order
+	7 Lestin, Minotaur Necromancer
+	4 The Qu's Arrival
+	6 Belligerent Beetle
+	15 Act of Bargain
+	4 Greed, Everhoarding
+	7 Poing, Bareknuckle Brawler
+	7 Trading Plaza
+	4 Potion Seller
+	15 Buyout
+	6 Strength Potion
+	4 Despair
+	4 Pit Knight
+	7 Bolts From The Blue
+	6 City Districts
+	15 Hunters of Sky Rock
+	7 Opening Volley
+	7 Flickering Mansion
+	4 Acceptance
+	7 Schadenfreude
+	7 Den of Thieves
+	4 Ohio
+	15 Groundbreaker Baloth
+	7 Den of Lions
+	7 Wànli Chángchéng
+	4 Pillars of Passion
+	7 Serment du Jeu de Paume
+	7 Dormant Monoliths
+	7 Coil Site
+	7 Archdruid's Hollow
+	7 Vesuvan Marsh
+	7 Wandering Worldspires
+	7 Tomb of Remembrance
+	7 Shrine to Perfection
+	6 Forgiveness
+	15 Emotional Damage
+	15 Faith
+	15 Betrayal of Julius Casesar
+	15 Surprise!!!!!
+	7 Cave of Hubris
+	7 Forced Capitulation
+	7 Patience
+	15 Futility
+	15 Embarrass
+	4 Frustration
+	15 Misery
+	4 Boglord Hydra
+	4 Bringer of the Darkest Hour
+	15 Consumption
+	7 Suspicious Hideout
+	15 Visit a Haunted Mansion
+	15 Act of Grace
+	7 Down to the Bone
+	7 Feed for the Horde
+	7 Cardboard Shedder
+	7 Unstable Plasma
+	7 Thalassophobia
+	7 Battle-Frenzied Champion
+	7 Hunted Whelp
+	4 Unholy Expression
+	7 Phantom Legion
+	15 Survivor of Rhonas
+	4 Party Beckoner
+	4 Beemsoox, Bite of the Land
+	15 HMS Victory
+	6 Study Breaker
+	6 Resolute Sharpshoot
+	7 Offmage
+	7 Spawn of Sorrow
+	7 Abyssal Seizure
+	15 Veteran Responder
+	7 Temporal Stutter
+	7 Arena Underdogs
+	7 Void Orb
+	15 Containment Decree
+	15 Deep Remembrance
+	7 Panglacial Sleep
+	7 Chosen Champion
+	15 The Great Frost
+	7 Thrill Ride
+	15 Gruesome Defeat
+	7 Null Sphere
+	4 Frostscape
+	7 Eternal Legacy
+	6 Sylvan Shaper
+	7 Deceitful Never-Smith
+	7 Death-Near Synthesizer
+	4 Jace, Army of One
+	15 Grandiloquent's Tutelage
+	7 Remnant Retainer
+	15 Newton, the Scientist
+	15 Riding Instructor
+	6 Mystic Cryomancer
+	6 Paint Can
+	7 Sheikh Mansur
+	15 Professor of Deceit
+	7 Blood Broker
+	4 The Foul Symbol
+	4 Dub, Noxious Swarmlord
+	7 Spider Volcano
+	4 Admirationis, Lost Ship
+	15 Hermitic Oracle
+	6 Ashspitter
+	15 Sun on the Fields
+	7 Narwop, the Last Home
+	4 Beast of the Ruins
+	7 Greasefang's Scrambler
+	15 Divining Concoction
+	7 Invoker of Ororos
+	15 Acolyte of Ororos
+	6 Ororos Initiate
+	4 Ororos, Alpha and Omega
+	4 Vincent, Lord of Hosts
+	7 Storm of Swords
+	15 Stirrer of Hearts
+	6 Gallant Chevalier
+	4 Kraxious, Beckoner of Storm
+	7 Jacque, Grizzeled Captain
+	15 Call the Monster
+	6 Cavern Fisherman
+	4 The First Manifestation
+	7 Lingering Might
+	15 Salt Circle
+	6 Aggressive Gremlins
+	4 The Many-Mother
+	7 Resplendent Marshall
+	4 Sightless Stalker
