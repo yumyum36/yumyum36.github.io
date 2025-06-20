@@ -1,7 +1,7 @@
 ﻿{
     "name": "UOL Custom Card Contest",
     "formats": "",
-    "trimmed": "n",
+    "trimmed": "y",
     "image_type": "png",
     "draft_structure": "cube",
     "cards": [
@@ -29873,5 +29873,6 @@
             "artist2": "Cartoon Network",
             "notes": "doublecheck"
         }
-    ]
+    ],
+    "version": 1
 }
