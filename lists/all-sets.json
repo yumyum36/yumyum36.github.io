@@ -1,1 +1,9 @@
-﻿{"sets": [{"set_code": "UOL", "set_name": "UOL Custom Card Contest", "formats": ""}]}
+﻿{
+    "sets": [
+        {
+            "set_code": "UOL",
+            "set_name": "UOL Custom Card Contest",
+            "formats": ""
+        }
+    ]
+}

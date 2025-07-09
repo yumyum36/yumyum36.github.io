@@ -1,4 +1,104 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+
+
+Gremlin Nest (3)
+rules_text: Tribute 2 [i](As that creature enters, an opponent of your choice may put two +1/+1 counters on it.)[/i]
+This land enters tapped if its tribute was paid.
+{T}: Add {B} or {R}.
+{B}{R}: This land becomes a 1/1 black and red Gremlin creature with first strike until end of turn. It's still a land. => Tribute 2 [i](As this land enters, an opponent of your choice may put two +1/+1 counters on it.)[/i]
+This land enters tapped if its tribute was paid.
+{T}: Add {B} or {R}.
+{B}{R}: This land becomes a 1/1 black and red Gremlin creature with first strike until end of turn. It's still a land.
+
+Battle of the Bands
+rules_text: [i](As this contest enters, an opponent protects it. Each player exiles a permanent they control. Its starting defense is equal to the highest mana value of those exiled permanents.)[/i]
+When this battle enters, create four 1/1 red Bard creature tokens with Renown 1.
+When this battle is defeated, create a number of Treasure tokens equal to the total power of creatures you control minus the total power of creatures its protector controls. => [i](As this Contest enters, an opponent protects it. Each player exiles a permanent they control. Its starting defense is equal to the highest mana value of those exiled permanents.)[/i]
+When this battle enters, create four 1/1 red Bard creature tokens with Renown 1.
+When this battle is defeated, create a number of Treasure tokens equal to the total power of creatures you control minus the total power of creatures its protector controls.
+
+
+type: Creature — Human => Legendary Land
+cost: {1}{B} => 
+rules_text: When this creature enters, if you control an undead creature, draw a card. [i](Shades, Spirits, Skeletons, Vampires, Wraiths and Zombies are Undead.)[/i] => All cards that aren't on the battlefield, spells and nonland permanents lose all subtypes.
+pt: 2/2 => 
+
+Remnant Retainer
+rules_text: Cards in graveyards can't be the target of spells or abilities your opponents control.
+{1}, Sacrifice a nontoken creature: Create a 0/0 blue Illusion creature token with “This creature enters as a copy of target creature card in a graveyard. When it leaves the battlefield, exile that card.” Activate only as a sorcery. => Cards in graveyards can't be the target of spells or abilities your opponents control.
+{1}, Sacrifice a nontoken creature: Create a 0/0 blue Illusion creature token with “This creature enters as a copy of a creature card in a graveyard. When it leaves the battlefield, exile that card.” Activate only as a sorcery.
+
+Recycling Mage
+rules_text: When this creature enters, you may return an instant or sorcery card from your graveyard to your hand.
+[i]Spell Mastery[/i] — If there are two or more instant and/or sorcery cards in your graveyard, you may return an instant and a sorcery card from your graveyard to your hand instead.
+Eternalize {4}{U}{B} => When this creature enters, you may return target instant or sorcery card from your graveyard to your hand.
+[i]Spell Mastery[/i] — If there are two or more instant and/or sorcery cards in your graveyard, you may return an instant and a sorcery card from your graveyard to your hand instead.
+Eternalize {4}{U}{B}
+
+Magnificent Crow
+pt: ?/? => 4/4
+
+Kithkin Blademaster
+rules_text: Creatures with power greater than this creature's power can't block it.
+Whenever this creature attacks, put a +1/+1 counter on it. => This creature can't be blocked by creatures with greater power.
+Whenever this creature attacks, put a +1/+1 counter on it.
+
+The Last Sliver
+type: Ledendary Creature — Sliver => Legendary Creature — Sliver
+
+Serra's Realm
+rules_text: [i]({T}: Add {W}.)[/i]
+{3}{W}{W}, {T}: Create a 4/4 white Angel creature token with flying.
+Whenever you control a black creature, transform Serra's Realm. => [i]({T}: Add {W}.)[/i]
+{3}{W}{W}, {T}: Create a 4/4 white Angel creature token with flying.
+When you control a black creature, transform Serra's Realm.
+
+Arcana Burner
+rules_text: Flash, trample
+As this creature enters, you may exile target blue instant or sorcery spell, if you do search that spell's owner's graveyard, hand and library for any number of cards with the same name as the exiled card and exile them. That player then shuffles.
+This creature enters with X +1/+1 counters, where X is the number of cards exiled by this creature. => Flash, trample
+When this creature enters, you may exile target blue instant or sorcery spell, if you do search that spell's owner's graveyard, hand and library for any number of cards with the same name as the exiled card and exile them. That player then shuffles.
+This creature enters with X +1/+1 counters, where X is the number of cards exiled by this creature.
+
+Apocalypse Wolverine
+rules_text: Convoke [i](Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)[/i]
+When this creature enters, sacrifice any number of permanents. Each other player discards a card for each card discarded this way. => Convoke [i](Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)[/i]
+When this creature enters, sacrifice any number of permanents. Each other player discards a card for each creature sacrificed this way.
+
+Bookwyrm, Daydreamer
+special_text: Daybound [i](If a player casts no spells during their own turn, it becomes night next turn.)[/i]
+[+1]: Reveal a card from your hand, it gains flash until the end of the next turn.
+[-1]: Hatch.
+[-2]: Bookwyrm phases out. => Daybound [i](If a player casts no spells during their own turn, it becomes night next turn.)[/i]
+[+1]: Reveal a card from your hand, it gains flash until the end of the next turn.
+[-1]: Hatch. [i](Create a 0/1 blue Bird creature token with defender and daybound. It transforms into a 2/2 blue bird creature with Flying and Nightbound.)[/i]
+[-2]: Bookwyrm phases out.
+
+Friendly Detrivore
+
+Devil's Bargain
+rules_text: Cast this spell only if a creature you control died this turn.
+put target creature card fro your graveyard onto the battlefield with a finality counter on it. It gains haste until end of turn.
+At the beginning of the next end step, sacrifice that creature and you lose life equal to its power. => Cast this spell only if a creature you control died this turn.
+Put target creature card from your graveyard onto the battlefield with a finality counter on it. It gains haste until end of turn.
+At the beginning of the next end step, sacrifice that creature and you lose life equal to its power.
+
+Lion's Eye Lotus
+rules_text: Discard your hand, Sacrifice Lion's Eye Lotus: Add three mana of any one color. Target opponent searches your library and graveyard for any number of cards named Lion's Eye Lotus and exiles them, the shuffle. Activate only as an instant. => Discard your hand, Sacrifice Lion's Eye Lotus: Add three mana of any one color. Target opponent searches your library and graveyard for any number of cards named Lion's Eye Lotus and exiles them, then shuffle. [i](Activate only as an instant.)[/i]
+
+Tech Company
+rules_text: This land enters tapped.
+As this land enters, you may exile the top five cards of your library. If you do, this land enters with a gilded counter on it.
+{T}: Add {R}.
+{T}: Add {W} or {U}. Activate only if this land had a gilded counter on it. => This land enters tapped.
+As this land enters, you may exile the top five cards of your library. If you do, this land enters with a gilded counter on it.
+{T}: Add {R}.
+{T}: Add {W} or {U}. Activate only if this land has a gilded counter on it.
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.

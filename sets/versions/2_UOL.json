@@ -427,7 +427,7 @@
             "number": 1676,
             "color_identity": "BR",
             "cost": "",
-            "rules_text": "Tribute 2 [i](As that creature enters, an opponent of your choice may put two +1/+1 counters on it.)[/i]\nThis land enters tapped if its tribute was paid.\n{T}: Add {B} or {R}.\n{B}{R}: This land becomes a 1/1 black and red Gremlin creature with first strike until end of turn. It's still a land.",
+            "rules_text": "Tribute 2 [i](As this land enters, an opponent of your choice may put two +1/+1 counters on it.)[/i]\nThis land enters tapped if its tribute was paid.\n{T}: Add {B} or {R}.\n{B}{R}: This land becomes a 1/1 black and red Gremlin creature with first strike until end of turn. It's still a land.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -3707,7 +3707,7 @@
             "number": 680,
             "color_identity": "R",
             "cost": "{3}{R}{R}",
-            "rules_text": "[i](As this contest enters, an opponent protects it. Each player exiles a permanent they control. Its starting defense is equal to the highest mana value of those exiled permanents.)[/i]\nWhen this battle enters, create four 1/1 red Bard creature tokens with Renown 1.\nWhen this battle is defeated, create a number of Treasure tokens equal to the total power of creatures you control minus the total power of creatures its protector controls.",
+            "rules_text": "[i](As this Contest enters, an opponent protects it. Each player exiles a permanent they control. Its starting defense is equal to the highest mana value of those exiled permanents.)[/i]\nWhen this battle enters, create four 1/1 red Bard creature tokens with Renown 1.\nWhen this battle is defeated, create a number of Treasure tokens equal to the total power of creatures you control minus the total power of creatures its protector controls.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -8749,7 +8749,7 @@
             "number": 1618,
             "color_identity": "C",
             "cost": "{4}",
-            "rules_text": "Cards in graveyards can't be the target of spells or abilities your opponents control.\n{1}, Sacrifice a nontoken creature: Create a 0/0 blue Illusion creature token with \u201cThis creature enters as a copy of target creature card in a graveyard. When it leaves the battlefield, exile that card.\u201d Activate only as a sorcery.",
+            "rules_text": "Cards in graveyards can't be the target of spells or abilities your opponents control.\n{1}, Sacrifice a nontoken creature: Create a 0/0 blue Illusion creature token with \u201cThis creature enters as a copy of a creature card in a graveyard. When it leaves the battlefield, exile that card.\u201d Activate only as a sorcery.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -8757,7 +8757,7 @@
             "set": "UOL",
             "loyalty": "",
             "artist": "Joel Wood",
-            "notes": "!tag Ajax !tag cc11"
+            "notes": "!tag Ajax !tag cc11\nchanged \"target creature card\" to \"a creature card\" because replacement effects can't target."
         },
         {
             "card_name": "Newton, the Scientist",
@@ -9713,7 +9713,7 @@
             "number": 1336,
             "color_identity": "UB",
             "cost": "{2}{U}{B}",
-            "rules_text": "When this creature enters, you may return an instant or sorcery card from your graveyard to your hand.\n[i]Spell Mastery[/i] \u2014 If there are two or more instant and/or sorcery cards in your graveyard, you may return an instant and a sorcery card from your graveyard to your hand instead.\nEternalize {4}{U}{B}",
+            "rules_text": "When this creature enters, you may return target instant or sorcery card from your graveyard to your hand.\n[i]Spell Mastery[/i] \u2014 If there are two or more instant and/or sorcery cards in your graveyard, you may return an instant and a sorcery card from your graveyard to your hand instead.\nEternalize {4}{U}{B}",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -9721,7 +9721,7 @@
             "set": "UOL",
             "loyalty": "",
             "artist": "Joshua Hamer",
-            "notes": "!tag Ajax !tag cc6"
+            "notes": "!tag Ajax !tag cc6\nChanged an to gg target"
         },
         {
             "card_name": "Silent Thief",
@@ -10573,13 +10573,13 @@
             "cost": "{4}{U}",
             "rules_text": "Flying\nEach instant and sorcery card in your graveyard has \u201cFlashback\u2014Exile a Bird card from your graveyard.\u201d as long as your control three or more artifacts.",
             "flavor_text": "[i][/i]",
-            "pt": "?/?",
+            "pt": "4/4",
             "special_text": "",
             "shape": "normal",
             "set": "UOL",
             "loyalty": "",
             "artist": "",
-            "notes": "!tag unknown !tag cc6 !tag update"
+            "notes": "!tag unknown !tag cc6 !tag update\n!tag tribal\n\nP/T are unknown. Guessing it's a 4/4?"
         },
         {
             "card_name": "The Dread Guardian",
@@ -15985,7 +15985,7 @@
             "number": 123,
             "color_identity": "W",
             "cost": "{W}",
-            "rules_text": "Creatures with power greater than this creature's power can't block it.\nWhenever this creature attacks, put a +1/+1 counter on it.",
+            "rules_text": "This creature can't be blocked by creatures with greater power.\nWhenever this creature attacks, put a +1/+1 counter on it.",
             "flavor_text": "[i]At first, everyone ignored the little Kithkin. Eventually, she proved how might the Kithkin can be.[/i]",
             "pt": "1/1",
             "special_text": "",
@@ -15993,7 +15993,7 @@
             "set": "UOL",
             "loyalty": "",
             "artist": "Larry MacDougall",
-            "notes": "!tag arsteel !tag cc10"
+            "notes": "!tag arsteel !tag cc10\n!tag word skulk?"
         },
         {
             "card_name": "The Great Cook of Ardenvale",
@@ -17097,7 +17097,7 @@
             "card_name": "The Last Sliver",
             "color": "",
             "rarity": "cube",
-            "type": "Ledendary Creature \u2014 Sliver",
+            "type": "Legendary Creature \u2014 Sliver",
             "number": 16,
             "color_identity": "C",
             "cost": "{5}",
@@ -17929,7 +17929,7 @@
             "number": 1714,
             "color_identity": "W",
             "cost": "",
-            "rules_text": "[i]({T}: Add {W}.)[/i]\n{3}{W}{W}, {T}: Create a 4/4 white Angel creature token with flying.\nWhenever you control a black creature, transform Serra's Realm.",
+            "rules_text": "[i]({T}: Add {W}.)[/i]\n{3}{W}{W}, {T}: Create a 4/4 white Angel creature token with flying.\nWhen you control a black creature, transform Serra's Realm.",
             "flavor_text": "[i]A realm lost to the invasion...[/i]",
             "pt": "",
             "special_text": "",
@@ -18083,7 +18083,7 @@
             "number": 672,
             "color_identity": "R",
             "cost": "{2}{R}{R}",
-            "rules_text": "Flash, trample\nAs this creature enters, you may exile target blue instant or sorcery spell, if you do search that spell's owner's graveyard, hand and library for any number of cards with the same name as the exiled card and exile them. That player then shuffles.\nThis creature enters with X +1/+1 counters, where X is the number of cards exiled by this creature.",
+            "rules_text": "Flash, trample\nWhen this creature enters, you may exile target blue instant or sorcery spell, if you do search that spell's owner's graveyard, hand and library for any number of cards with the same name as the exiled card and exile them. That player then shuffles.\nThis creature enters with X +1/+1 counters, where X is the number of cards exiled by this creature.",
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "",
@@ -18091,7 +18091,7 @@
             "set": "UOL",
             "loyalty": "",
             "artist": "Rogier van de Beek",
-            "notes": "!tag cc3 r2 !tag stoneforged"
+            "notes": "!tag cc3 r2 !tag stoneforged\n!tag word\nChanged As to when since replacement effects can't target. That last paragraph probably has to merge into previous one."
         },
         {
             "card_name": "All Hail Plankton",
@@ -21975,7 +21975,7 @@
             "number": 1024,
             "color_identity": "WUBRG",
             "cost": "{W}{U}{B}{R}{G}",
-            "rules_text": "Convoke [i](Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)[/i]\nWhen this creature enters, sacrifice any number of permanents. Each other player discards a card for each card discarded this way.",
+            "rules_text": "Convoke [i](Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)[/i]\nWhen this creature enters, sacrifice any number of permanents. Each other player discards a card for each creature sacrificed this way.",
             "flavor_text": "[i][/i]",
             "pt": "4/2",
             "special_text": "",
@@ -25608,7 +25608,7 @@
             "rules_text": "Birds you control have\n{2}{R}{R}: It becomes night, transform Bookwyrm, Daydreamer.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "Daybound [i](If a player casts no spells during their own turn, it becomes night next turn.)[/i]\n[+1]: Reveal a card from your hand, it gains flash until the end of the next turn.\n[-1]: Hatch.\n[-2]: Bookwyrm phases out.",
+            "special_text": "Daybound [i](If a player casts no spells during their own turn, it becomes night next turn.)[/i]\n[+1]: Reveal a card from your hand, it gains flash until the end of the next turn.\n[-1]: Hatch. [i](Create a 0/1 blue Bird creature token with defender and daybound. It transforms into a 2/2 blue bird creature with Flying and Nightbound.)[/i]\n[-2]: Bookwyrm phases out.",
             "shape": "transform double faced",
             "set": "UOL",
             "loyalty": "4",
@@ -25620,7 +25620,7 @@
             "rules_text2": "",
             "flavor_text2": "[i][/i]",
             "pt2": "",
-            "special_text2": "Nightbound [i](If a player casts at least two spells during their own turn, it becomes day next turn.)[/i]\n[+1]: Hatch\n[-7]: You get an emblem with \u201cIt cannot become day\u201d and \u201cWhenever a bird you control deals combat damage to a player, investigate\u201d",
+            "special_text2": "Nightbound [i](If a player casts at least two spells during their own turn, it becomes day next turn.)[/i]\n[+1]: Hatch.\n[-7]: You get an emblem with \u201cIt cannot become day\u201d and \u201cWhenever a bird you control deals combat damage to a player, investigate\u201d",
             "loyalty2": "4",
             "artist2": "NoriZC",
             "notes": "!tag new type, mechanic !tag cc10 (posted during cc12, but for the intention for being part of the round in the past)\n!tag bookwyrm"
@@ -27279,7 +27279,7 @@
             "set": "UOL",
             "loyalty": "",
             "artist": "Anderson Silva",
-            "notes": "!tag cc13 !tag glassninja !tag ung"
+            "notes": "!tag cc13 !tag glassninja !tag unb"
         },
         {
             "card_name": "Desedementation",
@@ -31015,7 +31015,7 @@
             "number": 499,
             "color_identity": "B",
             "cost": "{B}{B}",
-            "rules_text": "Cast this spell only if a creature you control died this turn.\nput target creature card fro your graveyard onto the battlefield with a finality counter on it. It gains haste until end of turn.\nAt the beginning of the next end step, sacrifice that creature and you lose life equal to its power.",
+            "rules_text": "Cast this spell only if a creature you control died this turn.\nPut target creature card from your graveyard onto the battlefield with a finality counter on it. It gains haste until end of turn.\nAt the beginning of the next end step, sacrifice that creature and you lose life equal to its power.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -32309,7 +32309,7 @@
             "number": 1590,
             "color_identity": "C",
             "cost": "{0}",
-            "rules_text": "Discard your hand, Sacrifice Lion's Eye Lotus: Add three mana of any one color. Target opponent searches your library and graveyard for any number of cards named Lion's Eye Lotus and exiles them, the shuffle. Activate only as an instant.",
+            "rules_text": "Discard your hand, Sacrifice Lion's Eye Lotus: Add three mana of any one color. Target opponent searches your library and graveyard for any number of cards named Lion's Eye Lotus and exiles them, then shuffle. [i](Activate only as an instant.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -32327,7 +32327,7 @@
             "number": 1722,
             "color_identity": "WUR",
             "cost": "",
-            "rules_text": "This land enters tapped.\nAs this land enters, you may exile the top five cards of your library. If you do, this land enters with a gilded counter on it.\n{T}: Add {R}.\n{T}: Add {W} or {U}. Activate only if this land had a gilded counter on it.",
+            "rules_text": "This land enters tapped.\nAs this land enters, you may exile the top five cards of your library. If you do, this land enters with a gilded counter on it.\n{T}: Add {R}.\n{T}: Add {W} or {U}. Activate only if this land has a gilded counter on it.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
