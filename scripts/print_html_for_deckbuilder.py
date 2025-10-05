@@ -360,7 +360,7 @@ def generateHTML(codes):
 		max-height: 63px;
 	}
 	.img-container .h-img {
-		transform: rotate(90deg);
+		transform: rotateY(0deg) rotate(90deg);
 		width: 85%;
 	}
 	.rc-menu {
@@ -528,7 +528,7 @@ def generateHTML(codes):
 		document.addEventListener("DOMContentLoaded", async function () {
 			'''
 
-	with open(os.path.join('resources', 'snippets', 'load-files.txt'), encoding='utf-8-sig') as f:
+	with open(os.path.join('scripts', 'snippets', 'load-files.txt'), encoding='utf-8-sig') as f:
 		snippet = f.read()
 		html_content += snippet
 
@@ -715,7 +715,7 @@ def generateHTML(codes):
 
 		'''
 
-	with open(os.path.join('resources', 'snippets', 'compare-function.txt'), encoding='utf-8-sig') as f:
+	with open(os.path.join('scripts', 'snippets', 'compare-function.txt'), encoding='utf-8-sig') as f:
 		snippet = f.read()
 		html_content += snippet
 
@@ -799,11 +799,11 @@ def generateHTML(codes):
 
 		'''
 
-	with open(os.path.join('resources', 'snippets', 'search-defs.txt'), encoding='utf-8-sig') as f:
+	with open(os.path.join('scripts', 'snippets', 'search-defs.txt'), encoding='utf-8-sig') as f:
 		snippet = f.read()
 		html_content += snippet
 
-	with open(os.path.join('resources', 'snippets', 'tokenize-symbolize.txt'), encoding='utf-8-sig') as f:
+	with open(os.path.join('scripts', 'snippets', 'tokenize-symbolize.txt'), encoding='utf-8-sig') as f:
 		snippet = f.read()
 		html_content += snippet
 
@@ -819,7 +819,7 @@ def generateHTML(codes):
 
 		'''
 
-	with open(os.path.join('resources', 'snippets', 'img-container-defs.txt'), encoding='utf-8-sig') as f:
+	with open(os.path.join('scripts', 'snippets', 'img-container-defs.txt'), encoding='utf-8-sig') as f:
 		snippet = f.read()
 		html_content += snippet
 
@@ -1057,7 +1057,12 @@ def generateHTML(codes):
 							}
 
 							card_img = document.createElement("img");
-							card_img.src = "/sets/" + card_stats.set + "-files/img/" + card_stats.number + "_" + card_stats.card_name + ((card_stats.shape.includes("double")) ? "_front" : "") + "." + card_stats.image_type;
+							if ("position" in card_stats) {
+								card_img.src = "/sets/" + card_stats.set + "-files/img/" + card_stats.position + ((card_stats.shape.includes("double")) ? "_front" : "") + "." + card_stats.image_type;
+							}
+							else {
+								card_img.src = "/sets/" + card_stats.set + "-files/img/" + card_stats.number + (card_stats.shape.includes("token") ? "t_" : "_") + card_stats.card_name + ((card_stats.shape.includes("double")) ? "_front" : "") + "." + card_stats.image_type;
+							}
 							card_img.style.cursor = "pointer";
 							card_img.onmouseover = function() {
 								cgc = document.getElementById("card-grid-container");
@@ -1227,7 +1232,7 @@ def generateHTML(codes):
 
 		'''
 
-	with open(os.path.join('resources', 'snippets', 'random-card.txt'), encoding='utf-8-sig') as f:
+	with open(os.path.join('scripts', 'snippets', 'random-card.txt'), encoding='utf-8-sig') as f:
 		snippet = f.read()
 		html_content += snippet
 

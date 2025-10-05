@@ -29,8 +29,10 @@ def convertList(setCode):
 		match = re.search(r'!group ([^ \n]+)', cards[i]['notes'])
 		if match and match.group() not in sort_groups:
 			sort_groups.append(match.group())
+		if "token" in cards[i]['shape'] or "Basic" in cards[i]['type']:
+			continue
 		for j in range(i):
-			if cards[i]['card_name'] == cards[j]['card_name'] and "token" not in cards[i]['shape'] and "Basic" not in cards[i]['type']:
+			if cards[i]['card_name'] == cards[j]['card_name'] and "token" not in cards[j]['shape'] and "Basic" not in cards[j]['type']:
 				skipdex.append(cards[j]['number'])
 
 	final_list = []
@@ -91,7 +93,8 @@ def convertList(setCode):
 		'L': [],
 		'basic': [],
 		'token': [],
-		'mp': []
+		'mp': [],
+		'': []
 	}
 
 	for group in sort_groups:
@@ -121,7 +124,8 @@ def convertList(setCode):
 		# sort types
 		if '!group' in card['notes']:
 			for group in sort_groups:
-				if group in card['notes']:
+				pattern = re.compile(re.escape(group) + r'(?:\n|$)')
+				if pattern.search(card['notes']):
 					cards_sorted[group].append(card)
 		elif 'token' in card['shape']:
 			cards_sorted['token'].append(card)
@@ -226,6 +230,9 @@ def convertList(setCode):
 			continue
 		else:
 			for index in r['cards']:
+				if index not in cards_sorted:
+					print(f'INFO: Group {index} not found in any card notes.')
+					index = ''
 				row_count = max(row_count, len(cards_sorted[index]))
 				cards_arr.append(cards_sorted[index])
 
@@ -247,7 +254,7 @@ def convertList(setCode):
 						final_list.append(blank1)
 					else:
 						ca = arr[row]
-						final_list.append({'card_name':ca['card_name'],'number':ca['number'],'shape':ca['shape'],'set':code})
+						final_list.append({'card_name':ca['card_name'],'number':ca['number'],'shape':ca['shape'],'set':code,'position':('' if 'position' not in ca else ca['position'])})
 
 			if len(r['cards']) == 1: # single-card categories
 				if not row_count % 5 == 0:
