@@ -1,4 +1,135 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+Felinic Dominion added.
+Ariistuun the Ravenous added.
+Cat O' Lantern added.
+Fear of Losing Control added.
+Ghostcloak added.
+Guardian Spirit added.
+Hallowed Reunion added.
+Haunt-Night Rider added.
+Irresistable Candy added.
+Moonlight Haunting added.
+Mummer's Guise added.
+Obscure Costume added.
+Pumpkin Carver added.
+Pumpkin Spice Latte added.
+Spreading Bonfire added.
+The Host of the Sidhe added.
+The Three Months of Christmas added.
+Trick for Treat added.
+Trick or Treat added.
+Trick-or-Treating added.
+Vigil for the Martyrs added.
+
+
+Mist-Lure Shade
+rules_text: Flying, ward {1}
+Other undead creatures you control have ward {1}. [i](Shades, Spirits, Skeletons, Vampires, Wraiths and Zombies are Undead.)[/i]
+{WB}{UB}: Target undead gets +1/+1 until end of turn. => Flying, ward {1}
+Other undead creatures you control have ward {1}. [i](Shades, Spirits, Skeletons, Vampires, Wraiths and Zombies are Undead.)[/i]
+{WB}{UB}: Target undead creature gets +1/+1 until end of turn.
+
+Viper's Bargain
+
+Hydra
+
+Devastating Plague
+
+
+type: Creature — Human => Legendary Land
+cost: {1}{B} => 
+rules_text: When this creature enters, if you control an undead creature, draw a card. [i](Shades, Spirits, Skeletons, Vampires, Wraiths and Zombies are Undead.)[/i] => All cards that aren't on the battlefield, spells and nonland permanents lose all subtypes.
+pt: 2/2 => 
+
+Fenrir, Hound of Darkness
+rules_text: Deathtouch
+Whenever you cast a black or red spell, put a +1/+1 counter on this creature.
+Whenever an opponent casts a blue or white spell, they lose two life. => Deathtouch
+Whenever you cast a black or red spell, put a +1/+1 counter on this creature.
+Whenever an opponent casts a blue or white spell, they lose 2 life.
+
+Cavern Fisherman
+rules_text: {T}: Add {G}.
+{T}: Mill 3 cards. Add {U}{U}. Spend this mana only to case sea monsters. [i](Krakens, Leviathans, Octopi, and Serpents are sea monsters.)[/i] => {T}: Add {G}.
+{T}: Mill 3 cards. Add {U}{U}. Spend this mana only to cast sea monsters. [i](Krakens, Leviathans, Octopi, and Serpents are sea monsters.)[/i]
+
+The Underworld (5)
+rules_text: [i]({T}: Add {B}.)[/i]
+At the beginning of your end step, exile a card in a graveyard. If it's a creature or an enchantment, create a 2/2 Skeleton Soldier token named Phylaskia. => [i]({T}: Add {B}.)[/i]
+At the beginning of your end step, exile a card in a graveyard. If it's a creature or an enchantment, create a legendary 2/2 Skeleton Soldier token named Phylaskia.
+
+Kevin Bzzytn, Private Eye
+rules_text: Partner [i](You can have two commanders if both have partner.)[/i]
+When Kevin Bzzytn's partner dies, Investigate. [i](To investigate, create a Clue token. It's an artifact with “{2}, Sacrifice this artifact: Draw a card.”)[/i] => Partner [i](You can have two commanders if both have partner.)[/i]
+Whenever Kevin Bzzytn's partner dies, Investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this artifact: Draw a card.”)[/i]
+
+Deterioration of Sanity
+
+Confront your Fears
+
+Kithkin Blademaster
+rules_text: This creature can't be blocked by creatures with greater power.
+Whenever this creature attacks, put a +1/+1 counter on it. => Skulk [i](This creature can't be blocked by creatures with greater power.)[/i]
+Whenever this creature attacks, put a +1/+1 counter on it.
+
+Pestis Dux
+rules_text: Afflict 3 [i](Whenever this creature becomes blocked, defending player loses 3 life.)[/i]
+
+When Pestis Dix enters, put a decayed counter on each creature. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i] => Afflict 3 [i](Whenever this creature becomes blocked, defending player loses 3 life.)[/i]
+When Pestis Dix enters, put a decayed counter on each creature. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+
+Disgraced Scientist
+type: Creature — Sexy Human => Creature — Sexy Human Scientist
+
+Inflexible Thunder
+rules_text: This spell costs {2} less to cast if an opponent controls two or more Islands.
+Whenever this spell becomes the target of a blue spell, copy it twice. You may choose new targets for the copy. => This spell costs {2} less to cast if an opponent controls two or more Islands.
+Inflexible Thunder deals 3 damage to any target.
+Whenever this spell becomes the target of a blue spell, copy it twice. You may choose new targets for the copy.
+
+Interplanar Confrontation
+
+Corrosive Spore Fungus
+
+Essence Vampire
+
+Falling Into the Bottomless Pit
+
+Clementine, Bar's Attendant
+
+Parental Protection
+rules_text: When this enchantment enters, create three 1/1 white Cat creature tokens.
+ Sacrifice this enchantment: Cats you control gain hexproof and indestructible until end of turn. => When this enchantment enters, create three 1/1 white Cat creature tokens.
+Sacrifice this enchantment: Cats you control gain hexproof and indestructible until end of turn.
+
+Nullscape Battlemage
+
+Stagnancy
+rules_text: Whenever a player casts a spell, counter that spell unless its controller pays 1 for each card with the same name in a graveyard and each permanent with the same name on the battlefield. => Whenever a player casts a spell, counter that spell unless its controller pays {1} for each card with the same name in a graveyard and each permanent with the same name on the battlefield.
+
+Carelss Son
+rules_text: Haste
+When this creature enters or attacks, draw a card.
+At the beginning of your end step, discard two cards. Then if you have no cards in hand, sacrifice this creature. => Haste
+Whenever this creature enters or attacks, draw a card.
+At the beginning of your end step, discard two cards. Then if you have no cards in hand, sacrifice this creature.
+
+Jula, Spirit of the Harvest
+rules_text: Vigilance, ward {2}
+When Jula enters or attacks, create a Food token.
+Whenever you sacrifice a Food, create a 1/1 green Insect creature token. => Vigilance, ward {2}
+Whenever Jula enters or attacks, create a Food token.
+Whenever you sacrifice a Food, create a 1/1 green Insect creature token.
+
+Woesource Manaflux
+
+Lion's Eye Lotus
+rules_text: Discard your hand, Sacrifice Lion's Eye Lotus: Add three mana of any one color. Target opponent searches your library and graveyard for any number of cards named Lion's Eye Lotus and exiles them, then shuffle. [i](Activate only as an instant.)[/i] => Discard your hand, sacrifice Lion's Eye Lotus: Add three mana of any one color. Target opponent searches your library and graveyard for any number of cards named Lion's Eye Lotus and exiles them, then shuffle. [i](Activate only as an instant.)[/i]
+
+
+VERSION 2 CHANGELOG
 ====================
 
 
