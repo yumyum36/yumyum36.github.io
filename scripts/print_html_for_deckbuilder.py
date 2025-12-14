@@ -138,16 +138,16 @@ def generateHTML(codes):
 	}
 	.search-image-grid-container {
 		overflow-y: scroll;
-		scrollbar-width: none;
 	}
 	.search-image-grid {
 		display: grid;
 		grid-template-columns: 1fr 1fr 1fr 1fr;
 		width: 98%;
-		height: fit-content;
+		height: 100%;
+		overflow-y: scroll;
 		gap: 3px;
 		justify-items: center;
-		padding: 8px 1%;
+		padding: 1%;
 	}
 	@media ( max-width: 750px ) {
 		.image-grid {
@@ -454,6 +454,7 @@ def generateHTML(codes):
 					<option value="default">Actions ...</option>
 					<option value="new">New deck</option>
 					<option value="import">Import deck</option>
+					<option value="clipboard">Copy to clipboard</option>
 					<option value="export-dek">Export .dek</option>
 					<option value="export-txt">Export .txt</option>
 					<option value="export-cod">Export .cod</option>
@@ -573,7 +574,7 @@ def generateHTML(codes):
 			{
 				document.getElementById("import-file").click();
 			}
-			else if (option.startsWith("export"))
+			else if (option == "clipboard" || option.startsWith("export"))
 			{
 				exportFile(option);
 			}
@@ -1209,12 +1210,19 @@ def generateHTML(codes):
 				deck_text += "\\t</zone>\\n</cockatrice_deck>";
 			}
 
-			let downloadableLink = document.createElement('a');
-			downloadableLink.setAttribute('href', 'data:text/plain;charset=utf-8,' + encodeURIComponent(deck_text));
-			downloadableLink.download = deck_name + ("." + export_as.split("-")[1]);
-			document.body.appendChild(downloadableLink);
-			downloadableLink.click();
-			document.body.removeChild(downloadableLink);
+			if (export_as != "clipboard")
+			{
+				let downloadableLink = document.createElement('a');
+				downloadableLink.setAttribute('href', 'data:text/plain;charset=utf-8,' + encodeURIComponent(deck_text));
+				downloadableLink.download = deck_name + ("." + export_as.split("-")[1]);
+				document.body.appendChild(downloadableLink);
+				downloadableLink.click();
+				document.body.removeChild(downloadableLink);
+			}
+			else
+			{
+				navigator.clipboard.writeText(deck_text);
+			}
 
 			document.getElementById("file-menu").value = "default";
 		}
