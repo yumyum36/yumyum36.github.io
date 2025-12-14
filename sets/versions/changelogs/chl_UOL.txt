@@ -1,4 +1,129 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+Archbishop's Charm added.
+Archpriest's Charm added.
+Devotion added.
+Lizinda, Communal Ritualist added.
+Cheleta, the Spectress added.
+Fear of Choice added.
+Class Counter added.
+Hago's Fury added.
+Jythera, Door to the Mind added.
+Azrith, Baron of Bones added.
+Confluence of Disease added.
+Obsessed Necromancer added.
+Sheoldred's Legacy added.
+Abaction added.
+Blazing Assault added.
+First Flame's Legacy added.
+Magmaclasm added.
+Earthrumbler Hydra added.
+Immertum's Faithful added.
+Sage of Gaea added.
+Titan of Fecundity added.
+Rubidium Pop Rocks added.
+Deep Soul Guide added.
+Rotting Necropolis added.
+Supply Raid added.
+Surging Disintegration added.
+March of Withiering Souls added.
+Rallying Whacker added.
+It That Unmakes added.
+Replicated Ruby added.
+Sanguine Syphon added.
+Compunding Studies added.
+Malaria added.
+Plblslm, Multiplicative Friend added.
+Foreshadowing Dragonstorm added.
+Manifest Legacy added.
+Percolate added.
+Wary Witness added.
+Desperate Summon added.
+Moonsnare Larcenist added.
+Talsin, Chrono Accelerator added.
+Thoughts and Prayers added.
+
+
+Barroom Brawler
+
+
+type: Creature — Human => Legendary Land
+cost: {1}{B} => 
+rules_text: When this creature enters, if you control an undead creature, draw a card. [i](Shades, Spirits, Skeletons, Vampires, Wraiths and Zombies are Undead.)[/i] => All cards that aren't on the battlefield, spells and nonland permanents lose all subtypes.
+pt: 2/2 => 
+
+Consuming Search
+rules_text: Discard a card, then draw a card. You lose 2 life.
+{B}, Pay 1 life, Reveal this card from your hand: Surveil 1. activate this ability only anytime you could cast a sorcery.
+Dredge 1. => Discard a card, then draw a card. You lose 2 life.
+{B}, Pay 1 life, Reveal this card from your hand: Surveil 1. activate this ability only anytime you could cast a sorcery.
+Dredge 1
+
+Geonosis
+
+Fancy Duck
+
+Frozen Suns
+
+Astral Voyager
+
+Viking Warship
+
+Ark of the Departed
+
+Tales' Trials
+
+Asphegon, City of the Spire
+rules_text: Asphegon, City of the Spire enters tapped.
+{T}: Add {R}, {G} or {U}. If you control four or more creature, add {C}{C}.
+{4}, {T}: Look at the top three cards of your library, you may reveal a creature card from among them and put it into your hand. Put the rest on the bottom of your library in any order. => Asphegon, City of the Spire enters tapped.
+{T}: Add {R}, {G} or {U}. If you control four or more creatures, add {C}{C}.
+{4}, {T}: Look at the top three cards of your library, you may reveal a creature card from among them and put it into your hand. Put the rest on the bottom of your library in any order.
+
+Envoy of Joy
+
+Interplanar Confrontation
+rules_text: Each player sacrifices a planeswalker. => Each player sacrifices a planeswalker of their choice.
+
+Inflaming Emberwhirl
+
+Venomous Swamp
+
+Muxus's Quartermaster
+
+Goblin Assault Leader
+
+Blazebust
+
+Reviled Witch
+
+Celestial Phoenix
+
+Pumpkin Carver
+
+The Host of the Sidhe
+rules_text: Forestwalk
+When this creature becomes the target of a spell, sacrifice it.
+A deck can have any number of cards named The Host of the Sídhe
+Fairy Host — Exile this card and at least five other cards named The Host of the Sídhe from your graveyard: Put all creature cards named The Host of the Sídhe from graveyards and/or exile onto the battlefield under your control. => Forestwalk
+When this creature becomes the target of a spell, sacrifice it.
+A deck can have any number of cards named The Host of the Sídhe
+[i]Fairy Host[/i] — Exile this card and at least five other cards named The Host of the Sídhe from your graveyard: Put all creature cards named The Host of the Sídhe from graveyards and/or exile onto the battlefield under your control.
+
+The Three Months of Christmas
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — [i]October [/i]— Creatures you control gain Persist until end of turn.
+II — [i]November [/i]— Spells you cast cost {1} less to cast until the end of turn.
+III — December — Create Mariah Lage, a legendary 5/5 white Avatar Bard creature token with Lifelink. => 
+I — [i]October [/i]— Creatures you control gain Persist until end of turn.
+II — [i]November [/i]— Spells you cast cost {1} less to cast until the end of turn.
+III — [i]December[/i] — Create Mariah Lage, a legendary 5/5 white Avatar Bard creature token with Lifelink.
+
+Vigil for the Martyrs
+
+
+VERSION 3 CHANGELOG
 ====================
 
 Felinic Dominion added.
