@@ -1,0 +1,1 @@
+In CC12 R4, the theme of the round was to make a cross between two strong cards without the end result being broken. This card was a cross between [Gitaxian Probe and Summer Bloom](https://scryfall.com/search?q=%22summer+bloom%22+or+%22gitaxian+probe%22&unique=cards&as=grid)

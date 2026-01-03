@@ -1,0 +1,1 @@
+In CC12 R4, the theme of the round was to make a cross between two strong cards without the end result being broken. This card was a cross between [Yawgmoth's Will and Ragavan](https://scryfall.com/search?q=%22yawgmoth%27s+will%22+or+%22ragavan%2C+nimble%22&unique=cards&as=grid).

@@ -1,0 +1,1 @@
+There are two different custom mechanics that go by ["Momentum".](https://yumyum36.github.io/search?search=o%3Amomentum+tag%3Anew). Draw a card if a card has either version of the mechanic.

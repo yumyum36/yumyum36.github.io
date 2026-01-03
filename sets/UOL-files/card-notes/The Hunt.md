@@ -1,0 +1,1 @@
+[Insight tokens](https://yumyum36.github.io/search?search=o%3Ainsight+tag%3Anew) are an artifact with “: Sacrifice this artifact: Surveil 1.”
