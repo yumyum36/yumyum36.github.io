@@ -1,0 +1,1 @@
+In CC12 R4, the theme of the round was to make a cross between two strong cards without the end result being broken. This card was a cross between [Sinkhole and Summer Bloom](https://scryfall.com/search?q=%22summer+bloom%22+or+name%3A%2F%5Esinkhole%24%2F&unique=cards&as=grid&order=name)

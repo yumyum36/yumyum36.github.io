@@ -1,0 +1,1 @@
+In CC12 R4, the theme of the round was to make a cross between two strong cards without the end result being broken. This card was a cross between [Fury and Hogaak](https://scryfall.com/search?q=name%3A%2F%5EFury%24%2F+or+%28%22hogaak%2C+arisen+necropolis%22+t%3Acreature%29&unique=cards&as=grid)

@@ -1,0 +1,1 @@
+In CC12 R4, the theme of the round was to make a cross between two strong cards without the end result being broken. This card was a cross between [Glimpse of Nature and Fury](https://scryfall.com/search?q=%22glimpse+of+nature%22+or+name%3A%2F%5EFury%24%2F&unique=cards&as=grid)

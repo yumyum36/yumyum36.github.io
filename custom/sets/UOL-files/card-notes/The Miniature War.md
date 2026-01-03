@@ -1,0 +1,1 @@
+In CC12 R4, the theme of the round was to make a cross between two strong cards without the end result being broken. This card was a cross between [Lurrus and Limited Resources](https://scryfall.com/search?q=lurrus+or+%22limited+resources%22&unique=cards&as=grid)

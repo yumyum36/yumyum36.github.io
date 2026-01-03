@@ -1,0 +1,1 @@
+In CC12 R4, the theme of the round was to make a cross between two strong cards without the end result being broken. This card was a cross between [Prophet of Kruphix and Survival of the Fittest](https://scryfall.com/search?q=%22prophet+of+kruphix%22+or+%22survival+of+the+fittest%22&unique=cards&as=grid).

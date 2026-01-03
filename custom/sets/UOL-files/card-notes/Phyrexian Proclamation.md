@@ -1,0 +1,1 @@
+In CC12 R4, the theme of the round was to make a cross between two strong cards without the end result being broken. This card was a cross between [Underworld Breach and Grapeshot](https://scryfall.com/search?q=%22underworld+breach%22+or+name%3A%2Fgrapeshot%24%2F+o%3Adamage&unique=cards&as=grid)

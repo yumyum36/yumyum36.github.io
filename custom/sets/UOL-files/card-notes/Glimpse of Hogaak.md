@@ -1,0 +1,1 @@
+In CC12 R4, the theme of the round was to make a cross between two strong cards without the end result being broken. This card was a cross between [Glimpse of Nature and Hogaak](https://scryfall.com/search?q=%22glimpse+of+nature%22+or+%22hogaak%2C+arisen+necropolis%22&unique=cards&as=grid)
