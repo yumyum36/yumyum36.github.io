@@ -1,0 +1,1 @@
+Insight tokens are an artifact with “: Sacrifice this artifact: Surveil 1.”

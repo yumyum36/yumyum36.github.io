@@ -1,0 +1,1 @@
+Momentum X: It gets +X/+0 while unblocked, and -0/-X while blocked.

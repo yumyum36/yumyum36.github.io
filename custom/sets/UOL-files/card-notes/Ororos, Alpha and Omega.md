@@ -1,0 +1,1 @@
+A faithful creature is a Shaman, Cleric or Monk.
