@@ -1,4 +1,181 @@
-﻿VERSION 5 CHANGELOG
+﻿VERSION 6 CHANGELOG
+====================
+
+Spell Steal (1) added.
+Epiphany (3) added.
+Epiphany (4) added.
+The Spirit-Gem added.
+Jace, Disillusioned added.
+Ice Era Acolyte added.
+Marit Lage's Hunger added.
+Grim Investigator added.
+Big Break added.
+Nahiri, Angel of Death added.
+Alluring Beacon added.
+Rock of Breaking added.
+Unbreakable Window added.
+Lysandra, Demonic Summoner added.
+Lysandra's Pact added.
+Rally the Reserves added.
+Selfless Recruit added.
+Novice Filcher added.
+Filch added.
+Hall of Faith // Provision Threshold added.
+Hall of Memory // Observation Threshold added.
+Scorched Earth Elemental added.
+Undying Flames added.
+Barrel Dragon added.
+Rokket Tracer added.
+Unwary Summoner added.
+Voracious Demon added.
+Drill Sergeant added.
+Recruits in Training added.
+Bloodforger Blacksmith added.
+Bloodforged Blade added.
+Ignition added.
+Chandra Firestarter added.
+Rubick, Grand Magus added.
+Spell Steal (2) added.
+Devotee of Ahassunu added.
+Ahushina's Devotees added.
+Gandurn Potion added.
+Witch's Antidote added.
+Dawnbreak Nurturer added.
+Sunrise added.
+
+Spell Steal removed.
+
+Geralf, the Stitcher
+rules_text: When Geralf, the Stitcher enters, each player mills cards until they mill a creature. Exile each creature milled this way. Create a black Zombie creature token with power equal to the product of each exiled card's power, and toughness equal to the product of each exiled card's toughness. => When Geralf enters, each player mills cards until they mill a creature. Exile each creature milled this way. Create a black Zombie creature token with power equal to the product of each exiled card's power, and toughness equal to the product of each exiled card's toughness.
+
+Frenzy
+
+
+type: Creature — Human => Legendary Land
+cost: {1}{B} => 
+rules_text: When this creature enters, if you control an undead creature, draw a card. [i](Shades, Spirits, Skeletons, Vampires, Wraiths and Zombies are Undead.)[/i] => All cards that aren't on the battlefield, spells and nonland permanents lose all subtypes.
+pt: 2/2 => 
+
+Fangorn Forest
+rules_text: [i]({T}: Add {G}.)[/i]
+{T}: Create a tapped 4/4 green Treefolk creature token with trample. activate this ability only if an opponent had dealt damage to you this turn.
+{4}{G}{G}, {T}: For each Treefolk you control, create a 4/4 green Treefolk creature token with trample. They have haste until end of turn. => [i]({T}: Add {G}.)[/i]
+{T}: Create a tapped 4/4 green Treefolk creature token with trample. Activate this ability only if an opponent had dealt damage to you this turn.
+{4}{G}{G}, {T}: For each Treefolk you control, create a 4/4 green Treefolk creature token with trample. They have haste until end of turn.
+
+Ricky, Truant in Chief
+rules_text: When this creature enters, destroy target artifact.
+Whenever an artifact is put into an opponent's graveyard from anywhere, put a +1/+1 counter on this creature. => When Ricky enters, destroy target artifact.
+Whenever an artifact is put into an opponent's graveyard from anywhere, put a +1/+1 counter on this creature.
+
+Skye, Curiosity Incarnate
+
+Greed, Everhoarding
+rules_text: {1}{B}, Sacrifice a piece of your soul: Draw a card, and create a Treasure token. [i](Your soul starts with 7 pieces. At the beginning of your upkeep, you lose 1 life and mill for each missing piece of your soul.)[/i]
+While you have one piece or less of your soul, Greed, Everhoarding gets +3/+3 and has lifelink and menace. => {1}{B}, Sacrifice a piece of your soul: Draw a card, and create a Treasure token. [i](Your soul starts with 7 pieces. At the beginning of your upkeep, you lose 1 life and mill for each missing piece of your soul.)[/i]
+While you have one piece or less of your soul, Greed gets +3/+3 and has lifelink and menace.
+
+Ashspitter
+rules_text: Menace [i](This creature can't be blocked except by two or more creatures.)[/i]
+Wither [i](This deals damage to creatures in the form of -1/-1 counters.)[/i]
+When Ashspitter dies, it deals damage equal to its power to up to one target creature with a counter on it. => Menace [i](This creature can't be blocked except by two or more creatures.)[/i]
+Wither [i](This deals damage to creatures in the form of -1/-1 counters.)[/i]
+When this creature dies, it deals damage equal to its power to up to one target creature with a counter on it.
+
+Fatalistic Tutor
+rules_text: Choose a card name. Search target player's library for a card with the chosen name and exile it. Shuffle that library.
+[i]Spell Mastery[/i] — If you have two or more instant and/or sorcery cards in your graveyard, you lose 3 life and may play the exiled card this turn.
+[i]Threshold[/i] — If you have seven or more cards in your graveyard, you may pay an additional {R} as you cast this spell. If you do, discard you have, then add {R}{R}{R}. => Choose a card name. Search target player's library for a card with the chosen name and exile it. That player shuffles.
+[i]Spell Mastery[/i] — If you have two or more instant and/or sorcery cards in your graveyard, you lose 3 life and may play the exiled card this turn.
+[i]Threshold[/i] — If you have seven or more cards in your graveyard, you may pay {R} as you cast this spell. If you do, discard your hand, then add {R}{R}{R}.
+
+Matryoshka Thopter
+
+Merlin, Camelot's Mentor
+rules_text: When Merlin, Mentor of Camelot enters, you may exile an instant or sorcery card from your graveyard with mana value three or less.
+{3}, {T}: You may copy the exiled card. If you do, you may cast the copy without paying its mana cost. => When Merlin enters, you may exile an instant or sorcery card from your graveyard with mana value 3 or less.
+{3}, {T}: You may copy the exiled card. If you do, you may cast the copy without paying its mana cost.
+
+Ereftu, the Seething Gale
+rules_text: Flying, first strike
+Whenever Ereftu, the Seething Gale attacks, it deals 3 damage to each creature with flying the defending player controls.
+Whenever a creature an opponent controls dies, Ereftu, the Seething Gale deals 2 damage to target player or planeswalker. => Flying, first strike
+Whenever Ereftu attacks, it deals 3 damage to each creature with flying the defending player controls.
+Whenever a creature an opponent controls dies, Ereftu deals 2 damage to target player or planeswalker.
+
+Unrelenting Legionnaire
+rules_text: Dash {RW}
+As you cast this spell, if you have cast a spell named Unrelenting Legionnaire three or more time this game, you may put it onto the battlefield transformed instead. => Dash {RW}
+As you cast this spell, if you have cast a spell named Unrelenting Legionnaire three or more times this game, you may put it onto the battlefield transformed instead.
+
+Mysterious Tome
+
+Fyebjorn, First to War
+rules_text: Haste
+[i]Glorify[/i] — When Fyebjorn, First to War dies while attacking, return her to the battlefield transformed under her owner's control.
+{1}{W}: Target creature blocks this turn if able. => Haste
+[i]Glorify[/i] — When Fyebjorn dies while attacking, return her to the battlefield transformed under her owner's control.
+{1}{W}: Target creature blocks this turn if able.
+
+Golden Slime
+rules_text: Indestructible
+You may not sacrifice Golden Slime.
+When Golden Slime dies, draw six cards, you gain 6 life and create six Treasure tokens. => Indestructible
+You may not sacrifice this creature.
+When this creature dies, draw six cards, you gain 6 life and create six Treasure tokens.
+
+Fearless to the Last
+
+Dracula's Plan
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create Dracula, a legendary 5/5 black Vampire Noble that has indestructible and shroud for as long as you control this Saga.
+II — Gain control of target Human for as long as you control a token named Dracula.
+III — Whenever a creature an opponent controls would die this turn, exile it instead, then return it to the battlefield under your control. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create Dracula, a legendary 5/5 black Vampire Noble creature token that has indestructible and shroud for as long as you control this Saga.
+II — Gain control of target Human for as long as you control a token named Dracula.
+III — Whenever a creature an opponent controls would die this turn, exile it instead, then return it to the battlefield under your control.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create Dracula, a legendary 5/5 black Vampire Noble that has indestructible and shroud for as long as you control this Saga.
+II — Gain control of target Human for as long as you control a token named Dracula.
+III — Whenever a creature an opponent controls would die this turn, exile it instead, then return it to the battlefield under your control. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create Dracula, a legendary 5/5 black Vampire Noble creature token that has indestructible and shroud for as long as you control this Saga.
+II — Gain control of target Human for as long as you control a token named Dracula.
+III — Whenever a creature an opponent controls would die this turn, exile it instead, then return it to the battlefield under your control.
+
+Dullness Cylinder
+rules_text: Instant and sorcery cost {1} more to cast. => Instant and sorcery spells cost {1} more to cast.
+
+Linny, Cavy Leader
+rules_text: Linny, enters with a wonder counter on her.
+Partner with Tuck, Nice Turtle; Partner with Ming Ming, Brave Duck
+Linny has hexproof as long as you control a Bird or a Turtle.
+{5}{U}: Draw a card. This ability costs {1} less for each permanent with a wonder counter on it. => Linny enters with a wonder counter on her.
+Partner with Tuck, Nice Turtle; Partner with Ming Ming, Brave Duck
+Linny has hexproof as long as you control a Bird or a Turtle.
+{5}{U}: Draw a card. This ability costs {1} less for each permanent with a wonder counter on it.
+
+Cathedral Blashphemers
+rules_text: When Cathedral Blashphemers enters, choose one —
+• Destroy target land.
+• Cathedral Blashphemers deals 2 damage to target creature. => When this creature enters, choose one —
+• Destroy target land.
+• This creature deals 2 damage to target creature.
+
+Deserted Roads
+rules_text: Whenever this land becomes tapped, add {C}. Activate this land's tap abilities as mana abilities.
+{T}: Gain 1 life. => Whenever this land becomes tapped, add {C}. This land's activated abilities are mana abilities.
+{T}: Gain 1 life.
+
+Do Not Swim
+
+
+type: Creature — Human => 
+cost: {1}{B} => 
+rules_text: When this creature enters, if you control an undead creature, draw a card. [i](Shades, Spirits, Skeletons, Vampires, Wraiths and Zombies are Undead.)[/i] => 
+pt: 2/2 => 
+
+
+VERSION 5 CHANGELOG
 ====================
 
 Consumption (1) added.
