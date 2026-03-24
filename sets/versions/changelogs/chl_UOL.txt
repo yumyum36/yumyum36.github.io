@@ -1,4 +1,337 @@
-﻿VERSION 6 CHANGELOG
+﻿VERSION 7 CHANGELOG
+====================
+
+Glimpse (1) added.
+Compounding Studies added.
+3-Pointer added.
+Ajani, Baller of the Pride added.
+Angel of the Quorum added.
+Bastion Steward added.
+Grizzled Wayfarer added.
+Archers Signet added.
+Sigiled Shieldmage added.
+Mage of the Sigil added.
+Strength of the Ardent added.
+Dawnray Cavalier added.
+Esper Mindhopper added.
+Guardian Telemin added.
+The Etherium Crucible added.
+Crippled Pteramander added.
+Lars, Craftsmaster added.
+Militant Sentinel added.
+Tezzeret, Returned King added.
+Filagree Ascendant added.
+Grixis Lifeseeker added.
+Learn From Life added.
+Merchant of Death added.
+Apprentice Soulrender added.
+Rotrise added.
+Deathpitch Nightwing added.
+Visceral Force added.
+Screams of Agony added.
+Broodmate Ooze added.
+Broodpyre Elemental added.
+Draconic Mountain added.
+Wild Shaman added.
+Fireburp Hellkite added.
+Trained Iguanar added.
+Tyrant Advisors added.
+Goblin Scorcher added.
+Beast of Renewal added.
+Controlled Burn added.
+Canopy Tyrant added.
+Tigercaller Apprentice added.
+Spawn of the Godsire added.
+Prowling Behemoth added.
+Dibella, Mindsower added.
+Faerie Stallsmith added.
+Compounding Dementia added.
+Legion's Arms added.
+Thousand Moons Officer added.
+Pack Tactics added.
+Aliana, Spell-Casting Supremo added.
+Eager Eagle added.
+Glimpse (2) added.
+Tuskeri Berserker added.
+Bloodbraided Call added.
+Rhox Extortionist added.
+Ashiok's Griefdrinker added.
+Necromantic Perfection added.
+Akroan Warrior-Poet added.
+Fatecaster added.
+Foresighted Fleetpaw added.
+Twinbird Invocation added.
+Scarlet Women added.
+Farmer's Inheritance added.
+Foundation of Trust added.
+Secular Philosopher added.
+Trouble Brewing added.
+Ravenswood Pacifist added.
+Khaen-Groves of Hmolang added.
+Dissonate added.
+Synesthete Mentor added.
+Rediscover added.
+Shrill Flutekin added.
+Lamentor Decomposer added.
+Tainted Betrayal added.
+Joinage added.
+Corrupted Grove added.
+Soul Bomb added.
+Gerrard, Hopes Hero added.
+Captian Crucias added.
+Turkish Delight added.
+The First Christmas in a Century added.
+Vernal Pawprints added.
+Sir Peter Wolfsbane added.
+The White Witch added.
+Aslan's Breath added.
+
+Glimpse removed.
+Compunding Studies removed.
+
+Calliope Mori
+rules_text: When Calliope Mori enters, you may sacrifice a creature. If you do, each opponent sacrifices a creature of their choice. 
+When Calliope leaves the battlefield, you may pay 2 life. If you do, Calliope deals 2 damage to any target.
+Collab [i](You may have two commanders if they both have Collab.)[/i] => When Calliope Mori enters, you may sacrifice a creature. If you do, each opponent sacrifices a creature of their choice. 
+When Calliope leaves the battlefield, you may pay 2 life. If you do, Calliope deals 2 damage to any target.
+Collab [i](You may have two commanders if both have Collab.)[/i]
+
+Amelia Watson
+rules_text: Flash, vigilance
+When a commander you own leaves play, Investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this token: Draw a card.”)[/i]
+Collab [i](You may have two commanders if they both have Collab.)[/i] => Flash, vigilance
+When a commander you own leaves play, Investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this token: Draw a card.”)[/i]
+Collab [i](You may have two commanders if both have Collab.)[/i]
+
+Gawr Gura
+rules_text: Gawr Gura enters with a +1/+1 counter for each time you have cast your commander this game.
+{3}{U}{U}: Return target creature to its owner's hand. This ability costs {3} less if it targets a Shark. Activate only once each turn. 
+Collab [i](You may have two commanders if they both have Collab.)[/i] => Gawr Gura enters with a +1/+1 counter for each time you have cast your commander this game.
+{3}{U}{U}: Return target creature to its owner's hand. This ability costs {3} less if it targets a Shark. Activate only once each turn. 
+Collab [i](You may have two commanders if both have Collab.)[/i]
+
+Takanashi Kiara
+rules_text: Flying, haste
+You may cast Takanashi Kiara from your graveyard or command zone without paying its mana cost if you cast another commander this turn. [i](You still pay additional costs.)[/i]
+Collab [i](You may have two commanders if they both have Collab.)[/i] => Flying, haste
+You may cast Takanashi Kiara from your graveyard or command zone without paying its mana cost if you cast another commander this turn. [i](You still pay additional costs.)[/i]
+Collab [i](You may have two commanders if both have Collab.)[/i]
+
+
+type: Creature — Human => Legendary Land
+cost: {1}{B} => 
+rules_text: When this creature enters, if you control an undead creature, draw a card. [i](Shades, Spirits, Skeletons, Vampires, Wraiths and Zombies are Undead.)[/i] => All cards that aren't on the battlefield, spells and nonland permanents lose all subtypes.
+pt: 2/2 => 
+
+Consuming Search
+rules_text: Discard a card, then draw a card. You lose 2 life.
+{B}, Pay 1 life, Reveal this card from your hand: Surveil 1. activate this ability only anytime you could cast a sorcery.
+Dredge 1 => Discard a card, then draw a card. You lose 2 life.
+{B}, Pay 1 life, Reveal this card from your hand: Surveil 1. Activate only as a sorcery.
+Dredge 1
+
+Geonosis
+rules_text: {T}: Add {C}.
+{1}{R}, {T}, Sacrifice an artifact: Create a 1/1 colorless Battle-Droid artifact token.
+{4}{R}: Transform Geonosis. => {T}: Add {C}.
+{1}{R}, {T}, Sacrifice an artifact: Create a 1/1 colorless Battle-Droid artifact creature token.
+{4}{R}: Transform Geonosis.
+
+Serment du Jeu de Paume
+rules_text: {T}: Add {C}.
+{5}, {T}, Sacrifice this land: Create three 2/2 red Rebel creature tokens. Activate this ability only if an opponent has more cards in hand than you and only as a sorcery. => {T}: Add {C}.
+{5}, {T}, Sacrifice this land: Create three 2/2 red Rebel creature tokens. Activate only if an opponent has more cards in hand than you and only as a sorcery.
+
+Katja, Witch of Portent
+rules_text: Foretell {B}{B} [i](During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)[/i]
+[+1]: Katja, Witch of Portent deals 2 damage to any target. You gain 2 life and mill two cards.
+[-3]: Choose up to one creature card in your graveyard with mana value 3 or less and put it into your hand. If it's a cat, put it onto the battlefield instead.
+Whenever Katja dies, if it's your turn, exile her face down. She becomes foretold. => Foretell {B}{B} [i](During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)[/i]
+[+1]: Katja deals 2 damage to any target. You gain 2 life and mill two cards.
+[-3]: Choose up to one creature card in your graveyard with mana value 3 or less and put it into your hand. If it's a cat, put it onto the battlefield instead.
+Whenever Katja dies, if it's your turn, exile her face down. She becomes foretold.
+special_text: Foretell {B}{B} [i](During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)[/i]
+[+1]: Katja, Witch of Portent deals 2 damage to any target. You gain 2 life and mill two cards.
+[-3]: Choose up to one creature card in your graveyard with mana value 3 or less and put it into your hand. If it's a cat, put it onto the battlefield instead.
+Whenever Katja dies, if it's your turn, exile her face down. She becomes foretold. => Foretell {B}{B} [i](During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)[/i]
+[+1]: Katja deals 2 damage to any target. You gain 2 life and mill two cards.
+[-3]: Choose up to one creature card in your graveyard with mana value 3 or less and put it into your hand. If it's a cat, put it onto the battlefield instead.
+Whenever Katja dies, if it's your turn, exile her face down. She becomes foretold.
+
+Pirate Class
+rules_text: [i](Gain the next level as a sorcery to add its ability.)[/i]
+When this Class enters, create a 1/1 black and red Pirate Army token with “At the the beginning of your upkeep you may pay {BR}. If you do, amass Pirates 1.”
+{B}{R}: Level 2
+[i]Raid[/i] — At the beginning of your end step, if you attacked this turn, you may discard a card. If you do, draw a card.
+{1}{B}{B}{R}{R}: Level 3
+When this Class becomes level 3, destroy target tapped land. Create four Treasure tokens. => [i](Gain the next level as a sorcery to add its ability.)[/i]
+When this Class enters, create a 1/1 black and red Pirate Army creature token with “At the the beginning of your upkeep you may pay {BR}. If you do, amass Pirates 1.”
+{B}{R}: Level 2
+[i]Raid[/i] — At the beginning of your end step, if you attacked this turn, you may discard a card. If you do, draw a card.
+{1}{B}{B}{R}{R}: Level 3
+When this Class becomes level 3, destroy target tapped land. Create four Treasure tokens.
+special_text: [i](Gain the next level as a sorcery to add its ability.)[/i]
+When this Class enters, create a 1/1 black and red Pirate Army token with “At the the beginning of your upkeep you may pay {BR}. If you do, amass Pirates 1.”
+{B}{R}: Level 2
+[i]Raid[/i] — At the beginning of your end step, if you attacked this turn, you may discard a card. If you do, draw a card.
+{1}{B}{B}{R}{R}: Level 3
+When this Class becomes level 3, destroy target tapped land. Create four Treasure tokens. => [i](Gain the next level as a sorcery to add its ability.)[/i]
+When this Class enters, create a 1/1 black and red Pirate Army creature token with “At the the beginning of your upkeep you may pay {BR}. If you do, amass Pirates 1.”
+{B}{R}: Level 2
+[i]Raid[/i] — At the beginning of your end step, if you attacked this turn, you may discard a card. If you do, draw a card.
+{1}{B}{B}{R}{R}: Level 3
+When this Class becomes level 3, destroy target tapped land. Create four Treasure tokens.
+
+Vicious Cobra
+rules_text: Mentor, deathtouch, unleash
+When this creature attacks, you may have creatures you control with +1/+1 counters on them gain first strike until end of turn. If you do, this creature deals 2 damage to each creature you control with a +1/+1 counter on it at the end of combat. => Mentor, deathtouch, unleash
+Whenever this creature attacks, you may have creatures you control with +1/+1 counters on them gain first strike until end of turn. If you do, this creature deals 2 damage to each creature you control with a +1/+1 counter on it at the end of combat.
+
+Tibalt, Dissolute Hellion
+rules_text: Madness {B}{R}
+[-3]: Discard you hand, then draw three cards.
+[-3]: Draw three cards, then discard you hand. => Madness {B}{R}
+[-3]: Discard you hand, then draw three cards.
+[-3]: Draw three cards, then discard your hand.
+special_text: Madness {B}{R}
+[-3]: Discard you hand, then draw three cards.
+[-3]: Draw three cards, then discard you hand. => Madness {B}{R}
+[-3]: Discard you hand, then draw three cards.
+[-3]: Draw three cards, then discard your hand.
+
+Formal Introductions
+rules_text: Read ahead [i](Choose a chapter and start with that many lore counters. Add one after your draw step. Skipped chapters don't trigger. Sacrifice after III.)[/i]
+I — Each player chooses a card and shows it off. [i](Reveals the card.)[/i]
+II — Create a 1/1 black Human advisor token named “Host”. It has “Each card Shown off costs {2} less to cast.”
+III — Each player may discard any number of cards. Each player who discarded cards this way draws cards equal to the number of cards they discarded and shows them off. => Read ahead [i](Choose a chapter and start with that many lore counters. Add one after your draw step. Skipped chapters don't trigger. Sacrifice after III.)[/i]
+I — Each player chooses a card and shows it off. [i](Reveals the card.)[/i]
+II — Create a 1/1 black Human Advisor creature token named “Host”. It has “Each card Shown off costs {2} less to cast.”
+III — Each player may discard any number of cards. Each player who discarded cards this way draws cards equal to the number of cards they discarded and shows them off.
+special_text: Read ahead [i](Choose a chapter and start with that many lore counters. Add one after your draw step. Skipped chapters don't trigger. Sacrifice after III.)[/i]
+I — Each player chooses a card and shows it off. [i](Reveals the card.)[/i]
+II — Create a 1/1 black Human advisor token named “Host”. It has “Each card Shown off costs {2} less to cast.”
+III — Each player may discard any number of cards. Each player who discarded cards this way draws cards equal to the number of cards they discarded and shows them off. => Read ahead [i](Choose a chapter and start with that many lore counters. Add one after your draw step. Skipped chapters don't trigger. Sacrifice after III.)[/i]
+I — Each player chooses a card and shows it off. [i](Reveals the card.)[/i]
+II — Create a 1/1 black Human Advisor creature token named “Host”. It has “Each card Shown off costs {2} less to cast.”
+III — Each player may discard any number of cards. Each player who discarded cards this way draws cards equal to the number of cards they discarded and shows them off.
+
+Covenant of Darkness
+rules_text: Remove all creatures from the game. You lose half your life total rounded up. => Exile all creatures. You lose half your life, rounded up.
+
+Seed of the Guardian
+rules_text: Dredge 2
+Exile ten other cards from your graveyard: Return this card from your graveyard to the battlefield transformed. Activate this ability only as a sorcery. => Dredge 2
+Exile ten other cards from your graveyard: Return this card from your graveyard to the battlefield transformed. Activate only as a sorcery.
+
+Spectral Summons
+rules_text: Create three 1/1 white Spirit tokens with flying. Exile them at the beginning of the next end step. => Create three 1/1 white Spirit creature tokens with flying. Exile them at the beginning of the next end step.
+
+Garruk and Rowan
+
+King Uther Pendragon
+rules_text: {2}{U}{U}, {T}: Gain control of target creature. It gains Renown 2. Activate this ability only as a sorcery. [i](When this creature deals combat damage to a player, if it isn't renowned, put two +1/+1 counters on it and it becomes renowned.)[/i]
+When King Uther Pendragon leaves the battlefield, each player gains control of all permanents they own which are not renowned. => {2}{U}{U}, {T}: Gain control of target creature. It gains Renown 2. Activate only as a sorcery. [i](When this creature deals combat damage to a player, if it isn't renowned, put two +1/+1 counters on it and it becomes renowned.)[/i]
+When King Uther Pendragon leaves the battlefield, each player gains control of all permanents they own which are not renowned.
+
+The Holy Hand Grenade
+rules_text: When The Holy Hand Grenade enters, put a time counter on it.
+At the beginning of your upkeep, put a time counter on The Holy Hand Grenade.
+When there are three or more time counters on The Holy Hand Grenade, destroy all non-Knight creatures and planeswalker. Sacrifice The Holy Hand Grenade. => When The Holy Hand Grenade enters, put a time counter on it.
+At the beginning of your upkeep, put a time counter on The Holy Hand Grenade.
+When there are three or more time counters on The Holy Hand Grenade, destroy all non-Knight creatures and planeswalkers. Sacrifice The Holy Hand Grenade.
+
+Xanathar, Crime Lord
+rules_text: When Xanathar enters, create a 0/1 blue Fish creature token named Silgar with “When Silgar dies, destroy all creatures.”
+Flying
+{X}{U}{R}: Gain control of target creature with mana value X or less until end of turn.
+{4}{U}{B}: Draw two cards and you lose 2 life. Then, each opponent loses life equal to the number of cards in your hand. Activate this ability only as a sorcery and only once each turn. => When Xanathar enters, create a 0/1 blue Fish creature token named Silgar with “When Silgar dies, destroy all creatures.”
+Flying
+{X}{U}{R}: Gain control of target creature with mana value X or less until end of turn.
+{4}{U}{B}: Draw two cards and you lose 2 life. Then, each opponent loses life equal to the number of cards in your hand. Activate only as a sorcery and only once each turn.
+
+Small Lessons
+
+Count Dracula
+rules_text: Trample, lifelink
+Ward—Discard a card.
+When Count Dracula deals combat damage, create two Blood tokens.
+Sacrifice X Blood tokens: Return target creature with toughness X or less from a graveyard to the battlefield with a finality counter on it. It's a Vampire in addition to its other types. => Trample, lifelink
+Ward—Discard a card.
+Whenever Count Dracula deals combat damage, create two Blood tokens.
+Sacrifice X Blood tokens: Return target creature with toughness X or less from a graveyard to the battlefield with a finality counter on it. It's a Vampire in addition to its other types.
+
+Rune Rescuer
+rules_text: Flying, first strike
+Sacrifice this creature: Return target enchantment card from your graveyard to the battlefield. Activate this ability only as a sorcery. => Flying, first strike
+Sacrifice this creature: Return target enchantment card from your graveyard to the battlefield. Activate only as a sorcery.
+
+Arlinn, the Wild Woman
+rules_text: Flash
+At the beginning of your upkeep, create a 2/2 green Wolf token. Then if you control 3 or more other Wolves or Werewolves, transform Arlinn. => Flash
+At the beginning of your upkeep, create a 2/2 green Wolf creature token. Then if you control 3 or more other Wolves or Werewolves, transform Arlinn.
+
+Consumption (2)
+rules_text: Infect [i](That creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)[/i]
+Consumption deals 2 damage to any target. => Infect [i](This spell deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)[/i]
+Consumption deals 2 damage to any target.
+
+Epiphany (4)
+rules_text: Storm [i](When you cast this spell, copy it for each spell cast before it this turn. You may choose new targets for the copies.)[/i]
+Deal 1 damage to any target and you gain 1 life. => Storm [i](When you cast this spell, copy it for each spell cast before it this turn. You may choose new targets for the copies.)[/i]
+Epiphany deals 1 damage to any target and you gain 1 life.
+
+Rally the Reserves
+rules_text: Create X 1/1 white Soldier tokens, where X is 1 plus the number of cards named Rally the Reserves in your graveyard. => Create X 1/1 white Soldier creature tokens, where X is 1 plus the number of cards named Rally the Reserves in your graveyard.
+
+Selfless Recruit
+pt:  => 1/1
+
+Hall of Faith // Provision Threshold
+
+Hall of Memory // Observation Threshold
+
+Scorched Earth Elemental
+
+Undying Flames
+
+Barrel Dragon
+
+Rokket Tracer
+
+Unwary Summoner
+
+Voracious Demon
+
+Drill Sergeant
+
+Recruits in Training
+
+Bloodforger Blacksmith
+
+Bloodforged Blade
+
+Ignition
+
+Chandra Firestarter
+
+Rubick, Grand Magus
+
+Spell Steal (2)
+
+Devotee of Ahassunu
+
+Ahushina's Devotees
+
+Gandurn Potion
+
+Witch's Antidote
+
+Dawnbreak Nurturer
+
+Sunrise
+
+
+VERSION 6 CHANGELOG
 ====================
 
 Spell Steal (1) added.
