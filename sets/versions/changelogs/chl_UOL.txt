@@ -1,4 +1,44 @@
-﻿VERSION 7 CHANGELOG
+﻿VERSION 8 CHANGELOG
+====================
+
+Meowcenary Squad added.
+Elderseal added.
+Carve Up added.
+Charge Blade: Sword Mode added.
+Fatalis, the Black Dragon added.
+Elder's Recess added.
+
+
+
+type: Creature — Human => Legendary Land
+cost: {1}{B} => 
+rules_text: When this creature enters, if you control an undead creature, draw a card. [i](Shades, Spirits, Skeletons, Vampires, Wraiths and Zombies are Undead.)[/i] => All cards that aren't on the battlefield, spells and nonland permanents lose all subtypes.
+pt: 2/2 => 
+
+Mortality
+rules_text: [i](Nonexistent mana costs can't be paid/)[/i]
+Impending 4—{3}{B}{B}
+Deathtouch
+Other creatures with power greater than the number of time counters on Mortality have deathtouch.
+When Mortality leaves the battlefield, destroy target creature. If that creature was tapped, exile it instead.
+Evoke {3}{W} => [i](Nonexistent mana costs can't be paid.)[/i]
+Impending 4—{3}{B}{B}
+Deathtouch
+Other creatures with power greater than the number of time counters on Mortality have deathtouch.
+When Mortality leaves the battlefield, destroy target creature. If that creature was tapped, exile it instead.
+Evoke {3}{W}
+
+3-Pointer
+
+The Etherium Crucible
+rules_text: At the beginning of combat on your turn, choose one of +1/+1, first strike, deathtouch, hast, lifelink, vigilance, trample, and menace. Put a counter of that type on each other permanent you control.
+Etherium Perfection — If this permanent has a counter on it, you may choose from flying, indestructible, double strike, and hexproof as well. => At the beginning of combat on your turn, choose one of +1/+1, first strike, deathtouch, hast, lifelink, vigilance, trample, and menace. Put a counter of that type on each other permanent you control.
+[i]Etherium Perfection[/i] — If this permanent has a counter on it, you may choose from flying, indestructible, double strike, and hexproof as well.
+
+Twinbird Invocation
+
+
+VERSION 7 CHANGELOG
 ====================
 
 Glimpse (1) added.
