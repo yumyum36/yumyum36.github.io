@@ -1,4 +1,276 @@
-﻿VERSION 9 CHANGELOG
+﻿VERSION 10 CHANGELOG
+====================
+
+Bronwel, Priest of the Forgotten added.
+Chilling Touch added.
+Dolerian, Mad Duke added.
+Prophet of the Black Rose added.
+The Mayor added.
+Mayor Graywater added.
+Caffeinated Grad Student added.
+Commodities Trader added.
+Dynamo Nexus Suppressor added.
+Ral, Gathering Storm added.
+Aspiring Thunderhelm added.
+Asha, Eternal Incarnation added.
+Excalibur, Blade of the King added.
+Irreverent Imperiosaur added.
+Radiant Metamorphosis added.
+Wed into Royalty added.
+Discerning Vivisector added.
+Guleia, Trusted Caretaker added.
+Necrogen Abomination added.
+Thought Flay added.
+
+
+Avenger of Ash
+
+Guardian of Growth
+
+Forger of Flames
+
+Stoke the Blaze
+
+Pyreborn Phoenix
+
+Azax-Azog, the Demon Thane
+
+Azax-Azog's Contract
+
+Compleated Sacrifice
+
+Murderous Dagger
+
+Doctor Black's Library
+
+Colonel Mustard
+
+Frenzied Search
+rules_text: Draw two cards, then discard two card. If this spell was cast from your graveyard, it deals 3 damage to any target.
+Jump-start [i](You may cast this card from your graveyard by discarding a card in addition to paying its other costs. Then exile this card.)[/i]
+Splice onto instant or sorcery {U}{R} [i](As you cast an instant or sorcery spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)[/i] => Draw two cards, then discard two cards. If this spell was cast from your graveyard, it deals 3 damage to any target.
+Jump-start [i](You may cast this card from your graveyard by discarding a card in addition to paying its other costs. Then exile this card.)[/i]
+Splice onto instant or sorcery {U}{R} [i](As you cast an instant or sorcery spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)[/i]
+
+Biomancer Class (1)
+rules_text: [i](Gain the next level as a sorcery to add its ability.)[/i]
+When this class enters, put a +1/+1 counter on target creature you control.
+{1}{G}: Level 2
+Whenever a creature enters under your control, put one of the following counters on it: Vigilance, Trample, +1/+1 or Hexproof.
+{3}{G}: Level 3
+Creatures you control have +X/+X, where X is the number of counters on them. => [i](Gain the next level as a sorcery to add its ability.)[/i]
+When this class enters, put a +1/+1 counter on target creature you control.
+{1}{G}: Level 2
+Whenever a creature enters under your control, put one of the following counters on it: Vigilance, Trample, +1/+1 or Hexproof.
+{3}{G}: Level 3
+Creatures you control get +X/+X, where X is the number of counters on them.
+special_text: [i](Gain the next level as a sorcery to add its ability.)[/i]
+When this class enters, put a +1/+1 counter on target creature you control.
+{1}{G}: Level 2
+Whenever a creature enters under your control, put one of the following counters on it: Vigilance, Trample, +1/+1 or Hexproof.
+{3}{G}: Level 3
+Creatures you control have +X/+X, where X is the number of counters on them. => [i](Gain the next level as a sorcery to add its ability.)[/i]
+When this class enters, put a +1/+1 counter on target creature you control.
+{1}{G}: Level 2
+Whenever a creature enters under your control, put one of the following counters on it: Vigilance, Trample, +1/+1 or Hexproof.
+{3}{G}: Level 3
+Creatures you control get +X/+X, where X is the number of counters on them.
+
+Bitter Hermit
+
+Ninomae Ina'nis
+rules_text: [i]Eminence[/i] — Whenever you cast your commander, if Ninomae Ina'nis is in the command zone or on the battlefield, Create a 1/1 colorless Eldrazi Scion creature token. It has “Sacrifice this token: Add {C}.”
+Cascade, collab => [i]Eminence[/i] — Whenever you cast your commander, if Ninomae Ina'nis is in the command zone or on the battlefield, Create a 1/1 colorless Eldrazi Scion creature token. It has “Sacrifice this token: Add {C}.”
+Cascade; Partner—Collab
+
+Calliope Mori
+rules_text: When Calliope Mori enters, you may sacrifice a creature. If you do, each opponent sacrifices a creature of their choice. 
+When Calliope leaves the battlefield, you may pay 2 life. If you do, Calliope deals 2 damage to any target.
+Collab [i](You may have two commanders if both have Collab.)[/i] => When Calliope Mori enters, you may sacrifice a creature. If you do, each opponent sacrifices a creature of their choice. 
+When Calliope leaves the battlefield, you may pay 2 life. If you do, Calliope deals 2 damage to any target.
+Partner—Collab [i](You can have two commanders if both have this ability.)[/i]
+
+Amelia Watson
+rules_text: Flash, vigilance
+When a commander you own leaves the battlefield, Investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this token: Draw a card.”)[/i]
+Collab [i](You may have two commanders if both have Collab.)[/i] => Flash, vigilance
+When a commander you own leaves the battlefield, Investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this token: Draw a card.”)[/i]
+Partner—Collab [i](You can have two commanders if both have this ability.)[/i]
+
+Gawr Gura
+rules_text: Gawr Gura enters with a +1/+1 counter for each time you have cast your commander this game.
+{3}{U}{U}: Return target creature to its owner's hand. This ability costs {3} less if it targets a Shark. Activate only once each turn. 
+Collab [i](You may have two commanders if both have Collab.)[/i] => Gawr Gura enters with a +1/+1 counter for each time you have cast your commander this game.
+{3}{U}{U}: Return target creature to its owner's hand. This ability costs {3} less if it targets a Shark. Activate only once each turn. 
+Partner—Collab [i](You can have two commanders if both have this ability.)[/i]
+
+Takanashi Kiara
+rules_text: Flying, haste
+You may cast Takanashi Kiara from your graveyard or command zone without paying its mana cost if you cast another commander this turn. [i](You still pay additional costs.)[/i]
+Collab [i](You may have two commanders if both have Collab.)[/i] => Flying, haste
+You may cast Takanashi Kiara from your graveyard or command zone without paying its mana cost if you cast another commander this turn. [i](You still pay additional costs.)[/i]
+Partner—Collab [i](You can have two commanders if both have this ability.)[/i]
+
+
+type: Creature — Human => Legendary Land
+cost: {1}{B} => 
+rules_text: When this creature enters, if you control an undead creature, draw a card. [i](Shades, Spirits, Skeletons, Vampires, Wraiths and Zombies are Undead.)[/i] => All cards that aren't on the battlefield, spells and nonland permanents lose all subtypes.
+pt: 2/2 => 
+
+Laryel, The Eternal Void
+rules_text: Indestructible, hexproof
+[i]Eminence[/i] — As long as Laryel is in the command zone or on the battlefield, whenever a non-token Eldrazi creature enters, create a 1/1 Eldrazi Scion creature token with “Sacrifice this creature: Add {C}.”
+{2}, Sacrifice five Eldrazi Scions: Search your library for an Eldrazi creature and put it onto the battlefield, then shuffle. => Indestructible, hexproof
+[i]Eminence[/i] — As long as Laryel is in the command zone or on the battlefield, whenever a non-token Eldrazi creature enters, create a 1/1 colorless Eldrazi Scion creature token with “Sacrifice this creature: Add {C}.”
+{2}, Sacrifice five Eldrazi Scions: Search your library for an Eldrazi creature and put it onto the battlefield, then shuffle.
+
+Vizzini, The Sicilian
+rules_text: As Vizzini enters, put a poison counter on Vizzini and a permanent that you do not control.
+At the beginning of each end step, the controllers of a permanent with a poison counter on them flips a coin. If they flip a tails, they sacrifice their permanent. Otherwise, nothing happens.
+When Vizzini dies, remove all poison counters from the game. => As Vizzini enters, put a poison counter on Vizzini and a permanent that you do not control.
+At the beginning of each end step, the controllers of a permanent with a poison counter on them flips a coin. If they lose the flip, they sacrifice their permanent.
+When Vizzini dies, remove all poison counters from the game.
+
+Zap, Foolhardy Tinker
+rules_text: When Zap enters, create a tapped Powerstone token.
+Sacrifice an untapped Powerstone: Add one mana of any color to your mana pool. When that mana is used to cast an instant or sorcery spell, copy that spell and you may choose new targets for the copy. => When Zap enters, create a tapped Powerstone token.
+Sacrifice an untapped Powerstone: Add one mana of any color. When that mana is used to cast an instant or sorcery spell, copy that spell and you may choose new targets for the copy.
+
+Death-Near Synthesizer
+rules_text: Whenever a nontoken creature enters, put a number of -1/-1 counters on it equal to its mana value minus the amount of mana spent to cast that creature this turn. [i](If it wasn't cast, no mana was spent to cast it.)[/i] => Whenever a nontoken creature enters, put X -1/-1 counters on it, where X is its mana value minus the amount of mana spent to cast it. [i](If it wasn't cast, no mana was spent to cast it.)[/i]
+
+Katja, Witch of Portent
+
+Investigator Class
+rules_text: [i](Gain the next level as a sorcery to add its ability.)[/i]
+When this class enters, Investigate.
+{1}{U}: Level 2
+Whenever one or more creatures you control deal combat damage to a player, Investigate.
+{3}{U}: Level 3
+Sacrifice a Clue: Create a 1/1 Thopter artifact creature token with flying. => [i](Gain the next level as a sorcery to add its ability.)[/i]
+When this class enters, Investigate.
+{1}{U}: Level 2
+Whenever one or more creatures you control deal combat damage to a player, Investigate.
+{3}{U}: Level 3
+Sacrifice a Clue: Create a 1/1 colorless Thopter artifact creature token with flying.
+special_text: [i](Gain the next level as a sorcery to add its ability.)[/i]
+When this class enters, Investigate.
+{1}{U}: Level 2
+Whenever one or more creatures you control deal combat damage to a player, Investigate.
+{3}{U}: Level 3
+Sacrifice a Clue: Create a 1/1 Thopter artifact creature token with flying. => [i](Gain the next level as a sorcery to add its ability.)[/i]
+When this class enters, Investigate.
+{1}{U}: Level 2
+Whenever one or more creatures you control deal combat damage to a player, Investigate.
+{3}{U}: Level 3
+Sacrifice a Clue: Create a 1/1 colorless Thopter artifact creature token with flying.
+
+Read the Flames
+
+Walking of the Dog
+rules_text: Read ahead [i](Choose a chapter and start with that many lore counters. Add one after your draw step. Skipped chapters don't trigger. Sacrifice after III.)[/i]
+I — Create a 0/1 Dog creature token with enlist and trample.
+II — Target Dog gains indestructible until end of turn.
+III — Destroy target land. => Read ahead [i](Choose a chapter and start with that many lore counters. Add one after your draw step. Skipped chapters don't trigger. Sacrifice after III.)[/i]
+Create a 0/1 green Dog creature token with enlist and trample.
+Target Dog gains indestructible until end of turn.
+Destroy target land.
+special_text: Read ahead [i](Choose a chapter and start with that many lore counters. Add one after your draw step. Skipped chapters don't trigger. Sacrifice after III.)[/i]
+I — Create a 0/1 Dog creature token with enlist and trample.
+II — Target Dog gains indestructible until end of turn.
+III — Destroy target land. => Read ahead [i](Choose a chapter and start with that many lore counters. Add one after your draw step. Skipped chapters don't trigger. Sacrifice after III.)[/i]
+Create a 0/1 green Dog creature token with enlist and trample.
+Target Dog gains indestructible until end of turn.
+Destroy target land.
+
+Beggar's Mox
+rules_text: {T}: Add one mana of any color to your mana pool. Activate this ability only if you have cast a spell with mana value 0 this turn. => {T}: Add one mana of any color. Activate this ability only if you have cast a spell with mana value 0 this turn.
+
+Ozymandis, King of Kings
+rules_text: Whenever you cast an artifact spell with mana value 5 or greater, create a Treasure token.
+As long as you control a Treasure, creatures you control have “{T}, tap an untapped nontoken artifact you control: Create a Treasure token.”
+Nobles you control have +1/+1 for each Treasure you control. => Whenever you cast an artifact spell with mana value 5 or greater, create a Treasure token.
+As long as you control a Treasure, creatures you control have “{T}, tap an untapped nontoken artifact you control: Create a Treasure token.”
+Nobles you control get +1/+1 for each Treasure you control.
+
+Memories of The Forgotten
+rules_text: As an additional cost to cast this spell, shuffle any number of cards from your exile into your library.
+Look at the top X cards of your library where X is the number of cards you shuffled into your library. Put up to two of them into your hand and the rest on the bottom of your library in a random order. => As an additional cost to cast this spell, shuffle any number of cards you own from exile into your library.
+Look at the top X cards of your library where X is the number of cards you shuffled into your library. Put up to two of them into your hand and the rest on the bottom of your library in a random order.
+
+Epsilon, Tournament Lord
+
+Taming the Wild
+
+Magmatic Eruption
+rules_text: Magmatic Eruption deals 5 damage divided as you choose among any number of target permanents and/or players. For each artifact dealt damage this way, destroy it.
+Disturb {3}{R}{R} [i](You may cast this card from your graveyard transformed for its disturb cost.)[/i] => Magmatic Eruption deals 5 damage divided as you choose among any number of targets. For each artifact dealt damage this way, destroy it.
+Disturb {3}{R}{R} [i](You may cast this card from your graveyard transformed for its disturb cost.)[/i]
+
+Ancient Custom
+
+Waffle, Alpine Cub
+rules_text: Megamorph {5}{G} [i](You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)[/i]
+When Waffle is turned face up, add {G}{G} for each other creature you control.
+{G}: Create a 4/2 Bear creature token. Activate this ability only if Waffle has no counters on it. => Megamorph {5}{G} [i](You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)[/i]
+When Waffle is turned face up, add {G}{G} for each other creature you control.
+{G}: Create a 4/2 green Bear creature token. Activate this ability only if Waffle has no counters on it.
+
+Compleat Denial
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after V.)[/i]
+Choose a color that hasn't been chosen. Players can't cast spells of the chosen color or activate abilities of permanents of the chosen color until the end of your next draw step.
+​
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after V.)[/i]
+Choose a color that hasn't been chosen. Players can't cast spells of the chosen color or activate abilities of permanents of the chosen color until your next draw step.
+​
+​
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after V.)[/i]
+Choose a color that hasn't been chosen. Players can't cast spells of the chosen color or activate abilities of permanents of the chosen color until the end of your next draw step.
+​
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after V.)[/i]
+Choose a color that hasn't been chosen. Players can't cast spells of the chosen color or activate abilities of permanents of the chosen color until your next draw step.
+​
+​
+
+Overhead View
+rules_text: {T}: Add {C} to your mana pool.
+{4}, {T}: Scry 1 for each artifact you control. Activate only if you control three or more artifacts. => {T}: Add {C}.
+{4}, {T}: Scry X, where X is the number of artifacts you control. Activate only if you control three or more artifacts.
+
+Cakewalk
+rules_text: Create a 0/1 Cake Food artifact creature token with Defender and create a Food token.
+You may sacrifice five Foods. If you do, take an extra turn after this one. => Create a 0/1 colorless Cake Food artifact creature token with Defender and create a Food token.
+You may sacrifice five Foods. If you do, take an extra turn after this one.
+
+Curse of the Catacombs
+rules_text: Enchant Player
+At the beginning of enchanted player's upkeep, that player exiles three cards from their graveyard.
+Whenever a creature card leaves enchanted player's graveyard, create a 2/2 black Zombie creature token.
+[i](Melds with Alberich, Soul Guide)[/i] => Enchant player
+At the beginning of enchanted player's upkeep, that player exiles three cards from their graveyard.
+Whenever a creature card leaves enchanted player's graveyard, create a 2/2 black Zombie creature token.
+[i](Melds with Alberich, Soul Guide)[/i]
+
+Binge Eating
+rules_text: Cumulative Upkeep—Sacrifice a Food. [i](At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)[/i]
+Prevent all damage that would be dealt to or dealt by you or permanents you control. => Cumulative upkeep—Sacrifice a Food. [i](At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)[/i]
+Prevent all damage that would be dealt to or dealt by you or permanents you control.
+
+Lion's Eye Lotus
+rules_text: Discard your hand, sacrifice Lion's Eye Lotus: Add three mana of any one color. Target opponent searches your library and graveyard for any number of cards named Lion's Eye Lotus and exiles them, then shuffle. [i](Activate only as an instant.)[/i] => Discard your hand, sacrifice Lion's Eye Lotus: Add three mana of any one color. Target opponent searches your library and graveyard for any number of cards named Lion's Eye Lotus and exiles them, then shuffle. Activate only as an instant.
+
+Gandurn Potion
+type: Artifact — Enchantment => Artifact — Equipment
+
+Tigercaller Apprentice
+
+Trinicube
+rules_text: As long as this artifact is untapped, if a colored spell would more than three non-generic mana symbols, reduce it to three of those mana symbols. Otherwise it costs three mana to cast.
+[i](A spell that would cost {1}{B} to cast, costs {2}{B}. A spell that that would cost {4}{B} to cast costs {2}{B} to cast instead. Spells cost three mana.)[/i] => As long as this artifact is untapped, if a colored spell would be more than three non-generic mana symbols, reduce it to three of those mana symbols. Otherwise it costs three mana to cast.
+[i](A spell that would cost {1}{B} to cast, costs {2}{B}. A spell that that would cost {4}{B} to cast costs {2}{B} to cast instead. Spells cost three mana.)[/i]
+
+
+VERSION 9 CHANGELOG
 ====================
 
 Richard Iljevitsh Jyra added.
