@@ -8,9 +8,7 @@ Search for [Moxheart (UNB) cards here](https://yumyum36.github.io/search?search=
 
 
 
-Underbrush Themes: Multi-color factions, fighting over gemstones/moxen, artifact theme, chromatic theme, industrialized magic, Treasures, capitalism
+Themes: Multi-color factions, fighting over gemstones/moxen, artifact theme, chromatic theme, industrialized magic, Treasures, capitalism
 
 
 Tone: Mechanics first, flavor second, but a satire of capitalism, industrialism, and company culture.
-
-
