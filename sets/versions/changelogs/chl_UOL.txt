@@ -1,4 +1,1096 @@
-﻿VERSION 10 CHANGELOG
+﻿VERSION 11 CHANGELOG
+====================
+
+Lurking Behemoth (2) added.
+Scour the Tomes (1) added.
+Depraved Aristocrat added.
+Lurking Behemoth (1) added.
+Cathedral Blasphemers added.
+Labyrinth of Ith added.
+Cordelian Dream added.
+Break Free added.
+Dreadnight Sights added.
+Permamancer added.
+Selective Amnesia added.
+Witchmail added.
+Revel in Ash added.
+Domestic Nightmare Scenario added.
+Solace of Solidarity added.
+Rank and Vile added.
+Establish Authority added.
+Assimilate added.
+Archaeology added.
+Grim Oneiromancer added.
+Scour the Tomes (2) added.
+Book Fire added.
+Wretched Auntie added.
+Liliana, Penitent Protector added.
+Defiance Now Sought added.
+
+Lurking Behemoth removed.
+Scour the Tomes removed.
+Depraved Artistocrat removed.
+Lurking Behemoth removed.
+Cathedral Blashphemers removed.
+
+Titania's Court (1)
+rules_text: Titania's Court enters tapped.
+{T}: Add {G}.
+As long as you control eight or more lands creatures other lands you control are 1/1 creatures with hexproof.
+When another land enters under your control, put a +1/+1 counter on each land you control. => Titania's Court enters tapped.
+{T}: Add {G}.
+As long as you control eight or more lands, other lands you control are 1/1 creatures with hexproof. They're still lands.
+Whenever another land enters under your control, put a +1/+1 counter on each land you control.
+
+Tenth District Square (1)
+rules_text: This land enters tapped.
+{T}: Add one mana of any color. Spend this mana only to cast monocolor spells.
+{W}{U}{B}{R}{G}, {T}, Sacrifice this land: Search your library for a planeswalker card and put it onto the battlefield. Shuffle. => This land enters tapped.
+{T}: Add one mana of any color. Spend this mana only to cast monocolor spells.
+{W}{U}{B}{R}{G}, {T}, Sacrifice this land: Search your library for a planeswalker card, put it onto the battlefield, then shuffle.
+
+Advisor Class
+rules_text: [i](Gain the next level as a sorcery to add its ability.)[/i]
+Your maximum hand size is increased by two.
+{1}{W}{B}: Level 2
+Whenever an opponent casts a noncreature spell, that player loses 2 life and you gain 2 life.
+{B}{G}{U}: Level 3
+Each opponent can't draw more than one card each turn. Whenever you or an advisor your control becomes the target of a spell or ability an opponent controls, you may draw a card. => [i](Gain the next level as a sorcery to add its ability.)[/i]
+Your maximum hand size is increased by two.
+{1}{W}{B}: Level 2
+Whenever an opponent casts a noncreature spell, that player loses 2 life and you gain 2 life.
+{B}{G}{U}: Level 3
+Each opponent can't draw more than one card each turn. Whenever you or an Advisor your control becomes the target of a spell or ability an opponent controls, you may draw a card.
+special_text: [i](Gain the next level as a sorcery to add its ability.)[/i]
+Your maximum hand size is increased by two.
+{1}{W}{B}: Level 2
+Whenever an opponent casts a noncreature spell, that player loses 2 life and you gain 2 life.
+{B}{G}{U}: Level 3
+Each opponent can't draw more than one card each turn. Whenever you or an advisor your control becomes the target of a spell or ability an opponent controls, you may draw a card. => [i](Gain the next level as a sorcery to add its ability.)[/i]
+Your maximum hand size is increased by two.
+{1}{W}{B}: Level 2
+Whenever an opponent casts a noncreature spell, that player loses 2 life and you gain 2 life.
+{B}{G}{U}: Level 3
+Each opponent can't draw more than one card each turn. Whenever you or an Advisor your control becomes the target of a spell or ability an opponent controls, you may draw a card.
+
+Azax-Azog's Contract
+rules_text: As an additional cost to cast this spell, you may sacrifice a creature named Compleated Sacrifice, if you do this enchantment enters with X ritual counters on it, where X is the sacrificed creature's power.
+{10}, {T}, Sacrifice this enchantment: If Azax-Azog, the Demon Thane is your chosen companion, you may put it into play from outside the game. This ability costs {1} less to activate for each ritual counter on this enchantment. => As an additional cost to cast this spell, you may sacrifice a creature named Compleated Sacrifice, if you do this enchantment enters with X ritual counters on it, where X is the sacrificed creature's power.
+{10}, {T}, Sacrifice this enchantment: If Azax-Azog, the Demon Thane is your chosen companion, you may put it onto the battlefield from outside the game. This ability costs {1} less to activate for each ritual counter on this enchantment.
+
+The Custom Card Contest
+
+Arsteel, Weenie Commander
+rules_text: First strike, reach
+Protection from multicolored
+Sacrifice Arsteel: Choose a color. White creatures you control gain protection from the chosen color until end of turn. => Reach, first strike
+Protection from multicolored
+Sacrifice Arsteel: Choose a color. White creatures you control gain protection from the chosen color until end of turn.
+
+Rebellious Inventor
+rules_text: Riot [i](This creature enters with your choice of a +1/+1 counter or haste.)[/i]
+Fabricate 2 [i](When this creature enters, put two +1/+1 counters on it or create two 1/1 colorless Servo artifact creature tokens.)[/i]
+When this creature deals combat damage to a player, put a +1/+1 counter on each creature you control with toughness less than this creature's toughness. => Riot [i](This creature enters with your choice of a +1/+1 counter or haste.)[/i]
+Fabricate 2 [i](When this creature enters, put two +1/+1 counters on it or create two 1/1 colorless Servo artifact creature tokens.)[/i]
+Whenever this creature deals combat damage to a player, put a +1/+1 counter on each creature you control with toughness less than this creature's toughness.
+
+Thing from the Swamp
+rules_text: This creature's power and toughness are equal to the number of Swamps on the battlefield.
+When this creature enters or deals combat damage to a player, put a bog counter on target nonbasic land.
+Lands with counters on them are basic Swamps. => Thing from the Swamp's power and toughness are equal to the number of Swamps on the battlefield.
+Whenever this creature enters or deals combat damage to a player, put a bog counter on target nonbasic land.
+Lands with counters on them are basic Swamps.
+
+La Hire
+rules_text: First strike, lifelink
+This creature attacks each combat if able. => First strike, lifelink
+La Hire attacks each combat if able.
+
+Demonic Gift
+
+Quell
+
+Virtue of Creation
+rules_text: Whenever you cast a permanent spell from you hand, draw two cards. => Whenever you cast a permanent spell from your hand, draw two cards.
+
+Starfield Alignment
+rules_text: [i]Constellation[/i] — Whenever this enchantment or another enchantment enters under your control, you gain X life and exile up to X target cards from graveyards, where X is the number of enchantments you control.
+At the beginning of your upkeep, if you control ten or more enchantments with different names, you win the game. => [i]Constellation[/i] — Whenever Starfield Alignment or another enchantment enters under your control, you gain X life and exile up to X target cards from graveyards, where X is the number of enchantments you control.
+At the beginning of your upkeep, if you control ten or more enchantments with different names, you win the game.
+
+Amelia Watson
+rules_text: Flash, vigilance
+When a commander you own leaves the battlefield, Investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this token: Draw a card.”)[/i]
+Partner—Collab [i](You can have two commanders if both have this ability.)[/i] => Flash, vigilance
+When a commander you own leaves the battlefield, investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this token: Draw a card.”)[/i]
+Partner—Collab [i](You can have two commanders if both have this ability.)[/i]
+
+Prowling Amygdala
+rules_text: Menace, reach
+When this creature enters or phases in, each player creates an Insight token. [i](It's an artifact with “{T}: Sacrifice this artifact: Surveil 1.”)[/i] Then if there are four or fewer Insights on the battlefield, this creature phases out. => Reach, menace
+When this creature enters or phases in, each player creates an Insight token. [i](It's an artifact with “{T}: Sacrifice this artifact: Surveil 1.”)[/i] Then if there are four or fewer Insights on the battlefield, this creature phases out.
+
+
+type: Creature — Human => Legendary Land
+cost: {1}{B} => 
+rules_text: When this creature enters, if you control an undead creature, draw a card. [i](Shades, Spirits, Skeletons, Vampires, Wraiths and Zombies are Undead.)[/i] => All cards that aren't on the battlefield, spells and nonland permanents lose all subtypes.
+pt: 2/2 => 
+
+Arrogant Falcon
+rules_text: Flying 
+This creature gets +1/+1 as long as you control a Mountain.
+When this creature deals combat damage to a player, you may return target creature with power less than or equal to this creature's power to its owner's hand. => Flying 
+This creature gets +1/+1 as long as you control a Mountain.
+Whenever this creature deals combat damage to a player, you may return target creature with power less than or equal to this creature's power to its owner's hand.
+
+Detective Pikachu
+type: Legendary Creature — Pokemon => Legendary Creature — Mouse Detective
+rules_text: When Detective Pikachu enters, investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this token: Draw a card.”)[/i]
+{R}, {T}: Detective Pikachu deals 3 to any target. => When Detective Pikachu enters, investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this token: Draw a card.”)[/i]
+{R}, {T}: Detective Pikachu deals 3 damage to any target.
+
+Dreaded Behemoth
+rules_text: Trample, menace, deathtouch
+When this creature deals combat damage to a player, return any number of target creatures from your graveyard whose total mana values equal 7.
+When this creature dies, target player sacrifices 7 creatures. => Trample, menace, deathtouch
+Whenever this creature deals combat damage to a player, return any number of target creatures from your graveyard whose total mana values equal 7.
+When this creature dies, target player sacrifices 7 creatures.
+
+Elven Cottage
+rules_text: When this artifact enters, choose a creature type.
+Whenever a creature of the chosen type enters, its controller gains X life and draws half X cards, where X is that creature's power.
+If you control an Elf, you may cast Elven Cottage for {2}{G}{G}{G}. => When Elven Cottage enters, choose a creature type.
+Whenever a creature of the chosen type enters, its controller gains X life and draws half X cards, where X is that creature's power.
+If you control an Elf, you may cast Elven Cottage for {2}{G}{G}{G}.
+
+Ethereal Knight
+rules_text: Vigilance
+This creature gets +1/+1 as long as you control a Swamp.
+When this creature deals combat damage to a player, you may exile target nonland permanent you control, then return it to play under its owner's control. => Vigilance
+This creature gets +1/+1 as long as you control a Swamp.
+Whenever this creature deals combat damage to a player, you may exile target nonland permanent you control, then return it to play under its owner's control.
+
+Fenrir, Hound of Darkness
+rules_text: Deathtouch
+Whenever you cast a black or red spell, put a +1/+1 counter on this creature.
+Whenever an opponent casts a blue or white spell, they lose 2 life. => Deathtouch
+Whenever you cast a black or red spell, put a +1/+1 counter on Fenrir.
+Whenever an opponent casts a blue or white spell, they lose 2 life.
+
+Ferocious Behemoth
+rules_text: Trample, haste, double strike
+When this creature deals combat damage to a player, it deals 7 damage divided as you choose among any number of target creatures. 
+When this creature dies, it deals 7 damage to each creature your opponent controls. => Trample, haste, double strike
+Whenever this creature deals combat damage to a player, it deals 7 damage divided as you choose among any number of target creatures. 
+When this creature dies, it deals 7 damage to each creature your opponent controls.
+
+Friendly Behemoth
+rules_text: Trample, reach, hexproof
+When this creature deals combat damage to a player, bolster 7. [i](Choose a creature with the least toughness among creatures you control and put seven +1/+1 counters on it.)[/i]
+When this creature dies, put X +1/+1 counters on 7 creatures you control where X is this creature's power. => Reach, trample, hexproof
+Whenever this creature deals combat damage to a player, bolster 7. [i](Choose a creature with the least toughness among creatures you control and put seven +1/+1 counters on it.)[/i]
+When this creature dies, put X +1/+1 counters on 7 creatures you control where X is this creature's power.
+
+Laryel, The Eternal Void
+rules_text: Indestructible, hexproof
+[i]Eminence[/i] — As long as Laryel is in the command zone or on the battlefield, whenever a non-token Eldrazi creature enters, create a 1/1 colorless Eldrazi Scion creature token with “Sacrifice this creature: Add {C}.”
+{2}, Sacrifice five Eldrazi Scions: Search your library for an Eldrazi creature and put it onto the battlefield, then shuffle. => Indestructible, hexproof
+[i]Eminence[/i] — As long as Laryel is in the command zone or on the battlefield, whenever a non-token Eldrazi creature enters, create a 1/1 colorless Eldrazi Scion creature token with “Sacrifice this token: Add {C}.”
+{2}, Sacrifice five Eldrazi Scions: Search your library for an Eldrazi creature and put it onto the battlefield, then shuffle.
+
+Lumbering Behemoth
+rules_text: Trample, vigilance, lifelink
+When this creature deals combat damage to a player, you may exile 7 creatures until this creature leaves the battlefield.
+When this creature dies, gain 7 life for each creature you exiled with this creature's effect. => Trample, vigilance, lifelink
+Whenever this creature deals combat damage to a player, you may exile 7 creatures until this creature leaves the battlefield.
+When this creature dies, gain 7 life for each creature you exiled with this creature's effect.
+
+ManBearPig
+rules_text: Deathtouch
+When this creature enters, it fights any number of creatures target opponent controls. => Deathtouch
+When ManBearPig enters, it fights any number of creatures target opponent controls.
+
+Michael Malloy
+
+Noxious Rebirther
+rules_text: Intimidate [i](This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)[/i]
+This creature gets +1/+1 as long as you control a Forest.
+When this creature deals combat damage to a player, return target creature from your graveyard to your hand. => Intimidate [i](This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)[/i]
+This creature gets +1/+1 as long as you control a Forest.
+Whenever this creature deals combat damage to a player, return target creature card from your graveyard to your hand.
+
+Ricky, Truant in Chief
+rules_text: When Ricky enters, destroy target artifact.
+Whenever an artifact is put into an opponent's graveyard from anywhere, put a +1/+1 counter on this creature. => When Ricky enters, destroy target artifact.
+Whenever an artifact is put into an opponent's graveyard from anywhere, put a +1/+1 counter on Ricky.
+
+The Rain Man
+rules_text: When The Rain Man enters, shuffle. Then, name a card. Reveal the top card of your library. If the revealed card has the chosen name, draw 4 cards, Otherwise, put the revealed card into your graveyard. => When The Rain Man enters, shuffle. Then, name a card. Reveal the top card of your library. If the revealed card has the chosen name, draw four cards, Otherwise, put the revealed card into your graveyard.
+
+Vizzini, The Sicilian
+rules_text: As Vizzini enters, put a poison counter on Vizzini and a permanent that you do not control.
+At the beginning of each end step, the controllers of a permanent with a poison counter on them flips a coin. If they lose the flip, they sacrifice their permanent.
+When Vizzini dies, remove all poison counters from the game. => As Vizzini enters, put a poison counter on Vizzini and a permanent that you do not control.
+At the beginning of each end step, for each permanent with a poison counter on it, its controller flips a coin. If they lose the flip, they sacrifice that permanent.
+When Vizzini dies, remove all poison counters from all permanents and each player loses all poison counters.
+
+Wandering Druid
+rules_text: Trample
+This creature gets +1/+1 as long as you control an Island.
+Whenever this creature deals combat damage, you may search your library for a basic land card and put it onto the battlefield tapped, then shuffle. => Trample
+This creature gets +1/+1 as long as you control an Island.
+Whenever this creature deals combat damage, you may search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
+
+William T. Sherman
+rules_text: First strike
+[i]Battalion[/i] — When William T. Sherman and at least two other creatures you control attack, if the defending player controls more nonland permanents they you, separate their permanents into two piles, the defending player chooses a pile and sacrifices the rest. => First strike
+[i]Battalion[/i] — Whenever William T. Sherman and at least two other creatures you control attack, if the defending player controls more nonland permanents they you, separate their permanents into two piles, the defending player chooses a pile and sacrifices the rest.
+
+The Charge into Abstract
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — Create two 3/3 red and white Knight creature tokens with vigilance.
+II — Target creature you control gains your choice of flying, first strike, or lifelink until end of turn. 
+III — Exile this Saga and all Knight tokens you control then return this saga to the battlefield transformed under your control. => [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — Create two 3/3 red and white Knight creature tokens with vigilance.
+II — Target creature you control gains your choice of flying, first strike, or lifelink until end of turn. 
+III — Exile this Saga and all Knight tokens you control, then return this Saga to the battlefield transformed under your control.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — Create two 3/3 red and white Knight creature tokens with vigilance.
+II — Target creature you control gains your choice of flying, first strike, or lifelink until end of turn. 
+III — Exile this Saga and all Knight tokens you control then return this saga to the battlefield transformed under your control. => [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — Create two 3/3 red and white Knight creature tokens with vigilance.
+II — Target creature you control gains your choice of flying, first strike, or lifelink until end of turn. 
+III — Exile this Saga and all Knight tokens you control, then return this Saga to the battlefield transformed under your control.
+
+Sky Pirate's Will
+rules_text: Target player mills a card. Until end of turn you may play up to one card from that players graveyard.
+Create a treasure token.
+If a card you control would be put into a graveyard from anywhere this turn, exile that card instead. => Target player mills a card. Until end of turn you may play up to one card from that players graveyard.
+Create a Treasure token.
+If a card you control would be put into a graveyard from anywhere this turn, exile that card instead.
+
+Captain's Chest
+rules_text: When this artifact enters, create X map tokens. [i](They're artifacts with “{1}, {T}, Sacrifice this token: Target creature you control explores. Activate only as a sorcery.”)[/i]
+{4}{R}, Sacrifice a Map: Destroy target land and create a Treasure token. => When this artifact enters, create X Map tokens. [i](They're artifacts with “{1}, {T}, Sacrifice this token: Target creature you control explores. Activate only as a sorcery.”)[/i]
+{4}{R}, Sacrifice a Map: Destroy target land and create a Treasure token.
+
+Wandering Worldspires
+rules_text: {T}: Add {W}.
+[i]Channel[/i] — {1}{W}{W}, Discard this card: Put a land from your graveyard onto the battlefield. If a land was put into play this way, put two +1/+1 counters on it and it becomes a 0/0 white Elemental creature it addition to its other types. It gains haste until end of turn. Activate only on your turn. => {T}: Add {W}.
+[i]Channel[/i] — {1}{W}{W}, Discard this card: Put a land from your graveyard onto the battlefield. Put two +1/+1 counters on it and it becomes a 0/0 white Elemental creature it addition to its other types. It gains haste until end of turn. Activate only as a sorcery.
+
+Faith
+rules_text: Whenever you cast a white spell, put a charge counter on this enchantment.
+Your devotion to white is increased by {X}, where X is the number of charge counters on this enchantment.
+Remove a charge counter from this enchantment: You gain 1 life. => Whenever you cast a white spell, put a charge counter on this enchantment.
+Your devotion to white is increased by X, where X is the number of charge counters on this enchantment.
+Remove a charge counter from this enchantment: You gain 1 life.
+
+Bringer of the Darkest Hour
+rules_text: This spell costs X more to cast, where X is half your life total, rounded up.
+Trample
+When this creature enters, if it wasn't cast, sacrifice it. => This spell costs {X} more to cast, where X is half your life total, rounded up.
+Trample
+When Bringer of the Darkest Hour enters, if it wasn't cast, sacrifice it.
+
+Party Beckoner
+rules_text: Spectacle {1}{B}{R}
+Haste, menace
+When this creature deals combat damage to a player, manifest the top card of your library.
+You may flip face down creature cards face up for its cast cost minus {2} if an opponent lost life this turn. => Spectacle {1}{B}{R}
+Haste, menace
+Whenever this creature deals combat damage to a player, manifest the top card of your library.
+You may flip face down creature cards face up for its cast cost minus {2} if an opponent lost life this turn.
+
+Arena Underdogs
+
+Katja, Witch of Portent
+rules_text: Foretell {B}{B} [i](During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)[/i]
+[+1]: Katja deals 2 damage to any target. You gain 2 life and mill two cards.
+[-3]: Choose up to one creature card in your graveyard with mana value 3 or less and put it into your hand. If it's a cat, put it onto the battlefield instead.
+Whenever Katja dies, if it's your turn, exile her face down. She becomes foretold. => Foretell {B}{B} [i](During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)[/i]
+[+1]: Katja deals 2 damage to any target. You gain 2 life and mill two cards.
+[-3]: Choose up to one creature card in your graveyard with mana value 3 or less and put it into your hand. If it's a Cat, put it onto the battlefield instead.
+Whenever Katja dies, if it's your turn, exile her face down. She becomes foretold.
+special_text: Foretell {B}{B} [i](During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)[/i]
+[+1]: Katja deals 2 damage to any target. You gain 2 life and mill two cards.
+[-3]: Choose up to one creature card in your graveyard with mana value 3 or less and put it into your hand. If it's a cat, put it onto the battlefield instead.
+Whenever Katja dies, if it's your turn, exile her face down. She becomes foretold. => Foretell {B}{B} [i](During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)[/i]
+[+1]: Katja deals 2 damage to any target. You gain 2 life and mill two cards.
+[-3]: Choose up to one creature card in your graveyard with mana value 3 or less and put it into your hand. If it's a Cat, put it onto the battlefield instead.
+Whenever Katja dies, if it's your turn, exile her face down. She becomes foretold.
+
+Unknowable Shadow
+rules_text: This creature can't be blocked unless an opponent controls a creature with Vigilance. => This creature can't be blocked unless an opponent controls a creature with vigilance.
+
+A Mothers Wrath
+rules_text: Destroy all creatures. Create an X/1 red and white Bird Creature token, where X is the number of Birds and Eggs destroyed this way
+Suspend 3—{R}{W}
+Whenever a time counter is removed from this card while it's exiled, each player creates a 1/1 red Bird creature token. => Destroy all creatures. Create an X/1 red and white Bird creature token, where X is the number of Birds and Eggs destroyed this way
+Suspend 3—{R}{W}
+Whenever a time counter is removed from this card while it's exiled, each player creates a 1/1 red Bird creature token.
+
+Big Crystalled Possum
+
+Dauthi Nightmare
+rules_text: Shadow [i](This creature can block or be blocked by only creatures with shadow.)[/i]
+Whenever this creature attacks, creatures defending player controls get -1/-1 until end of turn. 
+Whenever a 1/1 creature enters under an opponent's control, you may return this creature from your graveyard to the battlefield tapped. => Shadow [i](This creature can block or be blocked by only creatures with shadow.)[/i]
+Whenever this creature attacks, creatures defending player controls get -1/-1 until end of turn. 
+Whenever a 1/1 creature enters under an opponent's control, you may return this card from your graveyard to the battlefield tapped.
+
+Eldrazi Conscriptor
+
+Boneyard Ravager
+
+Investigator Class
+rules_text: [i](Gain the next level as a sorcery to add its ability.)[/i]
+When this class enters, Investigate.
+{1}{U}: Level 2
+Whenever one or more creatures you control deal combat damage to a player, Investigate.
+{3}{U}: Level 3
+Sacrifice a Clue: Create a 1/1 colorless Thopter artifact creature token with flying. => [i](Gain the next level as a sorcery to add its ability.)[/i]
+When this class enters, investigate.
+{1}{U}: Level 2
+Whenever one or more creatures you control deal combat damage to a player, investigate.
+{3}{U}: Level 3
+Sacrifice a Clue: Create a 1/1 colorless Thopter artifact creature token with flying.
+special_text: [i](Gain the next level as a sorcery to add its ability.)[/i]
+When this class enters, Investigate.
+{1}{U}: Level 2
+Whenever one or more creatures you control deal combat damage to a player, Investigate.
+{3}{U}: Level 3
+Sacrifice a Clue: Create a 1/1 colorless Thopter artifact creature token with flying. => [i](Gain the next level as a sorcery to add its ability.)[/i]
+When this class enters, investigate.
+{1}{U}: Level 2
+Whenever one or more creatures you control deal combat damage to a player, investigate.
+{3}{U}: Level 3
+Sacrifice a Clue: Create a 1/1 colorless Thopter artifact creature token with flying.
+
+Biomancer Class (3)
+rules_text: [i](Gain the next level as a sorcery to add its ability.)[/i]
+As this Class enters, choose a non-human creature type, creatures you control have that type in addition to their other types.
+{G}{U}: Level 2
+When this Class becomes Level 2, you may sacrifice a creature, if you do, you may search your library for a creature with mana value equal to or less than 2 plus the sacrificed creature's mana value. [i](Then...???)[/i] Shuffle.
+{4}{G}{U}: Level 3
+When this Class becomes level 3, choose a non-human creature type, creatures you control becomes that type in addition to their other types except they're no longer human. Search your library for a creature and exile it. You may cast it from exile for its Mutate cost as if it has Mutate {0}. Shuffle. => [i](Gain the next level as a sorcery to add its ability.)[/i]
+As this Class enters, choose a non-human creature type. Creatures you control are that type in addition to their other types.
+{G}{U}: Level 2
+When this Class becomes Level 2, you may sacrifice a creature, if you do, you may search your library for a creature with mana value equal to or less than 2 plus the sacrificed creature's mana value, put it onto the battlefield, then shuffle.
+{4}{G}{U}: Level 3
+When this Class becomes level 3, choose a non-human creature type, creatures you control becomes that type in addition to their other types except they're no longer human. Search your library for a creature and exile it. You may cast it from exile for its Mutate cost as if it has Mutate {0}. Shuffle.
+special_text: [i](Gain the next level as a sorcery to add its ability.)[/i]
+As this Class enters, choose a non-human creature type, creatures you control have that type in addition to their other types.
+{G}{U}: Level 2
+When this Class becomes Level 2, you may sacrifice a creature, if you do, you may search your library for a creature with mana value equal to or less than 2 plus the sacrificed creature's mana value. [i](Then...???)[/i] Shuffle.
+{4}{G}{U}: Level 3
+When this Class becomes level 3, choose a non-human creature type, creatures you control becomes that type in addition to their other types except they're no longer human. Search your library for a creature and exile it. You may cast it from exile for its Mutate cost as if it has Mutate {0}. Shuffle. => [i](Gain the next level as a sorcery to add its ability.)[/i]
+As this Class enters, choose a non-human creature type. Creatures you control are that type in addition to their other types.
+{G}{U}: Level 2
+When this Class becomes Level 2, you may sacrifice a creature, if you do, you may search your library for a creature with mana value equal to or less than 2 plus the sacrificed creature's mana value, put it onto the battlefield, then shuffle.
+{4}{G}{U}: Level 3
+When this Class becomes level 3, choose a non-human creature type, creatures you control becomes that type in addition to their other types except they're no longer human. Search your library for a creature and exile it. You may cast it from exile for its Mutate cost as if it has Mutate {0}. Shuffle.
+
+Processor Class
+rules_text: [i](Gain the next level as a sorcery to add its ability.)[/i]
+Colorless creatures you control have Ingest.
+{2}: Level 2
+When this class becomes level 2, create two colorless 1/1 Eldrazi Scion creature tokens. They have “Sacrifice this creature: Add {C}.”
+{3}{C}: Level 3
+Put two cards your opponents own from exile into their owners' graveyards: Create a colorless 1/1 Eldrazi Scion creature token. It has “Sacrifice this creature: Add {C}.” => [i](Gain the next level as a sorcery to add its ability.)[/i]
+Colorless creatures you control have Ingest.
+{2}: Level 2
+When this class becomes level 2, create two colorless 1/1 Eldrazi Scion creature tokens. They have “Sacrifice this token: Add {C}.”
+{3}{C}: Level 3
+Put two cards your opponents own from exile into their owners' graveyards: Create a colorless 1/1 Eldrazi Scion creature token. It has “Sacrifice this token: Add {C}.”
+special_text: [i](Gain the next level as a sorcery to add its ability.)[/i]
+Colorless creatures you control have Ingest.
+{2}: Level 2
+When this class becomes level 2, create two colorless 1/1 Eldrazi Scion creature tokens. They have “Sacrifice this creature: Add {C}.”
+{3}{C}: Level 3
+Put two cards your opponents own from exile into their owners' graveyards: Create a colorless 1/1 Eldrazi Scion creature token. It has “Sacrifice this creature: Add {C}.” => [i](Gain the next level as a sorcery to add its ability.)[/i]
+Colorless creatures you control have Ingest.
+{2}: Level 2
+When this class becomes level 2, create two colorless 1/1 Eldrazi Scion creature tokens. They have “Sacrifice this token: Add {C}.”
+{3}{C}: Level 3
+Put two cards your opponents own from exile into their owners' graveyards: Create a colorless 1/1 Eldrazi Scion creature token. It has “Sacrifice this token: Add {C}.”
+
+Omnipresent Ooze
+rules_text: Echo {2}{R}{G}
+Madness {RG}
+Evolve
+When this creature dies, return it to your hand, then discard you hand and draw X cards, where X is this creature's power. => Echo {2}{R}{G}
+Madness {RG}
+Evolve
+When this creature dies, return it to your hand, then discard your hand and draw X cards, where X is this creature's power.
+
+Tibalt, Dissolute Hellion
+rules_text: Madness {B}{R}
+[-3]: Discard you hand, then draw three cards.
+[-3]: Draw three cards, then discard your hand. => Madness {B}{R}
+[-3]: Discard your hand, then draw three cards.
+[-3]: Draw three cards, then discard your hand.
+special_text: Madness {B}{R}
+[-3]: Discard you hand, then draw three cards.
+[-3]: Draw three cards, then discard your hand. => Madness {B}{R}
+[-3]: Discard your hand, then draw three cards.
+[-3]: Draw three cards, then discard your hand.
+
+Pumpkin Farmer
+rules_text: Daybound [i](If a player casts no spells during their own turn, it becomes night next turn.)[/i]
+When this creature enters, create a food token for each Forest you control. => Daybound [i](If a player casts no spells during their own turn, it becomes night next turn.)[/i]
+When this creature enters, create a Food token for each Forest you control.
+
+The Masque of Red Death
+rules_text: Flash
+Living Weapon [i](When this Equipment enters, create a 0/0 black Phyrexian Germ creature token, then attach this to it.)[/i]
+Equipped creature gets +1/+1 and has deathtouch and “At the beginning of your end step, sacrifice this creature.” 
+Whenever this equipment becomes unattached, attach it to target creature. If you can't, sacrifice it. => Flash
+Living Weapon [i](When this Equipment enters, create a 0/0 black Phyrexian Germ creature token, then attach this to it.)[/i]
+Equipped creature gets +1/+1 and has deathtouch and “At the beginning of your end step, sacrifice this creature.” 
+Whenever this Equipment becomes unattached, attach it to target creature. If you can't, sacrifice it.
+
+Shay's Dragster
+rules_text: Defender 
+Sacrifice this artifact: Return target artifact with mana value 1 or less from your graveyard to the battlefield. 
+Crew 1 
+[i](Melds with Flash of Inspiration)[/i] => Defender 
+Sacrifice Shay's Dragster: Return target artifact with mana value 1 or less from your graveyard to the battlefield. 
+Crew 1 
+[i](Melds with Flash of Inspiration)[/i]
+
+Flash of Inspiration
+
+Cheese Wheel
+rules_text: {2}, {T}, Sacrifice this artifact: You gain 3 life.
+Crew 3
+Whenever a creature crews this Vehicle, put a Dairy counter on this vehicle.
+When this vehicle deals combat damage to a player and has 6 or more Dairy Counters on it, you may remove them to search your library for a card named Natain Toll, reveal it and put it into your hand. Shuffle. => {2}, {T}, Sacrifice this artifact: You gain 3 life.
+Crew 3
+Whenever a creature crews this Vehicle, put a Dairy counter on this vehicle.
+When this vehicle deals combat damage to a player and has 6 or more Dairy Counters on it, you may remove them to search your library for a card named Natain Toll, reveal it, put it into your hand, then shuffle.
+
+Natain Milk Mage
+rules_text: When another Minotaur or Ox attacks and you control no Food, you may search your library for a card named Cheese Wheel and put it onto the battlefield tapped. Then shuffle.
+{6}{W}: Target Minotaur or Ox gets +3/+3 and Prowess until end of turn. You may remove any number of Dairy Counters from among Food you control to reduce this cost by {1} for each Dairy counter removed this way. => When another Minotaur or Ox attacks and you control no Food, you may search your library for a card named Cheese Wheel, put it onto the battlefield tapped, then shuffle.
+{6}{W}: Target Minotaur or Ox gets +3/+3 and Prowess until end of turn. You may remove any number of Dairy Counters from among Food you control to reduce this cost by {1} for each Dairy counter removed this way.
+
+Guerrilla Force
+rules_text: Enlist [i](As this creature attacks, you may tap a nonattacking creature you control without summoning sickness. When you do, add its power to this creature's until end of turn.)[/i]
+When this creature deals combat damage to a player, you may have it fight target creature you don't control. => Enlist [i](As this creature attacks, you may tap a nonattacking creature you control without summoning sickness. When you do, add its power to this creature's until end of turn.)[/i]
+Whenever this creature deals combat damage to a player, you may have it fight target creature you don't control.
+
+Bicheal, The Strong
+
+Micheal, The Scary
+rules_text: Partner with Bicheal, The Strong
+Badgers you control get +1/+1 and gain menace.
+You can have up to 4 copies of Micheal, The Scary in your deck. => Partner with Bicheal, The Strong
+Badgers you control get +1/+1 and have menace.
+You can have up to 4 copies of Micheal, The Scary in your deck.
+
+Punishment Stone
+rules_text: When this artifact leaves your graveyard, it deals 2 damage to any target.
+Whenever an opponent gains life, you may pay {R}. If you do return this artifact from your graveyard to your hand. => When this card leaves your graveyard, it deals 2 damage to any target.
+Whenever an opponent gains life, you may pay {R}. If you do return this card from your graveyard to your hand.
+
+Kevin Bzzytn, Private Eye
+rules_text: Partner [i](You can have two commanders if both have partner.)[/i]
+Whenever Kevin Bzzytn's partner dies, Investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this token: Draw a card.”)[/i] => Partner [i](You can have two commanders if both have partner.)[/i]
+Whenever Kevin Bzzytn's partner dies, investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this token: Draw a card.”)[/i]
+
+Dust Walker
+rules_text: When this creature enters or attack, you may sacrifice a land. If you, destroy target non-basic land an opponent controls.
+{3}, Discard this card: Search your library for a Waste and put it onto the battlefield tapped. Shuffle. => When this creature enters or attack, you may sacrifice a land. If you, destroy target non-basic land an opponent controls.
+{3}, Discard this card: Search your library for a Wastes, put it onto the battlefield tapped, then shuffle.
+
+Infernal Judgement
+rules_text: As an additional cost to cast this spell, behold a card named Tormenting Overseer or sacrifice a creature. [i](To behold a card named Tormenting Overseer or sacrifice a creature, choose a card named Tormenting Overseer or sacrifice a creature you control or reveal a card named Tormenting Overseer or sacrifice a creature card from your hand.)[/i]
+Target player sacrifices a creature. Draw a card. => As an additional cost to cast this spell, behold a card named Tormenting Overseer or sacrifice a creature. [i](To behold it, choose a creature you control named Tormenting Overseer or reveal a card named Tormenting Overseer from your hand.)[/i]
+Target player sacrifices a creature. Draw a card.
+
+The Brave
+rules_text: Miracle {1}{W}
+Dethrone
+When The Brave dies, distribute its counters among creatures you control.
+When The Brave attacks, it gains your choice of a vigilance, lifelink or a reach counter. => Miracle {1}{W}
+Dethrone
+When The Brave dies, distribute its counters among creatures you control.
+Whenever The Brave attacks, put your choice of a vigilance, lifelink or reach counter on it.
+
+Veindweller Hellkite
+rules_text: Flying
+When this creature enters, stockpile 2. [i](Put two hoard counters on a Vault you control. If you don't control one, create a Vault land token with “{T}, Remove a counter from this: Add {C}.” first.)[/i]
+Vaults you control have “{R}, {T}: Remove a counter from this: Discard a card, then draw two cards.” => Flying
+When this creature enters, stockpile 2. [i](Put two hoard counters on a Vault you control. If you don't control one, create a Vault land token with “{T}, Remove a counter from this: Add {C}.” first.)[/i]
+Vaults you control have “{R}, {T}: Remove a counter from this land: Discard a card, then draw two cards.”
+
+Mishra of the Weakstone
+rules_text: Partner with Urza of the Mightstone [i](When this creature enters, target player may put Urza into their hand from their library, then shuffle.)[/i]
+Nonlegendary creatures are Phyrexian Artifacts in addition to their other types.
+Whenever an artifact you control leaves the battlefield, you may return target artifact with lesser mana value from your graveyard to the battlefield. If you do, you lose life equal to its mana value. => Partner with Urza of the Mightstone [i](When this creature enters, target player may put Urza into their hand from their library, then shuffle.)[/i]
+Nonlegendary creatures are Phyrexian Artifacts in addition to their other types.
+Whenever an artifact you control leaves the battlefield, you may return target artifact card with lesser mana value from your graveyard to the battlefield. If you do, you lose life equal to its mana value.
+
+Brin, Lonely Champion
+rules_text: Partner with Arian, Faithful Steed [i](When this creature enters, target player may put Arian into their hand from their library, then shuffle.)[/i]
+Horses you control have flanking.
+Whenever Brin deals combat damage to a player, create a 1/1 white Soldier creature token. If you control a horse, create two of those tokens instead. => Partner with Arian, Faithful Steed [i](When this creature enters, target player may put Arian into their hand from their library, then shuffle.)[/i]
+Horses you control have flanking.
+Whenever Brin deals combat damage to a player, create a 1/1 white Soldier creature token. If you control a Horse, create two of those tokens instead.
+
+Percy, Master Blade Slinger
+rules_text: Partner with Petra, Masterful Delight [i](When this creature enters, target player may put Petra into their hand from their library, then shuffle.)[/i]
+When Percy enters, search you library for an Equipment card, put it onto the battlefield, then shuffle. => Partner with Petra, Masterful Delight [i](When this creature enters, target player may put Petra into their hand from their library, then shuffle.)[/i]
+When Percy enters, search your library for an Equipment card, put it onto the battlefield, then shuffle.
+
+Temporal Plague
+rules_text: Read Ahead [i](Choose a chapter and start with that many lore counters. Add one after your draw step. Skipped chapters don't trigger. Sacrifice after III.)[/i]
+Take an extra turn after this one.
+Sacrifice a third of your permanents, discard a third of you hand, and you lose a third of your life. Round up each time.
+Destroy target creature. => Read Ahead [i](Choose a chapter and start with that many lore counters. Add one after your draw step. Skipped chapters don't trigger. Sacrifice after III.)[/i]
+Take an extra turn after this one.
+Sacrifice a third of your permanents, discard a third of your hand, and you lose a third of your life. Round up each time.
+Destroy target creature.
+special_text: Read Ahead [i](Choose a chapter and start with that many lore counters. Add one after your draw step. Skipped chapters don't trigger. Sacrifice after III.)[/i]
+Take an extra turn after this one.
+Sacrifice a third of your permanents, discard a third of you hand, and you lose a third of your life. Round up each time.
+Destroy target creature. => Read Ahead [i](Choose a chapter and start with that many lore counters. Add one after your draw step. Skipped chapters don't trigger. Sacrifice after III.)[/i]
+Take an extra turn after this one.
+Sacrifice a third of your permanents, discard a third of your hand, and you lose a third of your life. Round up each time.
+Destroy target creature.
+
+Slow and Steady
+rules_text: Enchant creature
+When this aura enters, tap target creature and put stun counters on it equal to enchanted creature's toughness.
+Enchanted creature gets +0/+1 and has vigilance. => Enchant creature
+When this Aura enters, tap target creature and put stun counters on it equal to enchanted creature's toughness.
+Enchanted creature gets +0/+1 and has vigilance.
+
+Struggle of Sisyphus
+rules_text: At the beginning of your upkeep, put a counter on this enchantment.
+At the beginning of your end step, remove all counters from this enchantment.
+You may not put counters on this enchantment as a result of any other abilities or card effects.
+Remove two counters from this enchantment: Destroy Struggle of Sisyphus. [i](Sisyphus is free.)[/i] => At the beginning of your upkeep, put a counter on Struggle of Sisyphus.
+At the beginning of your end step, remove all counters from Struggle of Sisyphus.
+You may not put counters on Struggle of Sisyphus as a result of any other abilities or card effects.
+Remove two counters from Struggle of Sisyphus: Destroy Struggle of Sisyphus. [i](Sisyphus is free.)[/i]
+
+Ashtar Channeler
+rules_text: Whenever you cast an instant, sorcery or Eldrazi spell, create a 1/1 colorless Eldrazi Scion creature token. It has “Sacrifice this creature: Add {C}.” => Whenever you cast an instant, sorcery or Eldrazi spell, create a 1/1 colorless Eldrazi Scion creature token. It has “Sacrifice this token: Add {C}.”
+
+Kithkin Blademaster
+
+Arthur, Camelot's King
+rules_text: When Arthur enters, you may attach an Equipment to him.
+{W}{U}{B}{R}{G}: Search your library for a Knight card and put it onto the battlefield, then shuffle.
+{T}, Sacrifice another knight: Return an Equipment card from your graveyard to the battlefield. => When Arthur enters, you may attach an Equipment to him.
+{W}{U}{B}{R}{G}: Search your library for a Knight card and put it onto the battlefield, then shuffle.
+{T}, Sacrifice another Knight: Return an Equipment card from your graveyard to the battlefield.
+
+Guinevere, Camelot's Queen
+rules_text: Return another human you control to its owners hand: Untap target creature. Activate only once each turn. => Return another Human you control to its owners hand: Untap target creature. Activate only once each turn.
+
+The Unterminated
+rules_text: Vigilance, reach
+Outlast {GW} [i]({GW}, {T}: Put a +1/+1 counter on this creature. Outlast only as a sorcery.)[/i]
+Equipped creature gets +1/+1 for each +1/+1 counter on this Equipment and has vigilance and reach.
+Reconfigure {2} [i]({2}: Attach to target creature you control; or unattach from a creature. Reconfigure only as a sorcery. While attached, this isn't a creature.)[/i] => Reach, vigilance
+Outlast {GW} [i]({GW}, {T}: Put a +1/+1 counter on this creature. Outlast only as a sorcery.)[/i]
+Equipped creature gets +1/+1 for each +1/+1 counter on this Equipment and has vigilance and reach.
+Reconfigure {2} [i]({2}: Attach to target creature you control; or unattach from a creature. Reconfigure only as a sorcery. While attached, this isn't a creature.)[/i]
+
+First of the Brood
+rules_text: Flying
+{3}: Put a 2/2 red Dragon creature token onto the battlefield.
+Whenever another dragon creature enters under your control, you may have it fight another target creature. => Flying
+{3}: Put a 2/2 red Dragon creature token onto the battlefield.
+Whenever another Dragon creature enters under your control, you may have it fight another target creature.
+
+Warrior of the Lands
+rules_text: [i]Domain[/i] — Warrior of the Lands has bushido X, where X is the number of basic land types among lands you control.
+When Warrior of the Lands enters, search your library for a basic land card and put that card onto the battlefield tapped. Then shuffle. => [i]Domain[/i] — Warrior of the Lands has bushido X, where X is the number of basic land types among lands you control.
+When Warrior of the Lands enters, search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.
+
+Arcbound Destroyer
+
+Aclazotz, Ixalan's Shadow
+rules_text: Flying, indestructible
+Sacrifice a creature: Aclazotz loses indestructible until end of turn. Aclazotz's controller gains life equal to the sacrificed creature's toughness. Any player may activate this ability.
+Whenever a creature you control dies, each opponent loses X life, where X is the number of bats you control plus the number of vampires you control. => Flying, indestructible
+Sacrifice a creature: Aclazotz loses indestructible until end of turn. Aclazotz's controller gains life equal to the sacrificed creature's toughness. Any player may activate this ability.
+Whenever a creature you control dies, each opponent loses X life, where X is the number of Bats you control plus the number of Vampires you control.
+
+Terrorgheist
+rules_text: Flying, trample
+When this creature enters, each opponent sacrifices a creature of their choice and you gain 4 life.
+At the beginning of your end step, if three or more creatures died this turn, return this creature from your graveyard to the battlefield. => Flying, trample
+When this creature enters, each opponent sacrifices a creature of their choice and you gain 4 life.
+At the beginning of your end step, if three or more creatures died this turn, return this card from your graveyard to the battlefield.
+
+The Spanish Inquisition
+rules_text: Ninjutsu {W}{B}
+When The Spanish Inquisition deals combat damage to an opponent, that player reveals their hand. You choose a nonwhite card. That player discards that card. => Ninjutsu {W}{B}
+Whenever The Spanish Inquisition deals combat damage to an opponent, that player reveals their hand. You choose a nonwhite card. That player discards that card.
+
+King Kong Unleashed
+rules_text: Trample, menace, reach; Rampage X where X is this creature's power [i](Whenever this creature becomes blocked, it gets +X/+X until end of turn for each creature blocking it beyond the first.)[/i]
+King Kong Unleashed attacks each combat if able. => Reach, trample, menace; Rampage X where X is this creature's power [i](Whenever this creature becomes blocked, it gets +X/+X until end of turn for each creature blocking it beyond the first.)[/i]
+King Kong Unleashed attacks each combat if able.
+
+Breakthrough Artist
+type: Creature — Human => Creature — Human Bard
+
+Blood Money
+rules_text: Forbidden [i](This card begins the game in exile. It doesn't count towards your deck size.)[/i]
+Unique [i](You may only have one copy of a unique card in your deck.)[/i]
+Jewel [i](As long as this card is in exile, whenever you cast an instant or sorcery spell with Jewel, you may cast a copy of this spell without paying its mana cost.)[/i]
+Create a treasure token and lose 2 life. => Forbidden [i](This card begins the game in exile. It doesn't count towards your deck size.)[/i]
+Unique [i](You may only have one copy of a unique card in your deck.)[/i]
+Jewel [i](As long as this card is in exile, whenever you cast an instant or sorcery spell with Jewel, you may cast a copy of this spell without paying its mana cost.)[/i]
+Create a Treasure token and lose 2 life.
+
+Unexpected Apocalypse
+
+Death-Bound Paladin
+rules_text: First strike
+[i]Glorify[/i] — When this creature dies while attacking, exile target creature defending player controls. => First strike
+[i]Glorify[/i] — When Death-Bound Paladin dies while attacking, exile target creature defending player controls.
+
+The Book of Coming Forth by Day
+rules_text: When The Book of Coming Forth by Day enters, sacrifice a creature. Put a mummy counter on it.
+{2}, {T}: Sacrifice a creature without a mummy counter and put a mummy counter on it. Return another creature with a mummy counter from your graveyard to the battlefield. => When The Book of Coming Forth by Day enters, sacrifice a creature. Put a mummy counter on it.
+{2}, {T}: Sacrifice a creature without a mummy counter and put a mummy counter on it. Return another creature card with a mummy counter from your graveyard to the battlefield.
+
+Ancient's Approach
+rules_text: Search your library for up to two basic land cards, reveal those cards, and put one onto the battlefield tapped and the other into your hand. Then shuffle.
+[i]Ferocious[/i] — If you control a creature with power 4 or greater, instead search your library for up to three basic land cards and put them onto the battlefield tapped. Then shuffle. => Search your library for up to two basic land cards, reveal those cards, put one onto the battlefield tapped and the other into your hand, then shuffle.
+[i]Ferocious[/i] — If you control a creature with power 4 or greater, instead search your library for up to three basic land cards, put them onto the battlefield tapped, then shuffle.
+
+Elf of the Gladden Fields
+rules_text: When this creature enters, you may search your library for a basic land card and put it onto the battlefield tapped. Then shuffle.
+[i]Fateful Hour[/i] — If you have 5 or less life, you may instead search for two basic land cards and put and put them onto the battlefield. Then shuffle. => When this creature enters, you may search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
+[i]Fateful Hour[/i] — If you have 5 or less life, you may instead search for two basic land cards, put them onto the battlefield, then shuffle.
+
+Cymede, Mother of Akros
+rules_text: If you control no other humans, Cymede loses all other abilities and gains double strike, trample and gets +2/-2.
+Vigilance
+When Cymede enters, create a 1/1 white Human creature token. => If you control no other Humans, Cymede loses all other abilities and gains double strike, trample and gets +2/-2.
+Vigilance
+When Cymede enters, create a 1/1 white Human creature token.
+
+Deep Bond
+rules_text: Choose target creatures you control. Until end of turn each of the chosen creatures get +X/+X where X is the other chosen creature's mana value. => Choose two target creatures you control. Until end of turn each of the chosen creatures get +X/+X where X is the other chosen creature's mana value.
+
+Government Irrigation
+rules_text: At the beginning of your end step, if you control fewer lands than an opponent, search your library for a Plains card, reveal it, and put it into your hand. Then shuffle. => At the beginning of your end step, if you control fewer lands than an opponent, search your library for a Plains card, reveal it, put it into your hand, then shuffle.
+
+Nimble Spellsword
+rules_text: This creature has hexproof as long as it's attacking.
+When this creature deals combat damage to a player, exile the top card of your library. If it's an instant or sorcery, you may cast it without paying its mana cost. => This creature has hexproof as long as it's attacking.
+Whenever this creature deals combat damage to a player, exile the top card of your library. If it's an instant or sorcery, you may cast it without paying its mana cost.
+
+Face the Unmade
+rules_text: Destroy up to three target creatures with mana value X or less. If X is seven or more, return up to three creatures from your graveyard to the battlefield, they're Zombies in addition to their other types. => Destroy up to three target creatures with mana value X or less. If X is seven or more, return up to three creature cards from your graveyard to the battlefield, they're Zombies in addition to their other types.
+
+Feth Fiada, Guided by Mist
+rules_text: Whenever a land enters under your control, investigate.
+[+2]: You may sacrifice an artifact. If you do, create a 1/1 white Human Solder creature token.
+[-3]: You may play an additional land this turn. If you do, exile Féth Fíada. Return it to the battlefield under its owner's control at the beginning of your next upkeep. => Whenever a land enters under your control, investigate.
+[+2]: You may sacrifice an artifact. If you do, create a 1/1 white Human Soldier creature token.
+[-3]: You may play an additional land this turn. If you do, exile Féth Fíada. Return it to the battlefield under its owner's control at the beginning of your next upkeep.
+special_text: Whenever a land enters under your control, investigate.
+[+2]: You may sacrifice an artifact. If you do, create a 1/1 white Human Solder creature token.
+[-3]: You may play an additional land this turn. If you do, exile Féth Fíada. Return it to the battlefield under its owner's control at the beginning of your next upkeep. => Whenever a land enters under your control, investigate.
+[+2]: You may sacrifice an artifact. If you do, create a 1/1 white Human Soldier creature token.
+[-3]: You may play an additional land this turn. If you do, exile Féth Fíada. Return it to the battlefield under its owner's control at the beginning of your next upkeep.
+
+The Great Beyond
+rules_text: {T}, Sacrifice this land: Choose one —
+• Search your library for a basic land card and put it into play tapped. Then shuffle.
+• Look at the top five cards of your library. You may put a land card from among them onto the battlefield. Put the rest on the bottom of your library in a random order. => {T}, Sacrifice this land: Choose one —
+• Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
+• Look at the top five cards of your library. You may put a land card from among them onto the battlefield. Put the rest on the bottom of your library in a random order.
+
+Wellspring of Knowledge
+rules_text: {1}{U}, {T}: Search your library for an instant or sorcery card with mana value equal to the number of instant and sorcery cards in your graveyard and reveal that card, put that card into you hand, then shuffle. Wellspring of Knowledge does not untap during your next untap step.
+{4}{U}{U}{U}, Sacrifice Wellspring of Knowledge: You may cast up to two instants and sorceries from your hand without paying their mana cost. => {1}{U}, {T}: Search your library for an instant or sorcery card with mana value equal to the number of instant and sorcery cards in your graveyard and reveal that card, put that card into your hand, then shuffle. Wellspring of Knowledge does not untap during your next untap step.
+{4}{U}{U}{U}, Sacrifice Wellspring of Knowledge: You may cast up to two instants and sorceries from your hand without paying their mana cost.
+
+Ugin, Eternal Jailer
+rules_text: [+1]: Destroy up to one target noncreature permanent.
+[-1]: Until your next turn, you may spend mana as though it were mana of any type.
+[-7]: Search your library for up to three permanent cards and put them onto the battlefield. Then shuffle. => [+1]: Destroy up to one target noncreature permanent.
+[-1]: Until your next turn, you may spend mana as though it were mana of any type.
+[-7]: Search your library for up to three permanent cards, put them onto the battlefield, then shuffle.
+special_text: [+1]: Destroy up to one target noncreature permanent.
+[-1]: Until your next turn, you may spend mana as though it were mana of any type.
+[-7]: Search your library for up to three permanent cards and put them onto the battlefield. Then shuffle. => [+1]: Destroy up to one target noncreature permanent.
+[-1]: Until your next turn, you may spend mana as though it were mana of any type.
+[-7]: Search your library for up to three permanent cards, put them onto the battlefield, then shuffle.
+
+Illuminator Of the World
+rules_text: When this creature enters or dies, search your library for an enchantment with mana value 4 or less and put it into your hand. Then shuffle. => When this creature enters or dies, search your library for an enchantment with mana value 4 or less, reveal it, put it into your hand, then shuffle.
+
+Joker's Gun
+rules_text: Joker's Gun enters with eight bullet counters on it.
+Equipped creature has “{T}, Remove a bullet counter from Joker's Gun: Joker's Gun deals 4 damage to target creature, if that creature is a human destroy it instead.”
+Equip Human {1} => Joker's Gun enters with eight bullet counters on it.
+Equipped creature has “{T}, Remove a bullet counter from Joker's Gun: Joker's Gun deals 4 damage to target creature. If that creature is Human, destroy it instead.”
+Equip Human {1}
+
+Necrocolonizing Thallid
+rules_text: Zombies you control get +X/+X where X is the number of spore counters on permanents you control.
+{X}{G}: Return target creature card from you graveyard with mana value X or less to the battlefield with a spore counter on it. It is a zombie in addition to its other types. => Zombies you control get +X/+X where X is the number of spore counters on permanents you control.
+{X}{G}: Return target creature card with mana value X or less from your graveyard to the battlefield with a spore counter on it. It is a Zombie in addition to its other types.
+
+Spirit of the Lost
+rules_text: Other spirits you control have “Whenever this creature deals combat damage to a player, exile the top card of your library. Until end of turn, you may play that card.” => Other Spirits you control have “Whenever this creature deals combat damage to a player, exile the top card of your library. Until end of turn, you may play that card.”
+
+Bridge of Death
+rules_text: When this enchantment enters, for each creature you control flip three coins.
+For each creature, if the majority of the flips come up heads, that creature gets +2/+0 and haste until end of turn. If the majority of the flips come up tails, destroy that creature. It can't be regenerated.
+At the beginning of your next upkeep, sacrifice this enchantment. => When this enchantment enters, for each creature you control, flip three coins. For each creature, if two or more flips are won, that creature gets +2/+0 and gains haste until end of turn. Otherwise, destroy that creature. It can't be regenerated.
+At the beginning of your upkeep, sacrifice this enchantment.
+
+Three Temptations
+rules_text: At the beginning of each upkeep, create a food token and choose one that hasn't been chosen —
+• Gain control of target creature with power 1 or less. This enchantment deals 3 damage to you.
+• Gain control of target creature with power 3 or less. This enchantment deals 5 damage to you.
+• Gain control of target creature. This enchantment deals 10 damage to you. Sacrifice this enchantment. => At the beginning of each upkeep, create a Food token and choose one that hasn't been chosen —
+• Gain control of target creature with power 1 or less. This enchantment deals 3 damage to you.
+• Gain control of target creature with power 3 or less. This enchantment deals 5 damage to you.
+• Gain control of target creature. This enchantment deals 10 damage to you. Sacrifice this enchantment.
+
+Cunning Hostess
+rules_text: Put a -1/-1 counter on this creature: Target creature you control gains hexproof and indestructible until end of turn. If it's a knight, it also gains lifelink until end of turn. => Put a -1/-1 counter on this creature: Target creature you control gains hexproof and indestructible until end of turn. If it's a Knight, it also gains lifelink until end of turn.
+
+Fearless to the Last
+rules_text: Destroy target creature. If that creature was a knight, return it to the battlefield under its owner's control and put three +1/+1 counters on it. It gains haste until end of turn. => Destroy target creature. If that creature was a Knight, return it to the battlefield under its owner's control and put three +1/+1 counters on it. It gains haste until end of turn.
+
+The Sword in the Stone (2)
+rules_text: When equipped creature deals combat damage to a player, you become the monarch.
+Equipped creature gets +2/+1 and has first strike as long as you're the monarch.
+Equip {2} => Whenever equipped creature deals combat damage to a player, you become the monarch.
+Equipped creature gets +2/+1 and has first strike as long as you're the monarch.
+Equip {2}
+
+Maya, Legendary Siren
+
+Varys, Weaver of Secrets
+
+Omnath, Maelstrom Locus
+rules_text: Vigilance, flash, fear, haste, trample
+{W}: Create a 1/1 Elemental token that is all colors and has, “When this creature dies, you gain 1 life.”
+{U}: Counter target spell with mana value less than or equal to the number of Elementals you control.
+{BP}, Sacrifice a creature: Draw a card.
+{R}: Omnath deals X damage to any target where X is the number of Elementals you control.
+{G}{G}: Search your library for a land with any basic land type and put it into play tapped. Shuffle. => Vigilance, flash, fear, haste, trample
+{W}: Create a 1/1 Elemental token that is all colors and has, “When this creature dies, you gain 1 life.”
+{U}: Counter target spell with mana value less than or equal to the number of Elementals you control.
+{BP}, Sacrifice a creature: Draw a card.
+{R}: Omnath deals X damage to any target where X is the number of Elementals you control.
+{G}{G}: Search your library for a land with any basic land type, put it onto the battlefield tapped, then shuffle.
+
+Corrosive Spore Fungus
+rules_text: When this creature enters, if {B} was spent to cast it each player sacrifices a creature, and if {G} was spent to cast it each player sacrifices an artifact. [i](Do both if {B}{G} was spent to cast it.)[/i] => When this creature enters, if {B} was spent to cast it each player sacrifices a creature of their choice, and if {G} was spent to cast it each player sacrifices an artifact of their choice. [i](Do both if {B}{G} was spent to cast it.)[/i]
+
+Restless Draugr
+type: Snow Creature — Zombie Bereserker => Snow Creature — Zombie Berserker
+
+Falling Into the Bottomless Pit
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Each player sacrifices a creature without flying.
+II — If you control a creature with flying, return up to one target creature card from your graveyard to your hand.
+III — Create a 3/3 black Demon creature token for each opponent with three or more creature cards in their graveyard. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Each player sacrifices a creature without flying of their choice.
+II — If you control a creature with flying, return up to one target creature card from your graveyard to your hand.
+III — Create a 3/3 black Demon creature token for each opponent with three or more creature cards in their graveyard.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Each player sacrifices a creature without flying.
+II — If you control a creature with flying, return up to one target creature card from your graveyard to your hand.
+III — Create a 3/3 black Demon creature token for each opponent with three or more creature cards in their graveyard. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Each player sacrifices a creature without flying of their choice.
+II — If you control a creature with flying, return up to one target creature card from your graveyard to your hand.
+III — Create a 3/3 black Demon creature token for each opponent with three or more creature cards in their graveyard.
+
+The Third of May, 1808
+rules_text: When this enchantment enters, destroy up to X target creatures.
+Whenever a creature an opponent controls dies, creatures you control get +1/+0 until end of turn. => When The Third of May, 1808 enters, destroy up to X target creatures.
+Whenever a creature an opponent controls dies, creatures you control get +1/+0 until end of turn.
+
+Merchant's Crossroads
+rules_text: You may return three Islands you control to their owner's hands instead of paying this spell's mana cost.
+Search your library for exactly four cards with different names and exile them. Target opponent chooses two of those cards. You pay put the chosen cards into your hand and the rest into your graveyard, then shuffle. If you don't, draw two cards. => You may return three Islands you control to their owner's hands instead of paying this spell's mana cost.
+Search your library for exactly four cards with different names and exile them. Target opponent chooses two of those cards. You may put the chosen cards into your hand and the rest into your graveyard, then shuffle. If you don't, draw two cards.
+
+Endless Fiddling
+rules_text: Sacrifice an artifact, Return this enchantment to its owner's hand: Search your library for an artifact card with mana value equal to 1 plus the sacrificed artifact's mana value, put it onto the battlefield, then shuffle. Activate only as a sorcery. => Sacrifice an artifact, return this enchantment to its owner's hand: Search your library for an artifact card with mana value equal to 1 plus the sacrificed artifact's mana value, put it onto the battlefield, then shuffle. Activate only as a sorcery.
+
+Roiling Landscape
+rules_text: As an additional cost to cast this spell, sacrifice a land of each basic land type.
+Search your library for up to five lands and put them onto the battlefield. Then, shuffle. => As an additional cost to cast this spell, sacrifice a land of each basic land type.
+Search your library for up to five lands, put them onto the battlefield, then shuffle.
+
+Hamunaptra, City of the Dead
+rules_text: {T}, Mill a card: Add {C}.
+{T}, Sacrifice a noncreature artifact: Target creature card in your graveyard gains embalm until end of turn. The embalm cost is equal to its mana cost. [i](Exile that card and pay its embalm cost: Create a token that's a copy of it, except it's a white Zombie in addition to its other types and has no mana cost. Embalm only as a sorcery.)[/i] => {T}, Mill a card: Add {C}. [i](Activate only as an instant.)[/i]
+{T}, Sacrifice a noncreature artifact: Target creature card in your graveyard gains embalm until end of turn. The embalm cost is equal to its mana cost. [i](Exile that card and pay its embalm cost: Create a token that's a copy of it, except it's a white Zombie in addition to its other types and has no mana cost. Embalm only as a sorcery.)[/i]
+
+Sigarda, Shattered Heron
+
+Bruna, Voice of Hope
+rules_text: Flying; Ward {X}, where X is the number of enchantments attached to Bruna.
+Whenever Bruna attacks, you may look at the top 3 cards of your library. Reveal an Aura card from among them and put it onto the battlefield attached to Bruna, then shuffle. => Flying; Ward {X}, where X is the number of enchantments attached to Bruna.
+Whenever Bruna attacks, you may look at the top three cards of your library. Put an Aura card from among them onto the battlefield attached to Bruna, then shuffle.
+
+Esteemed Professor Vess
+
+Aetius, Magister Multum
+rules_text: Armored, armored
+Remove a shield counter from this creature: Put three +1/+1 counters on this creature. Activate this ability only once per turn.
+Whenever you remove a counter from this creature, create two 1/1 red and white Human Solder creature tokens with armored. [i](They enter with a shield counter.)[/i] => Armored, armored
+Remove a shield counter from Aetius: Put three +1/+1 counters on this creature. Activate this ability only once per turn.
+Whenever you remove a counter from Aetius, create two 1/1 red and white Human Solder creature tokens with armored. [i](They enter with a shield counter.)[/i]
+
+One More Week
+rules_text: Take an extra turn after this one, at the end of that turn, you lose the game unless you sacrifice five treasures. => Take an extra turn after this one, at the end of that turn, you lose the game unless you sacrifice five Treasures.
+
+New Belle
+
+Quick on the Draw
+rules_text: If an opponent controls more lands than you, you may cast this creature as though it had flash. [i](You may cast this spell any time you could cast an instant.)[/i]
+First strike, reach => If an opponent controls more lands than you, you may cast this creature as though it had flash. [i](You may cast this spell any time you could cast an instant.)[/i]
+Reach, first strike
+
+Lich's Call
+rules_text: As an additional cost to cast this spell, discard X cards.
+Search you library for up to X cards and put them into your hand. Shuffle. => As an additional cost to cast this spell, discard X cards.
+Search your library for up to X cards, put them into your hand, then shuffle.
+
+Math Tutor
+rules_text: As an additional cost to cast this spell, sacrifice a creature.
+Search your library for a creature card with mana value equal to 1 plus the sacrificed creature's mana value, put that card into your hand, then shuffle. => As an additional cost to cast this spell, sacrifice a creature.
+Search your library for a creature card with mana value equal to 1 plus the sacrificed creature's mana value, reveal it, put it into your hand, then shuffle.
+
+Reflect Unto the Mind
+rules_text: Choose two—
+• Search your library for a noncreature card, reveal it, and put it into your hand. Then shuffle.
+• Draw three cards.
+• Counter target creature spell.
+• Target creature gets -4/-0 until end of turn. => Choose two—
+• Search your library for a noncreature card, reveal it, put it into your hand, then shuffle.
+• Draw three cards.
+• Counter target creature spell.
+• Target creature gets -4/-0 until end of turn.
+
+Resourceful Provider
+rules_text: This creature doesn't untap during your untap step.
+Pay 4 life, {T}: Search your library for a card and put it into your hand. Shuffle.
+Pay 3 life: Untap this creature. => This creature doesn't untap during your untap step.
+Pay 4 life, {T}: Search your library for a card, put it into your hand, then shuffle.
+Pay 3 life: Untap this creature.
+
+Tribe of the Honorable
+rules_text: First strike
+When this creature enters, you may search your library for a creature with mana value 2 or less, reveal it, and put it into you hand. Shuffle. => First strike
+When this creature enters, you may search your library for a creature with mana value 2 or less, reveal it, put it into your hand, then shuffle.
+
+Tribe of the Arcane
+rules_text: Flash
+When this creature enters, you may search your library for an instant or sorcery card with the same name as another card played this turn, reveal it, and put it into your hand. => Flash
+When this creature enters, you may search your library for an instant or sorcery card with the same name as another card played this turn, reveal it, put it into your hand, then shuffle.
+
+Tribe of the Wrathful
+rules_text: Haste
+When this creature enters, search your library for an instant or sorcery card that targets a player and/or permanent, reveal it, and put it into your hand. Then shuffle. => Haste
+When this creature enters, search your library for an instant or sorcery card that targets a player and/or permanent, reveal it, put it into your hand, then shuffle.
+
+Tribe of the Wilds
+rules_text: This creature enters with your choice of a trample, hexproof or vigilance counter on it.
+When this creature enters, you may search your library for a creature card that shares a keyword with this creature, reveal it, and put it into your hand. Then shuffle. => This creature enters with your choice of a trample, hexproof or vigilance counter on it.
+When this creature enters, you may search your library for a creature card that shares a keyword with this creature, reveal it, put it into your hand, then shuffle.
+
+Tribe of the Damned
+rules_text: Deathtouch
+When this creature enters, you may search your library for a card with the same name as a card in a graveyard, reveal it, and put it into your hand. Then, shuffle. => Deathtouch
+When this creature enters, you may search your library for a card with the same name as a card in a graveyard, reveal it, put it into your hand, then shuffle.
+
+Nissa, One With Earth
+
+Chandra, One With Fire
+
+Kuroko Dial, Investigator
+rules_text: When Kuroko Dial enters, Investigate.
+{T}, Sacrifice a clue: Detain target creature. => When Kuroko Dial enters, investigate.
+{T}, Sacrifice a clue: Detain target creature.
+
+Manegran, the Grand Creation
+rules_text: Partner with Azulman, the Passionate
+Discard an artifact card: Manegran gains hexproof until end of turn.
+When Manegran deals combat damage to a player, draw a card for each artifact card in your graveyard. => Partner with Azulman, the Passionate
+Discard an artifact card: Manegran gains hexproof until end of turn.
+Whenever Manegran deals combat damage to a player, draw a card for each artifact card in your graveyard.
+
+Servant of Erebos
+rules_text: [i]Constellation[/i] — When this creature or another enchantment enters under your control, each opponent loses 1 life and you gain 1 life.
+Sacrifice an enchantment: Return target non-enchantment creature from your graveyard to the battlefield. => [i]Constellation[/i] — When this creature or another enchantment enters under your control, each opponent loses 1 life and you gain 1 life.
+Sacrifice an enchantment: Return target non-enchantment creature card from your graveyard to the battlefield.
+
+Defender of Nature's Secrets
+rules_text: When this creature enters or attacks, it fights up to one target creature you don't control.
+When this creature is dealt damage, create a 0/1 green Plant creature token with defender.
+This creature gets +1/+1 for each plant you control. => When this creature enters or attacks, it fights up to one target creature you don't control.
+When this creature is dealt damage, create a 0/1 green Plant creature token with defender.
+This creature gets +1/+1 for each Plant you control.
+
+Courage the Cowardly
+
+Sapphire
+
+Ruby
+
+Leader of the Pack
+rules_text: Enchant Dog or Wolf you control
+Enchanted creature gets +1/+1.
+Dogs and wolves you control get +1/+1. => Enchant Dog or Wolf you control
+Enchanted creature gets +1/+1.
+Dogs and Wolves you control get +1/+1.
+
+Simon, Able Seacat
+rules_text: Whenever this creature or another cat you control enters, target creature gets -1/-1 until end of turn.
+Whenever a creature an opponent controls dies, create a Food token. => Whenever Simon or another Cat you control enters, target creature gets -1/-1 until end of turn.
+Whenever a creature an opponent controls dies, create a Food token.
+
+Bane of the Hollows
+rules_text: This creature's power and toughness are each equal to the number of Forests you control.
+When this creature enters, sacrifice any number of other creatures and/or lands you control. Search your library for up to that many Forest cards, put them onto the battlefield tapped, then shuffle. => Bane of the Hollows's power and toughness are each equal to the number of Forests you control.
+When this creature enters, sacrifice any number of other creatures and/or lands you control. Search your library for up to that many Forest cards, put them onto the battlefield tapped, then shuffle.
+
+Viashino Graveyard
+
+Muxus's Quartermaster
+rules_text: When this creature enters, it deals 4 damage divided as you choose among any number of other target creatures.
+Whenever a creature you control is destroyed by an effect you control, choose one that hasn't been chosen this turn —
+• Creatures you control gain haste, menace, and trample until end of turn.
+• Creatures you control get +1/+1 until end of turn.
+• Creatures you control gain double strike until end of turn. => When Muxus's Quartermaster enters, it deals 4 damage divided as you choose among any number of other target creatures.
+Whenever a creature you control is destroyed by an effect you control, choose one that hasn't been chosen this turn —
+• Creatures you control gain haste, menace, and trample until end of turn.
+• Creatures you control get +1/+1 until end of turn.
+• Creatures you control gain double strike until end of turn.
+
+Nullscape Battlemage
+rules_text: Flash
+Kicker {1}{U} and/or {1}{B}
+When you cast this spell, if it was kicked with its {1}{U} kicker, you may put two cards your opponents own from exile into their owner's graveyards. If you do, counter target spell.
+When you cast this spell, if it was kicked with its {1}{B} kicker, target opponent sacrifices a creature.
+Flying => Flash
+Kicker {1}{U} and/or {1}{B}
+When you cast this spell, if it was kicked with its {1}{U} kicker, you may put two cards your opponents own from exile into their owners' graveyards. If you do, counter target spell.
+When you cast this spell, if it was kicked with its {1}{B} kicker, target opponent sacrifices a creature of their choice.
+Flying
+
+Elvish Squadleader
+rules_text: This creature's power is equal to the number of Elves you control.
+Whenever this creature deals damage, create a 1/1 green Elf Archer creature token. When a player is dealt damage this way, this creature deals damage equal to its power to up to one target creature with flying they control. => Elvish Squadleader's power is equal to the number of Elves you control.
+Whenever this creature deals damage, create a 1/1 green Elf Archer creature token. When a player is dealt damage this way, this creature deals damage equal to its power to up to one target creature with flying they control.
+
+Ceris, the Oncoming Storm
+rules_text: Flash
+Flying
+You may cast Elemental spells and Spirit spells as though they had flash.
+Whenever you cast a spell during an opponent's turn, put a +1/+1 counter on Ceris. => Flash
+Flying
+You may cast Elemental and Spirit spells as though they had flash.
+Whenever you cast a spell during an opponent's turn, put a +1/+1 counter on Ceris.
+
+Eye of the Beyond
+rules_text: Choose one. Then choose another for each card named Eye of the Beyond in your graveyard —
+• Create two 1/1 white Spirit creature tokens.
+• Put a +1/+1 counter on each creature you control.
+• You gain 5 life.
+• Search your library for a card with mana value 2 or less, put it into your hand, then shuffle. => Choose one. Then choose another for each card named Eye of the Beyond in your graveyard —
+• Create two 1/1 white Spirit creature tokens.
+• Put a +1/+1 counter on each creature you control.
+• You gain 5 life.
+• Search your library for a card with mana value 2 or less, reveal it, put it into your hand, then shuffle.
+
+Discover the Newborn World
+rules_text: Search your library for a land card. If it is a basic land card, put it onto the battlefield, otherwise, put it into your hand. Shuffle. => Search your library for a land card. If it is a basic land card, put it onto the battlefield. Otherwise, reveal it and put it into your hand. Shuffle.
+
+Swarming Resonance
+
+Lion's Eye Lotus
+rules_text: Discard your hand, sacrifice Lion's Eye Lotus: Add three mana of any one color. Target opponent searches your library and graveyard for any number of cards named Lion's Eye Lotus and exiles them, then shuffle. Activate only as an instant. => Discard your hand, sacrifice Lion's Eye Lotus: Add three mana of any one color. Target opponent searches your library and graveyard for any number of cards named Lion's Eye Lotus and exiles them, then shuffle. [i](Activate only as an instant.)[/i]
+
+Lightning Feedback
+
+Tree Farm
+
+Protective Priest
+rules_text: At the beginning of your end step, if this creature is tapped put a shield counter on target creature without a shield counter on it. [i](If it would be dealt damage or destroyed, remove a shield counter from it instead.)[/i] => At the beginning of your end step, if this creature is tapped, put a shield counter on target creature without a shield counter on it. [i](If it would be dealt damage or destroyed, remove a shield counter from it instead.)[/i]
+
+Archpriest's Charm
+rules_text: Choose one —
+• Destroy each attacking creature with power 4 or greater.
+• Target player gains 4 life. Their life total can't change this turn.
+• Return target enchantment with mana value 4 or less from your graveyard to the battlefield. => Choose one —
+• Destroy each attacking creature with power 4 or greater.
+• Target player gains 4 life. Their life total can't change this turn.
+• Return target enchantment card with mana value 4 or less from your graveyard to the battlefield.
+
+Devotion
+rules_text: This spell costs {W} less to cast for each white creature you control.
+Vigilance
+This creature's power and toughness are equal to your devotion to white. => This spell costs {W} less to cast for each white creature you control.
+Vigilance
+Devotion's power and toughness are equal to your devotion to white.
+
+Foreshadowing Dragonstorm
+rules_text: When this enchantment enters, manifest the top card of your library. [i](To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)[/i]
+When a Dragon your control enters, return this enchantment to its owner's hand. => When this enchantment enters, manifest the top card of your library. [i](To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)[/i]
+When a Dragon you control enters, return this enchantment to its owner's hand.
+
+Epiphany (3)
+rules_text: Search your library for an instant card named Epiphany, reveal it and put it into your hand. Shuffle. => Search your library for an instant card named Epiphany, reveal it, put it into your hand, then shuffle.
+
+Grim Investigator
+rules_text: Whenever this creature attacks or blocks, investigate.
+Sacrifice seven clues: Search your library for a card name Big Break and cast it without paying its mana cost. Shuffle. => Whenever this creature attacks or blocks, investigate.
+Sacrifice seven clues: Search your library for a card named Big Break, exile that card, then shuffle. You may cast it without paying its mana cost.
+
+Esper Mindhopper
+rules_text: Puppeteer 2 — {U}{WB} [i](If you cast this spell for its puppeteer cost, it enters tapped with two stun counters on it and target creature gains this card's other abilities while this remains tapped.)[/i]
+Flying
+When this creature deals combat damage to a player, scry X where X is this creature's power. => Puppeteer 2 — {U}{WB} [i](If you cast this spell for its puppeteer cost, it enters tapped with two stun counters on it and target creature gains this card's other abilities while this remains tapped.)[/i]
+Flying
+Whenever this creature deals combat damage to a player, scry X where X is this creature's power.
+
+The Etherium Crucible
+rules_text: At the beginning of combat on your turn, choose one of +1/+1, first strike, deathtouch, hast, lifelink, vigilance, trample, and menace. Put a counter of that type on each other permanent you control.
+[i]Etherium Perfection[/i] — If this permanent has a counter on it, you may choose from flying, indestructible, double strike, and hexproof as well. => At the beginning of combat on your turn, choose one of +1/+1, first strike, deathtouch, haste, lifelink, vigilance, trample, and menace. Put a counter of that type on each other permanent you control.
+[i]Etherium Perfection[/i] — If this permanent has a counter on it, you may choose from flying, indestructible, double strike, and hexproof as well.
+
+Lars, Craftsmaster
+rules_text: [i]Inspired[/i] — Whenever Lars enters or becomes untapped, you may salvage 1. If you do, you may cast an artifact spell from among cards exiled with it. Otherwise, surveil 1. [i](To salvage 1, exile three cards from you graveyard or exile a nontoken artifact you control, each with mana value 1 or greater.)[/i] => [i]Inspired[/i] — Whenever Lars enters or becomes untapped, you may salvage 1. If you do, you may cast an artifact spell from among cards exiled with it. Otherwise, surveil 1. [i](To salvage 1, exile three cards from your graveyard or exile a nontoken artifact you control, each with mana value 1 or greater.)[/i]
+
+Charge Blade: Sword Mode
+rules_text: Gear Up [i](When this Equipment enters, create a 1/1 green Ranger creature token and attach this to it.)[/i]
+Equipped creature gets +1/+3.
+Whenever equipped creature attacks, put a charge counter on this equipment. Then you may transform it.
+Equip {3} => Gear Up [i](When this Equipment enters, create a 1/1 green Ranger creature token and attach this to it.)[/i]
+Equipped creature gets +1/+3.
+Whenever equipped creature attacks, put a charge counter on this Equipment. Then you may transform it.
+Equip {3}
+
+The Tunnel of Time
+rules_text: Whenever The Tunnel of Time or another artifact you control enters, put a patience counter on this artifact.
+Remove ten patience counter from The Tunnel of Time and exile it: Take an extra turn after this one. => Whenever The Tunnel of Time or another artifact you control enters, put a patience counter on The Tunnel of Time.
+Remove ten patience counter from The Tunnel of Time and exile it: Take an extra turn after this one.
+
+
+VERSION 10 CHANGELOG
 ====================
 
 Bronwel, Priest of the Forgotten added.
