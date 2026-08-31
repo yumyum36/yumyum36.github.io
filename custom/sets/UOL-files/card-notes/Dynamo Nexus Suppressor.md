@@ -2,5 +2,5 @@ During the course of a competition a player may fail to submit. The organizer ma
 
 
 
-Search for DNS cards: \[tag:DNS tag:Lilypadms](https://yumyum36.github.io/search?search=tag%3Adns+tag%3Alilypadms)
+Search for DNS cards: [tag:DNS](https://yumyum36.github.io/search?search=tag%3Adns)
 
