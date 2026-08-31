@@ -1,4 +1,4288 @@
-﻿VERSION 11 CHANGELOG
+﻿VERSION 12 CHANGELOG
+====================
+
+Dream Plumes added.
+Spirited Adventurer added.
+Brawler added.
+Gone with the Wind added.
+Cognition Thieves added.
+Evanesce added.
+Reckless Sparkmage added.
+Snowstorm added.
+Bang added.
+Zomok, Terror of Realms added.
+Donnybrook added.
+Sathmira, Ruinous Serpent added.
+Kazuko, Protector of Peace added.
+ROG Liberated added.
+Dreadful Summoner added.
+Moon Crash added.
+Summon Horrible Things added.
+Greedy Goblin added.
+
+Dream Plume removed.
+Spirited Adventurere removed.
+
+Spooky Storyteller
+
+Sand Scour
+
+Mist-Lure Shade
+
+Ghost in the Machine
+
+Restless Cascades
+
+Titania's Court (1)
+
+Tenth District Square (1)
+
+The Underworld (1)
+
+Titania's Court (2)
+
+Gremlin Nest (1)
+
+Ruins of Titania's Court
+
+Tenth District Square (2)
+
+Urza's Workshop (1)
+
+Titania's Court (3)
+
+Urza's Workshop (2)
+
+Urabrask's Hidden Lair
+
+Gremlin's Nest
+
+The Underworld (2)
+
+Seat of the Grand Cenobite
+
+The Underworld (3)
+
+The Underworld (4)
+
+Tenth District Square (3)
+
+Gremlin Nest (2)
+
+Gremlin Nest (3)
+
+Advisor Class
+
+Rot Swap
+
+Avenger of Ash
+
+Guardian of Growth
+
+Forger of Flames
+
+Stoke the Blaze
+
+Pyreborn Phoenix
+
+Azax-Azog, the Demon Thane
+
+Azax-Azog's Contract
+
+Compleated Sacrifice
+
+Murderous Dagger
+
+Doctor Black's Library
+
+Colonel Mustard
+
+Fort Cannon
+
+Charge Up
+
+Energy Blast
+
+Shay, Wastebin Wunderkind
+
+Courage
+
+Wisdom
+
+Power
+
+Late Night Study
+
+The DeLorean
+
+Marty McFly, Temporal Displacer
+
+Sesskit, The Frozen Embrace
+
+Veline, Nature's Warden
+
+Specialized Strategist
+
+Gatesage Elf
+
+The Ur-Dragon's Call
+
+Broker of Bare Necessities
+
+Nezket, Dune Convergence
+
+Malasekth III, The Expander
+
+Urza's Cloudpost
+
+The Angriest Reaver Drone
+
+Poppet Witch
+
+Viper's Bargain
+
+Submitted
+
+The Custom Card Contest
+
+Hydra
+
+Arsteel, Weenie Commander
+
+Maple, the Non-Fungible
+
+Vrolos, Grand Resurrector
+
+Inventory Manager
+
+Ragthrax, Lord of Flame
+
+Putrefying Parasite
+
+Rebellious Inventor
+
+Frenzied Search
+
+Bant Foresummoner
+
+Return to Nyx
+
+Wither-Blade Khenra
+
+Tools of Recovery
+
+Thopter of Healing
+
+Morphing Urn
+
+Time Walkman
+
+Force of Mobility
+
+Lo and Behold
+
+Woodland Bears
+
+Phyrexian Proclamation
+
+Great Grey Wolf Sif
+
+Lumbering River-King
+
+Izekul, Waste Spreader
+
+Dead or Alive
+
+Glorious Bounty
+
+Bounty Board
+
+Merysk, Perpetual Storm
+
+Symbiotic Hydroid
+
+The Broken Vessel
+
+Azerverl, Soul of Sands
+
+Chasmfiend
+
+Metacognition
+
+Reassembling Scaab
+
+Relive the Nightmares
+
+Demon of Forgotten Desires
+
+Might of the Ancestors
+
+Always-Useful Fungus
+
+Devastating Plague
+
+Judge of Life and Death
+
+Necromancer's Tome
+
+Nevinyrral's Tome
+
+Asavah, Titan of the Swarm
+
+Wrapcaster Mage
+
+Lich's Restoration
+
+Alchemist
+
+Ally Class
+rules_text: [i](Gain the next level as a sorcery to add its ability.)[/i]
+When this class enters, create two 1/1 white Kor Ally creature tokens. They gain haste until end of turn.
+{B}: Level 2
+When this Class becomes level 2, you may destroy target creature if its mana value is less than or equal to the number of Allies you control.
+{3}{U}{U}: Level 3
+Whenever an Ally you control enters or attacks, draw a card. => [i](Gain the next level as a sorcery to add its ability.)[/i]
+When this Class enters, create two 1/1 white Kor Ally creature tokens. They gain haste until end of turn.
+{B}: Level 2
+When this Class becomes level 2, you may destroy target creature if its mana value is less than or equal to the number of Allies you control.
+{3}{U}{U}: Level 3
+Whenever an Ally you control enters or attacks, draw a card.
+special_text: [i](Gain the next level as a sorcery to add its ability.)[/i]
+When this class enters, create two 1/1 white Kor Ally creature tokens. They gain haste until end of turn.
+{B}: Level 2
+When this Class becomes level 2, you may destroy target creature if its mana value is less than or equal to the number of Allies you control.
+{3}{U}{U}: Level 3
+Whenever an Ally you control enters or attacks, draw a card. => [i](Gain the next level as a sorcery to add its ability.)[/i]
+When this Class enters, create two 1/1 white Kor Ally creature tokens. They gain haste until end of turn.
+{B}: Level 2
+When this Class becomes level 2, you may destroy target creature if its mana value is less than or equal to the number of Allies you control.
+{3}{U}{U}: Level 3
+Whenever an Ally you control enters or attacks, draw a card.
+
+Assassin Class (1)
+rules_text: [i](Gain the next level as a sorcery to add its ability.)[/i]
+Whenever a creature you don't control dies, create a Treasure token.
+{2}{B}{B}: Level 2
+When this class becomes level 2, destroy target creature.
+{4}{B}{B}: Level 3
+When this class becomes Level 3, destroy target creature. => [i](Gain the next level as a sorcery to add its ability.)[/i]
+Whenever a creature you don't control dies, create a Treasure token.
+{2}{B}{B}: Level 2
+When this Class becomes level 2, destroy target creature.
+{4}{B}{B}: Level 3
+When this Class becomes Level 3, destroy target creature.
+special_text: [i](Gain the next level as a sorcery to add its ability.)[/i]
+Whenever a creature you don't control dies, create a Treasure token.
+{2}{B}{B}: Level 2
+When this class becomes level 2, destroy target creature.
+{4}{B}{B}: Level 3
+When this class becomes Level 3, destroy target creature. => [i](Gain the next level as a sorcery to add its ability.)[/i]
+Whenever a creature you don't control dies, create a Treasure token.
+{2}{B}{B}: Level 2
+When this Class becomes level 2, destroy target creature.
+{4}{B}{B}: Level 3
+When this Class becomes Level 3, destroy target creature.
+
+Biomancer Class (1)
+rules_text: [i](Gain the next level as a sorcery to add its ability.)[/i]
+When this class enters, put a +1/+1 counter on target creature you control.
+{1}{G}: Level 2
+Whenever a creature enters under your control, put one of the following counters on it: Vigilance, Trample, +1/+1 or Hexproof.
+{3}{G}: Level 3
+Creatures you control get +X/+X, where X is the number of counters on them. => [i](Gain the next level as a sorcery to add its ability.)[/i]
+When this Class enters, put a +1/+1 counter on target creature you control.
+{1}{G}: Level 2
+Whenever a creature enters under your control, put one of the following counters on it: Vigilance, Trample, +1/+1 or Hexproof.
+{3}{G}: Level 3
+Creatures you control get +X/+X, where X is the number of counters on them.
+special_text: [i](Gain the next level as a sorcery to add its ability.)[/i]
+When this class enters, put a +1/+1 counter on target creature you control.
+{1}{G}: Level 2
+Whenever a creature enters under your control, put one of the following counters on it: Vigilance, Trample, +1/+1 or Hexproof.
+{3}{G}: Level 3
+Creatures you control get +X/+X, where X is the number of counters on them. => [i](Gain the next level as a sorcery to add its ability.)[/i]
+When this Class enters, put a +1/+1 counter on target creature you control.
+{1}{G}: Level 2
+Whenever a creature enters under your control, put one of the following counters on it: Vigilance, Trample, +1/+1 or Hexproof.
+{3}{G}: Level 3
+Creatures you control get +X/+X, where X is the number of counters on them.
+
+Merchant Class
+
+Golem Guard
+
+Stalker of Vast Reaches
+
+Spawning Spider
+
+Thing from the Swamp
+
+All for Nothing
+
+Gold-Cursed Goblin
+
+Chimney Dragon
+
+Dovin's Aether Whales
+
+Geralf, the Stitcher
+
+Sea Skipper
+
+Chromatic Seal
+
+Countdown
+
+Courageous Knight
+
+Demonstration Aide
+
+Dragon Messengers
+
+Endless Scrap Heap
+
+Epiphany (1)
+
+Goblin Storyteller
+
+La Hire
+
+Mana Erosion
+
+One with Nothingness
+
+Prophet of Thunder
+
+Remove All Traces
+
+Resonant Sentries
+
+Snake Catepillar
+
+Subtracti[ ]V[ ]e[ ]text[ ]
+
+Surprise Kiss
+
+Sweeping Denial
+
+UG Utility Spell
+
+Unprompted Advance
+
+Volatile Ooze
+
+Benevolent Blessing
+
+Double-Dip
+
+Demonic Gift
+
+Goblin Cavaclade
+
+Predatory Might
+
+Inkling Summons
+
+Undo Reality
+
+Ambush Trap
+
+Quell
+
+Electro-Static-Tricity
+
+Fall into Dreams
+
+Teferi's Trap
+
+Gym Class (1)
+
+Battlefield Scavenging
+
+Wrath of the Dragons
+
+Perfected Reality Excision
+
+Strands of Shadow
+
+Filigree Filibuster
+
+Sigardian Vanguard
+
+Rax, Sawtooth Boss
+
+Snagwood Shaman
+
+Grisilda, Mayor of Sweettooth
+
+Enslaved Estuary
+
+Death Augur
+
+Adventuring Sage
+
+Rootha, Tenured Tutor
+
+Skyrider Protector
+
+Shaman of the Flames
+
+Lando, the Perfectionist
+
+Ondy, Scavenging Trader
+
+Virtue of Creation
+
+Lightbound Sprite
+
+Locthwain Ascendancy
+
+Pharika, Blight-Blessed
+
+Alchemist Prodigy
+
+Alela's Festival
+
+Aparchet's Familiar
+
+The Creation of the Nyxborn
+
+A Strange Dream
+
+Curse Broker
+
+Starfield Alignment
+
+Towards Beyond
+
+Pestersage
+
+Waterdeep Archmage
+
+Nimbus Eidolon
+
+Night Market Smuggler
+
+Golgari Terror Mites
+
+Hankon's Paladin
+
+Carcosan Guard
+
+Barroom Brawler
+
+Beneath the Brain
+
+Mentor of Errantry
+
+Restless Spook
+
+Bitter Hermit
+
+Uncover the Truth
+
+Wang Chung
+
+Untitled Sonata
+
+Bugler Rat
+
+Skyfall
+
+The Magic Flute
+
+Discordant Monstro
+
+Dancing in September
+
+Battle of the Bands
+
+Sing
+
+Most Perfect Idol
+
+Ninomae Ina'nis
+
+Stone Rain
+
+Calliope Mori
+
+Amelia Watson
+
+Gawr Gura
+
+Takanashi Kiara
+
+Cthulu, the Great Dreamer
+
+Hastur, King in Yellow
+
+Nyarlathotep, Crawling Chaos
+
+Yog-Sothoth, Key and Gate
+
+Shub-Niggurath, All Mother
+
+Cthulu, Awoken
+
+Frenzy
+
+Prowling Amygdala
+
+The Hunt
+
+Yharnam
+
+Beast Blood Pellets
+
+Blood Moon
+
+Keshik
+
+Mangudai
+
+Tarkan
+
+Feigned Retreat
+
+The Great Conquereors from the East
+
+The Golden Horde
+
+Attila, the Scourge of God
+
+Tamerlane, Timurid Emperor
+
+Temujin, Mongol Unifier
+
+
+type: Creature — Human => Legendary Land
+cost: {1}{B} => 
+rules_text: When this creature enters, if you control an undead creature, draw a card. [i](Shades, Spirits, Skeletons, Vampires, Wraiths and Zombies are Undead.)[/i] => All cards that aren't on the battlefield, spells and nonland permanents lose all subtypes.
+pt: 2/2 => 
+
+Abjured Oilbearer
+
+Alan MacMasters
+
+Alexander, The Great
+
+Arrogant Falcon
+
+Awaken the Earth
+
+Baby With a Gun
+
+Barbarous Cannibal
+
+Bedsheet
+
+Blood Cultist
+
+Bruce Lee, Like Water
+
+Castle Black
+
+Cavalry Commander
+
+Church Grim
+
+City of Revenge
+
+Consuming Search
+
+Cull the Living
+
+Deadeye Rebuke
+
+Depths of the Mind
+
+Detective Pikachu
+
+Dhucnan, the Eternal Hermit
+
+Distortedmonger
+
+Disturb the Peace
+
+Doomed Heretic
+
+Dragon of Bladehold
+
+Dreaded Behemoth
+
+Elven Cottage
+
+Emrakul, the Hunted
+
+Endangered Species
+
+Ethereal Knight
+
+Extraplanar Invader
+
+Faerie Trickster
+
+Faithful Guardian
+
+Fangorn Forest
+
+Fenrir, Hound of Darkness
+
+Ferocious Behemoth
+
+Final Understanding
+
+Forest Guardian (1)
+
+Friendly Behemoth
+
+Geonosis
+
+Goblin Bomber
+
+Grand Theft Falco
+
+Growth Serum
+
+Harry Potter
+
+Heroic Sacrifice
+
+Highlander
+
+Hogwarts, School of Wizards
+
+Iceblast
+
+Jaqen H'Ghar
+
+Joan of Arc
+
+Joseph Stalin
+
+Just a Chicken
+
+Laryel, The Eternal Void
+
+Last Rage
+
+Lu Bu, the Great Warlord
+
+Lumbering Behemoth
+
+Lurking Behemoth (2)
+
+Maelstrom Shot
+
+Magna Guard
+
+Magus of
+
+ManBearPig
+
+Mar
+
+Mars, New Colony
+
+Mical, Bellona's Daughter
+
+Michael Malloy
+
+Miyamoto Musashi
+
+Murk Lurker
+
+Myr Perfecter
+
+Nevermore
+
+Nezuko Kamado
+
+Noxious Rebirther
+
+One Apple
+
+Overseer of Gluttony
+
+Overseer of the Experiments
+
+Overseer of the Forsaken Path
+
+Overseer of the Hunt
+
+Overseers of the Endless War
+
+Pandemonium, Capital of Demons
+
+Phalanx Foundry
+
+Pikachu's Addiction
+
+Priest of Bolas
+
+Procrastination
+
+Pull the Strings
+
+Pumpkin
+
+Purge the Impure
+
+Raging Raidleader
+
+Ramrod's Perplexity
+
+Recurring Wound
+
+Reva, Chosen by War
+
+Richard Iljevitsh Jyra
+
+Ricky, Truant in Chief
+
+ROG, the Hidden One
+
+Scrapyard Scavenger
+
+Senpai of the Pool
+
+Serra Acolyte
+
+Siege Preparations
+
+Sire of the Ebon Legion
+
+Smaug, The Golden
+
+Supper of the Spooks
+
+Sword of Void and Soul
+
+Symbiotic Zombie
+
+Thanos, He Who Balances
+
+The Golden Snitch
+
+The Rain Man
+
+Truffula Forest
+
+Unflinching Courage
+
+Vizzini, The Sicilian
+
+Wandering Druid
+
+William T. Sherman
+
+Winston, Prime Minister
+
+Wizards' Insight
+
+Gestation Chamber
+
+Pestilence Researcher
+
+Conclave in Unison
+
+Last Minute Studying
+
+Chaos Theory
+
+Carmot Scout
+
+The Charge into Abstract
+
+Sky Pirate's Will
+
+Demon Barber's Chair
+
+Maree, Spark of Resistance
+
+Quarantine Lab
+
+Fresh Discovery
+
+Trailblazers Gloves
+
+Journey Beyond
+
+Ikkar, Horizon Seeker
+
+Ennui
+
+Kessig Farmstead
+
+Split Concentration
+
+Surfaceward Guide
+
+Expansive Aegis
+
+Ascention to Godhood
+
+Deus Ex Machina
+
+Skye, Curiosity Incarnate
+
+Priest of the True Faith
+
+Sniff Out The Culprit
+
+Curious Disassembler
+
+Gingerbread Treehouse
+
+Eager Cartographer
+rules_text: Whenever a land enters under your control, create a Map token.
+Activated abilities of Maps you control cost {1} less to activate. => [i]Landfall[/i] — Whenever a land enters under your control, create a Map token.
+Activated abilities of Maps you control cost {1} less to activate.
+
+Oilpack Alpha
+
+Corrupted Construct
+
+Pieces of Eight
+
+Knight of the Fallen Scale
+
+Midas' Touch
+
+Gnom the Keystealers
+
+Overclock
+
+Crafty Cook
+
+Reconfiguration Agent
+
+Nursing Pod
+
+Zap, Foolhardy Tinker
+
+The Red-Hot Razor
+
+Distraction
+
+Captain's Chest
+
+Lodestone Armillary
+
+Jarsyl, Planar Voyager
+
+Expanded Horizons
+
+January 6th, 2021
+
+Orb of Order
+
+Lestin, Minotaur Necromancer
+
+The Qu's Arrival
+
+Belligerent Beetle
+
+Act of Bargain
+
+Greed, Everhoarding
+
+Poing, Bareknuckle Brawler
+
+Trading Plaza
+
+Potion Seller
+
+Buyout
+
+Strength Potion
+
+Despair
+
+Pit Knight
+
+Bolts From The Blue
+
+City Districts
+
+Hunters of Sky Rock
+
+Opening Volley
+
+Flickering Mansion
+
+Acceptance
+
+Schadenfreude
+
+Den of Thieves
+
+The Backrooms
+
+Ohio
+
+Groundbreaker Baloth
+
+Den of Lions
+
+Wanli Changcheng
+
+Pillars of Passion
+
+Serment du Jeu de Paume
+
+Dormant Monoliths
+
+Coil Site
+
+Archdruid's Hollow
+
+Vesuvan Marsh
+
+Wandering Worldspires
+rules_text: {T}: Add {W}.
+[i]Channel[/i] — {1}{W}{W}, Discard this card: Put a land from your graveyard onto the battlefield. Put two +1/+1 counters on it and it becomes a 0/0 white Elemental creature it addition to its other types. It gains haste until end of turn. Activate only as a sorcery. => {T}: Add {W}.
+[i]Channel[/i] — {1}{W}{W}, Discard this card: Put a land card from your graveyard onto the battlefield. Put two +1/+1 counters on it and it becomes a 0/0 white Elemental creature it addition to its other types. It gains haste until end of turn. Activate only as a sorcery.
+
+Tomb of Remembrance
+
+Shrine to Perfection
+
+Forgiveness
+
+Emotional Damage
+
+Faith
+
+Betrayal of Julius Casesar
+
+Surprise!!!!!
+
+Forced Capitulation
+
+Patience
+
+Futility
+
+Embarrass
+
+Frustration
+
+Misery
+
+Boglord Hydra
+
+Bringer of the Darkest Hour
+
+Consumption (1)
+
+Suspicious Hideout
+
+Act of Grace
+
+Down to the Bone
+
+Feed for the Horde
+
+Cardboard Shedder
+
+Unstable Plasma
+
+Thalassophobia
+
+Battle-Frenzied Champion
+
+Hunted Whelp
+
+Unholy Expression
+
+Phantom Legion
+
+Survivor of Rhonas
+
+Gaulish Mercenaries
+
+Party Beckoner
+
+HMS Victory
+
+Study Breaker
+
+Resolute Sharpshoot
+
+Offmage
+
+Spawn of Sorrow
+
+Abyssal Seizure
+
+Veteran Responder
+
+Temporal Stutter
+
+Arena Underdogs
+
+Void Orb
+
+Containment Decree
+
+Deep Remembrance
+
+Chosen Champion
+
+The Great Frost
+
+Thrill Ride
+
+Gruesome Defeat
+
+Null Sphere (1)
+
+Frostscape
+
+Eternal Legacy
+
+Sylvan Shaper
+
+Deceitful Never-Smith
+
+Death-Near Synthesizer
+
+Jace, Army of One
+
+Grandiloquent's Tutelage
+
+Remnant Retainer
+
+Newton, the Scientist
+
+Riding Instructor
+
+Mystic Cryomancer
+
+Sheikh Mansur
+
+Professor of Deceit
+
+Blood Broker
+
+The Foul Symbol
+
+Dub, Noxious Swarmlord
+
+Spider Volcano
+
+Admirationis, Lost Ship
+
+Hermitic Oracle
+
+Ashspitter
+
+Sun on the Fields
+
+Narwop, the Last Home
+
+Beast of the Ruins
+
+Greasefang's Scrambler
+
+Divining Concoction
+
+Invoker of Ororos
+
+Acolyte of Ororos
+
+Ororos Initiate
+
+Ororos, Alpha and Omega
+
+Vincent, Lord of Hosts
+
+Storm of Swords
+
+Stirrer of Hearts
+
+Gallant Chevalier
+
+Kraxious, Beckoner of Storm
+
+Jacque, Grizzeled Captain
+
+Call the Monster
+
+Cavern Fisherman
+
+The First Manifestation
+
+Lingering Might
+
+Salt Circle
+
+Aggressive Gremlins
+
+Fervent Necromancer
+
+The Many-Mother
+
+Resplendent Marshall
+
+Sightless Stalker
+
+Tin Soldier
+
+Scavenging Hyena
+
+Goblin Pestcatcher
+
+Reading the Omens
+
+Katja's Familiar
+
+Moonweep
+
+Katja, Witch of Portent
+
+Unknowable Shadow
+
+The Wild's Hunger
+
+Nostalgic Reminiscence
+
+Devour Existence
+
+Fatalistic Tutor
+
+Return by Death
+
+Eternal Bond
+
+Persephone Visits the Underworld
+
+Recycling Mage
+
+Silent Thief
+
+Fires of Tartarus
+
+Naughty Ones Escape
+
+Buisness Diver
+
+Frog Pond
+
+Version 5.0
+
+Sleepy Guard Dogs
+
+Leyline Of Prizes
+
+Lost In Space
+
+Chesse, The Wasp
+
+The Wasp Approaches
+
+Wasp Blood
+
+Wingless Wasp
+
+A Mothers Wrath
+
+BanBans Lesson
+
+Beemsoox, Bite of the Land
+
+Cave of Hubris
+
+Paint Can
+
+Panglacial Sleep
+
+Pest Rain
+
+Rainbow Macroons
+
+Sorcerer's Umbrella
+
+Space Derby
+
+The Miniature War
+
+Visit a Haunted Mansion
+
+Baldis Ruler
+
+Homework Golem
+
+Big Crystalled Possum
+
+Sink or Swim
+
+Grab at the Legs
+
+Mysterious Wall
+
+Jellicle Moon
+
+Cursed Shipwreck
+
+From the Depths
+
+Petal Ambush
+
+Neonate's Revenge
+
+Accomplished Hunter
+
+Rhram, Titan of Tremors
+
+Dauthi Nightmare
+
+Garruk and Kaya, God Hunters
+
+Ocean's Maw
+
+Viscious Seagull
+
+Eldrazi Conscriptor
+
+Rabbit of Caerbannog
+
+Kute Kraken
+
+Magnificent Crow
+rules_text: Flying
+Each instant and sorcery card in your graveyard has “Flashback—Exile a Bird card from your graveyard.” as long as your control three or more artifacts. => Flying
+Each instant and sorcery card in your graveyard has “Flashback—Exile a Bird card from your graveyard.” as long as you control three or more artifacts.
+pt: 4/4 => 6/3
+
+The Dread Guardian
+
+Yargle Dead!
+
+Boneyard Ravager
+
+Very Unassuming Squirrel
+
+Assassin Class (2)
+
+Biomancer Class (2)
+rules_text: [i](Gain the next level as a sorcery to add its ability.)[/i]
+Each creature you control enters with an additional +1/+1 counter on it.
+{G}{U}: Level 2
+If one or more +1/+1 counters would be put on a creature you control, you may put them on another target creature you control instead.
+{1}{G}{G}{U}{U}: Level 3
+At the beginning of combat on your turn, proliferate, then proliferate again. => [i](Gain the next level as a sorcery to add its ability.)[/i]
+Each creature you control enters with an additional +1/+1 counter on it.
+{G}{U}: Level 2
+If one or more +1/+1 counters would be put on a creature you control, you may put them on another target creature you control instead.
+{1}{G}{G}{U}{U} Level 3
+At the beginning of combat on your turn, proliferate, then proliferate again.
+special_text: [i](Gain the next level as a sorcery to add its ability.)[/i]
+Each creature you control enters with an additional +1/+1 counter on it.
+{G}{U}: Level 2
+If one or more +1/+1 counters would be put on a creature you control, you may put them on another target creature you control instead.
+{1}{G}{G}{U}{U}: Level 3
+At the beginning of combat on your turn, proliferate, then proliferate again. => [i](Gain the next level as a sorcery to add its ability.)[/i]
+Each creature you control enters with an additional +1/+1 counter on it.
+{G}{U}: Level 2
+If one or more +1/+1 counters would be put on a creature you control, you may put them on another target creature you control instead.
+{1}{G}{G}{U}{U} Level 3
+At the beginning of combat on your turn, proliferate, then proliferate again.
+
+Botanist Class
+
+Investigator Class
+rules_text: [i](Gain the next level as a sorcery to add its ability.)[/i]
+When this class enters, investigate.
+{1}{U}: Level 2
+Whenever one or more creatures you control deal combat damage to a player, investigate.
+{3}{U}: Level 3
+Sacrifice a Clue: Create a 1/1 colorless Thopter artifact creature token with flying. => [i](Gain the next level as a sorcery to add its ability.)[/i]
+When this Class enters, investigate.
+{1}{U}: Level 2
+Whenever one or more creatures you control deal combat damage to a player, investigate.
+{3}{U}: Level 3
+Sacrifice a Clue: Create a 1/1 colorless Thopter artifact creature token with flying.
+special_text: [i](Gain the next level as a sorcery to add its ability.)[/i]
+When this class enters, investigate.
+{1}{U}: Level 2
+Whenever one or more creatures you control deal combat damage to a player, investigate.
+{3}{U}: Level 3
+Sacrifice a Clue: Create a 1/1 colorless Thopter artifact creature token with flying. => [i](Gain the next level as a sorcery to add its ability.)[/i]
+When this Class enters, investigate.
+{1}{U}: Level 2
+Whenever one or more creatures you control deal combat damage to a player, investigate.
+{3}{U}: Level 3
+Sacrifice a Clue: Create a 1/1 colorless Thopter artifact creature token with flying.
+
+Mercenary Class
+
+Rigger Class
+rules_text: [i](Gain the next level as a sorcery to add its ability.)[/i]
+When this class enters, assemble a Contraption [i](To assemble a Contraption, put the top card of your Contraption deck face up onto one of your sprockets.)[/i]
+{1}{R}: Level 2
+When this class becomes level {2}, move the CRANK! counter to your Contraption deck's next sprocket and crank any number of that sprocket's Contraptions.
+{3}{R}: Level 3
+Whenever you crank a Contraption, crank it an additional time. => [i](Gain the next level as a sorcery to add its ability.)[/i]
+When this Class enters, assemble a Contraption [i](To assemble a Contraption, put the top card of your Contraption deck face up onto one of your sprockets.)[/i]
+{1}{R}: Level 2
+When this Class becomes level 2, move the CRANK! counter to your Contraption deck's next sprocket and crank any number of that sprocket's Contraptions.
+{3}{R}: Level 3
+Whenever you crank a Contraption, crank it an additional time.
+special_text: [i](Gain the next level as a sorcery to add its ability.)[/i]
+When this class enters, assemble a Contraption [i](To assemble a Contraption, put the top card of your Contraption deck face up onto one of your sprockets.)[/i]
+{1}{R}: Level 2
+When this class becomes level {2}, move the CRANK! counter to your Contraption deck's next sprocket and crank any number of that sprocket's Contraptions.
+{3}{R}: Level 3
+Whenever you crank a Contraption, crank it an additional time. => [i](Gain the next level as a sorcery to add its ability.)[/i]
+When this Class enters, assemble a Contraption [i](To assemble a Contraption, put the top card of your Contraption deck face up onto one of your sprockets.)[/i]
+{1}{R}: Level 2
+When this Class becomes level 2, move the CRANK! counter to your Contraption deck's next sprocket and crank any number of that sprocket's Contraptions.
+{3}{R}: Level 3
+Whenever you crank a Contraption, crank it an additional time.
+
+Spy Class
+
+Stitcher Class
+
+Villain Class
+
+Archaeologist Class
+
+Biomancer Class (3)
+
+Lawmage Class
+
+Pirate Class
+
+Regent Class
+
+Terminator Class
+rules_text: [i](Gain the next level as a sorcery to add its ability.)[/i]
+When this Class enters, target creature you control gains “{2}{R}, {T}: Create Lightning Orb, a legendary artifact token with ‘At the beginning of your end step, deal 1 damage to each opponent. When this artifact is put into a graveyard, it deals 2 damage to each opponent.'”
+{2}{U}{R}: Level 2
+When this class becomes level 2, target creature you control gains “{3}{U}, {T}: Create Frost Orb, a legendary artifact token with ‘At the beginning of your end step, target creature doesn't untap during its controller's next untap step. When this artifact is put into your graveyard, each creature your opponent controls doesn't untap during its controller's next untap step.'”
+{3}{U}{R}: Level 3
+{1}{U}{R}: Target creature you control gains “{2}{R}, {T}: Create Lightning Orb.”
+{2}{U}{R}: Target creature you control gains “{3}{U}, {T}: Create Frost Orb.”
+Activated abilities of permanents you control cost {1} less to activate. => [i](Gain the next level as a sorcery to add its ability.)[/i]
+When this Class enters, target creature you control gains “{2}{R}, {T}: Create Lightning Orb, a legendary artifact token with ‘At the beginning of your end step, deal 1 damage to each opponent. When this artifact is put into a graveyard, it deals 2 damage to each opponent.'”
+{2}{U}{R}: Level 2
+When this Class becomes level 2, target creature you control gains “{3}{U}, {T}: Create Frost Orb, a legendary artifact token with ‘At the beginning of your end step, target creature doesn't untap during its controller's next untap step. When this artifact is put into your graveyard, each creature your opponent controls doesn't untap during its controller's next untap step.'”
+{3}{U}{R}: Level 3
+{1}{U}{R}: Target creature you control gains “{2}{R}, {T}: Create Lightning Orb.”
+{2}{U}{R}: Target creature you control gains “{3}{U}, {T}: Create Frost Orb.”
+Activated abilities of permanents you control cost {1} less to activate.
+special_text: [i](Gain the next level as a sorcery to add its ability.)[/i]
+When this Class enters, target creature you control gains “{2}{R}, {T}: Create Lightning Orb, a legendary artifact token with ‘At the beginning of your end step, deal 1 damage to each opponent. When this artifact is put into a graveyard, it deals 2 damage to each opponent.'”
+{2}{U}{R}: Level 2
+When this class becomes level 2, target creature you control gains “{3}{U}, {T}: Create Frost Orb, a legendary artifact token with ‘At the beginning of your end step, target creature doesn't untap during its controller's next untap step. When this artifact is put into your graveyard, each creature your opponent controls doesn't untap during its controller's next untap step.'”
+{3}{U}{R}: Level 3
+{1}{U}{R}: Target creature you control gains “{2}{R}, {T}: Create Lightning Orb.”
+{2}{U}{R}: Target creature you control gains “{3}{U}, {T}: Create Frost Orb.”
+Activated abilities of permanents you control cost {1} less to activate. => [i](Gain the next level as a sorcery to add its ability.)[/i]
+When this Class enters, target creature you control gains “{2}{R}, {T}: Create Lightning Orb, a legendary artifact token with ‘At the beginning of your end step, deal 1 damage to each opponent. When this artifact is put into a graveyard, it deals 2 damage to each opponent.'”
+{2}{U}{R}: Level 2
+When this Class becomes level 2, target creature you control gains “{3}{U}, {T}: Create Frost Orb, a legendary artifact token with ‘At the beginning of your end step, target creature doesn't untap during its controller's next untap step. When this artifact is put into your graveyard, each creature your opponent controls doesn't untap during its controller's next untap step.'”
+{3}{U}{R}: Level 3
+{1}{U}{R}: Target creature you control gains “{2}{R}, {T}: Create Lightning Orb.”
+{2}{U}{R}: Target creature you control gains “{3}{U}, {T}: Create Frost Orb.”
+Activated abilities of permanents you control cost {1} less to activate.
+
+Processor Class
+
+Scout Class
+
+Kizix, The Archfiend
+
+Cultist Class
+
+The Underworld (5)
+
+Pact Maker
+
+Bad Omen
+
+Wailing Mire Shaman
+
+Omnipresent Ooze
+
+Ponderdrifter
+
+Pursued Spider
+
+Rakish Revelers
+
+Rheo, the Sovereign
+
+Tetanus Pegasus
+
+The Cavalry
+
+The Discourteous Trinity
+
+Arcbound Squadron
+
+Tug of War
+
+Vicious Cobra
+
+Withered Warlord
+
+Cain, Uniter of Bloodlines
+
+Forsaken Student
+
+Hungry Technovore
+
+Klaus, The Toymaker
+
+Malco, Feasting Combatant
+
+Nadya, Soul Sommelier
+
+There's An Imposter Among Us
+
+Tibalt, Dissolute Hellion
+
+Unnerving Stranger
+
+Pumpkin Farmer
+
+Yharnam Skyline
+
+Devouring Ghoul
+
+Traveling off the Beaten Path
+
+Mob Rule
+
+Seven, Village Terrorizer
+
+Samhain
+
+Ritualist's Dagger
+
+Gnarled Trick-Tree
+
+Anti-Auntie
+
+The Masque of Red Death
+
+Husk Zombie
+
+Defender of Gavony
+
+Read the Flames
+
+Shay's Dragster
+
+Flash of Inspiration
+
+Natain Toll
+
+Cheese Wheel
+
+Natain Milk Mage
+
+Walking of the Dog
+
+Guerrilla Force
+
+Tour Survivor
+
+Bicheal, The Strong
+
+Micheal, The Scary
+
+George, Frog Prince
+
+Cala, the Calamitous
+
+Baldi, Punished Professor
+
+Spell Steal (1)
+
+Fancy Duck
+
+Scrappy Pup
+
+Worlds Biggest Fork
+
+Punishment Stone
+
+White Crystal Dragon
+
+Black Crystal Dragon
+
+Cybernetic Angel
+
+Cybernetic Roc
+
+Cybernetic Demon
+
+Cybernetic Dragon
+
+Cybernetic Hydra
+
+Long-Branch Ligma
+
+Skybranch Demon
+
+Hag Herder
+
+Ligma Lotus
+
+Rusted Automaton
+
+Growing Automaton
+
+Champion Automaton
+
+Fisho, Loan Shark
+
+Kevin Bzzytn, Private Eye
+
+Fish In A Barrel
+
+Once in a Blue Moon
+
+Underground Fighter
+
+Vedmir, Dean of Void
+
+Sand Whales
+
+Heresy
+
+Ruler of the New World
+
+Planet-Core Guardian
+
+Ancestral Reconnection
+
+Tranquil Castle
+
+Hunter of the Weak
+
+Bellowing Warcry
+
+Deepfog Well
+
+Frozen Suns
+
+Gracefall
+
+Sandwhale Convergence
+
+Seafloor Discharge
+
+Sun Veil
+
+Valley of Kings
+
+Descent into Damnation
+
+Astral Voyager
+
+Esika's Sapling
+
+Descent into Despair
+
+Dragonfall
+
+Pyre of the Lost
+
+Lightninghouse
+
+The Hero's Awakening
+
+Cleric of Shadows Unmade
+
+Servant of Justice
+
+Shadowblade Titan
+
+Kolomos, God of the Forsaken
+
+Dust Walker
+
+Ancalagon, Slumbering Volcano
+
+Hellkite of Eternal Torment
+
+Dragon Terrorizer
+
+Highland Prairie
+
+Cittagazze, Fortress of Healing
+
+Prosperous Floodlands
+
+Viking Warship
+
+Ark of the Departed
+
+Tales' Trials
+
+Deep Roots
+
+Emergence of the Extinct
+
+Wind of Disease
+
+Shenzoku, the Sky Lantern
+
+Amabie, Voltaic Tarragon
+
+Deterioration of Sanity
+
+Dispirit
+
+Tremorstep Colossus
+
+Spiderbreath Colossus
+
+Livingboon Colossus
+
+Sightcoming Colossus
+
+Tendrilrust Colossus
+
+Tormenting Overseer
+
+Infernal Judgement
+
+Confront your Fears
+
+Peya, the Defiant
+
+Quest for Enlightenment
+
+Epiphany (2)
+
+Channeling Powerstone
+
+Monument to Atraxa
+
+Urza's Puzzlebox
+
+Celestial Archer
+
+Stand for the Cause
+
+Crackling Phoenix
+
+The Brave
+
+Toast, Breacher of Memes
+
+She Who Lacks a Sense of Time
+
+Matryoshka Thopter
+
+Conqueror Kavu
+
+Numot's Ruins
+
+Oro's Stronghold
+
+Intet's Bibliotheca
+
+Teneb's Château
+
+Vorosh's Keep
+
+Dral, Hideout Inspector
+
+A Horse with No Name
+
+Veindweller Hellkite
+
+Mishra of the Weakstone
+
+Urza of the Mightstone
+
+Brin, Lonely Champion
+
+Arian, Faithful Steed
+
+Lanaria, The Protector
+
+Clarie, Garden Tender
+
+Samuel, Guard Dissenter
+
+Stonehoard Mystic
+
+Hammerhead
+
+Grizzled Veteran
+
+Youthful Recruit
+
+Chandra's Herald
+
+Chandra, Called to Conflict
+
+Percy, Master Blade Slinger
+
+Petra, Masterful Duelist
+
+Arcanogoyf
+
+Woodland Hexmage
+
+Talha, the Waking Woods
+
+Lavastep Ambusher
+
+Knucklebone Shaman
+
+Thriving Dendrophyte
+
+Burning Pyrophyte
+
+Fiendish Subduer
+
+Ambush Stalker
+
+Keeper of Tales
+
+Planar Safeguard
+
+Recruitment Specialist
+
+Formal Introductions
+
+Joker Persona 5
+
+The Mustering of Argive
+
+Temporal Plague
+
+The Compleation War
+
+Putting My Estate In Order
+
+Champion of the People
+
+Fortifications Expert
+
+Night of the Living Lore
+
+False Dawn
+
+Anointed Capybara
+
+Beggar's Mox
+
+Avatar of the Promised End
+
+Nilry's Codex
+
+Izzet Insight
+
+Confession Letter
+
+Maya Fey
+
+Objection!
+
+School Janitor
+
+Crush Virus
+
+Rebuilding Naktamun
+
+Incoming Tide
+
+Icepost
+
+Pull the Lever
+
+Leitmotif
+
+Phoenix Wright
+
+The Death of Firestar
+
+Bill Becomes A Farmer
+
+Bonfire of Dreams
+
+Covenant of Darkness
+
+Deeper Magic
+
+Hope Rides Alone
+
+Laputa
+
+Slow and Steady
+
+Struggle of Sisyphus
+
+The 1618 Defenestration of Prague
+
+Would You Rather
+
+Hirudinea, the Soulsucker
+
+Arcorion the Rapacious
+
+The Lord of Hell
+
+Ozymandis, King of Kings
+
+Otterable Sidekick
+
+Vercingetorix, King of the Gauls
+
+Warband Quartermaster
+
+Scattershell Krab
+
+Nimble-Pawed Professor
+
+Colos Elder
+
+True Monarchon
+
+Steelhunter Masticore
+
+The Vegas Slots
+
+Standard of the People
+
+Bigpox
+
+Pope Benedict IX
+
+Knight of Eos
+
+The House Always Wins
+
+Null Sphere (2)
+
+Summon the Beast
+
+Ouroboros Interlink
+
+Summoning Circle
+
+Algenus' Oathsworn
+
+Quadratic Catchup
+
+March of the Processed
+
+Seek Home
+
+For the Greater Good
+
+Flower Wars
+
+Hope for Renewal
+
+Flee from Fear
+
+The Monkey's Paw (1)
+
+Eternity's Exchange
+
+Pride
+
+Hexyard Snap
+
+Molten Strike
+
+Hammurabi's Code
+
+Heated Heart
+
+Disarming Glare
+
+Goblin Shaman
+
+Memories of The Forgotten
+
+Rakdos Ascendancy
+
+Rotblossom
+
+Necroflux Jalopy
+
+The Forbidden Library
+
+Deja Vu
+
+Timbuktu Manuscripts
+
+Mind Fracture
+
+Shadow of Apophis
+
+Mari, Planewide Mediator
+
+Ashtar Channeler
+
+D. Death, Noxious Scourge
+
+The Rats in the Walls
+
+Thalia, Queen of Thraben
+
+Kithkin Blademaster
+
+The Great Cook of Ardenvale
+
+Shadow of the Forsaken Forest
+
+Kozilek's Bishop
+
+Gorgoroth Hill-Troll
+
+Electromancer's Conduit
+
+Safe
+
+Supine Sliver
+
+Meletis Visionary
+
+Genghis Khan, Planar Conqueor
+
+Siege of Arashin
+
+Mongol Dragonslayer
+
+Mongolian Siege Tactics
+
+Arsteel, Panda Commander
+
+Return from Extinction
+
+Threatening Stance
+
+Unyielding Panda
+
+Corvus, Pesits Rex
+
+Pestis Dux
+
+Pestis Via
+
+In Pestis Veritas
+
+Shadum, Loyal Mage
+
+Shadum's Counter
+
+Shadum's Rat
+
+Shadum's Bindings
+
+Bhelgra, Retired Doctor
+
+Bhelgra's Hospitality
+
+Tavern Waitstaff
+
+Bhelgra's Blessing
+
+Ornithopter Mk2
+
+Wild Things
+
+Angelic Shift
+
+Comforting Evil
+
+Embraced Chaos
+
+Riden Waves
+
+Arthur, Camelot's King
+
+Atonement
+
+Bellona, the Valor
+
+Brokers' Messenger
+
+Epsilon, Tournament Lord
+
+Flight Instructor
+
+Flux or Fizzle
+
+Guinevere, Camelot's Queen
+
+Invoker of Nine Lives
+
+Kondira, Sekipra's Protector
+
+Lancelot, Camelot's Knight
+
+Managuzzler
+
+Merlin, Camelot's Mentor
+
+Mordred, Camelot's Traitor
+
+Peek Phyrexian
+
+Quiet Caretaker
+
+Reality Seep
+
+Shining Shaman
+
+Substitute
+
+The Cake is a Lie
+
+The Eternal Knowledge
+
+The Huntress
+
+The Last Sliver
+
+The Unterminated
+
+Aequinox, the Radiant
+
+Tyrant's Descent
+
+The Night's Fury
+
+Livith, Collector of Trinkets
+
+Ethereal Dragon
+
+Smaugasbord
+
+Slaughter-Engine Dragon
+
+Totem of the Scarlet Horde
+
+Zakrounus, Angry God
+
+Draconic Visitation
+
+Ereftu, the Seething Gale
+
+First of the Brood
+
+Frost Drake
+
+Ilamor, Draconic Scholar
+
+Mist Regent
+
+Zarith, The Reanimated
+
+Retreat to Rokuba
+
+Selfless Friend
+
+Atlas Plateau
+
+Urza, Winner of Wars
+
+Unrelenting Legionnaire
+
+Luci, Novice Deadmage
+
+Mad Scientist
+
+Goblin Maze
+
+Gruesome Massacre
+
+Seed of the Guardian
+
+Carialt, Mad Mage of Avrace
+
+Song of the River
+
+Disgraced Scientist
+
+Taming the Wild
+
+Mysterious Tome
+
+Child's Specter
+
+Pillager of Cities
+
+Magmatic Eruption
+
+Serra's Realm
+
+Return to the Cosmos
+
+Treaty of Winter
+
+Arcane Retaliator
+
+Fury of the Storm
+
+Orakuro, King of the Pit
+
+Scour the Tomes (1)
+
+Out of Mind
+
+Arcana Burner
+
+All Hail Plankton
+
+Dreamtail Heron
+
+Crumbling Canon Cart
+
+Prezak, Assault Leader
+
+The Tranquility Bridge
+
+Font of Mastery
+
+Lava Splatter
+
+Scalding Orthus
+
+Living Earthquake
+
+Boiled Sea
+
+Hellion's Rage
+
+Merrow Backbreaker
+
+Spirit of the Volcano
+
+Iced Refraction
+
+Inflexible Thunder
+
+Sexy Sauna
+
+The End
+
+Crypt Keeper
+
+Forest Guardian (2)
+
+Knight's Prayer
+
+Bryn, Elven Bandit
+
+Cosmic Forge
+
+Teacher of Soldiers
+
+Hecysi, The Heinous
+
+Phyrexian Regenerator
+
+Fire of Eternal Rage
+
+Master of Many Ways
+
+Finding Opportunities
+
+Aggressive Reminder
+
+Convuluted Enchanter
+
+Spring of Abundance
+
+Warrior of the Lands
+
+Unwilling Dead
+
+Grizzled Gravekeeper
+
+Nanovus Swarm
+
+Arcbound Destroyer
+
+Scuttling City
+
+Aclazotz, Ixalan's Shadow
+
+Gwyneth, Protector of Nature
+
+Eidolon of False Ideals
+
+Half-Elf
+
+Terrorgheist
+
+Ferocious Companion
+
+Deep-Frond Cleric
+
+Fearful King
+
+Strait-Strangler Leviathan
+
+Ulfric, the Half-Caste
+
+The Spanish Inquisition
+
+Bob, Beeble Castaway
+
+Deana, Queen of the Depths
+
+Overgrown Golem
+
+Officer Shark
+
+King Kong Unleashed
+
+Mirror Spell
+
+Thallid Politician
+
+Izrat, Allied Sliver
+
+Affluent Vampire
+
+Ihsan's Darkriders
+
+Breakthrough Artist
+
+Blood Money
+
+Fyebjorn, First to War
+
+Collective Resurgence
+
+Hatchery Defector
+
+Scour the Wreckage
+
+Valiant Captain
+
+Champion of the Realm
+
+Vanguard
+
+Unexpected Apocalypse
+
+Blood Mox
+
+Tatuzuki, the Promised
+
+Priest of the Blood Throne
+
+Tenth District Recruiter
+
+TOOL
+
+Death-Bound Paladin
+
+Tax Manager
+
+Ancestral Protection
+
+Zadi, Infernal Clairvoyant
+
+Uendo the Fleet-Footed
+
+Confuse
+
+Bondiclot, The Capital City
+
+Deteriorate
+
+Swept into the Muck
+
+Traveller's Almanac
+
+The Wither
+
+Sexy Dwarf
+
+Unending Shambler
+
+Narset, Wildbonder
+
+Alesha, Free From Prospects
+
+Sigarda, Cleansing Mother
+
+Powerplant
+
+Guardian of the Frozen Kings
+
+Skyguardian's Memorial
+
+Casting Pod
+
+Conflux Potion
+
+Destroyer of Planes
+
+Anti-Weeb Penguin
+
+Foundry of the Fallen
+
+Rishadan Harbor
+
+Staff of Athreos
+
+Sword of Fables
+
+The Book of Coming Forth by Day
+
+Bad Things
+
+Ancestral Memories
+
+Ancient Custom
+
+Asphegon, City of the Spire
+
+Final Ultimatum
+
+Hammerheim (1)
+
+Mystic Command
+
+Oko Did Nothing Wrong
+
+Path to Exiles
+
+Profane Torment
+
+Rath
+
+Spectral Summons
+
+Sunken City of Tolaria
+
+Thopter Ultimatum
+
+Hammerheim (2)
+
+Ancient Citadel of the Onakke
+
+Ancient's Approach
+
+Chromatorium
+
+Crystallized World
+
+Depraved Aristocrat
+
+Elf of the Gladden Fields
+
+Freyalise's World Spell
+
+Gilded Dragon
+
+Mana Recycler
+
+Mana Spire
+
+Prismaticpter
+
+Shifting Sands
+
+Shifting Seas
+
+Shifting Sludge
+
+Shifting Leaves
+
+Shifting Flames
+
+Advocator of Purity
+
+Blossoming Forthcoming
+
+Box of Chocolates
+
+Chadwick Strongpants
+
+Cymede, Mother of Akros
+
+Dance in Solitude
+
+Deep Bond
+
+Selfless Beggar
+
+Family Ties
+
+Guahopter
+
+Harmacist
+
+Kaysa, Soul Warden
+
+Love
+
+Lumberjack Fantasies
+
+Magician of Absence
+
+Magus of the Void
+
+Ornilover
+
+Patient Mage
+
+Peacebearer of Valhalla
+
+Spine Ripper
+
+Star Crossed End
+
+Thalia, Pillager of Thraben
+
+Ultimate Faith
+
+Guardian of the Pit
+
+Ursine Shaper
+
+Government Irrigation
+
+Ana, Necromancer Supreme
+
+Azor, Hieromancer Supreme
+
+Calix, Lord of Enchantments
+
+Karn of the Artifacts
+
+Taysir, Devoted to Kristina
+
+Sandruu, Millenium Lost
+
+Nahiri, Zendikar's Vengeance
+
+Narset, Enlightened Seer
+
+Sorin, Innistrad's Tears
+
+Serra, Divine Presence
+
+Feroz, Wizard Savant
+
+Garruk, Unleashed
+
+Jace, Unleashed
+
+Pestilent Parasites
+
+Unimaginable Dance
+
+Thoryen, Heir of Tormand
+
+Nimble Spellsword
+
+Metal Loxodon
+
+Amalgamated Waterfall
+
+Face the Unmade
+
+Priest of Thunder
+
+Mar, Inquisitive Scholar
+
+Sexy Barbarians
+
+Taladin, Master of the Unseen
+
+Feth Fiada, Guided by Mist
+rules_text: Whenever a land enters under your control, investigate.
+[+2]: You may sacrifice an artifact. If you do, create a 1/1 white Human Soldier creature token.
+[-3]: You may play an additional land this turn. If you do, exile Féth Fíada. Return it to the battlefield under its owner's control at the beginning of your next upkeep. => [i]Landfall[/i] — Whenever a land enters under your control, investigate.
+[+2]: You may sacrifice an artifact. If you do, create a 1/1 white Human Soldier creature token.
+[-3]: You may play an additional land this turn. If you do, exile Féth Fíada. Return it to the battlefield under its owner's control at the beginning of your next upkeep.
+special_text: Whenever a land enters under your control, investigate.
+[+2]: You may sacrifice an artifact. If you do, create a 1/1 white Human Soldier creature token.
+[-3]: You may play an additional land this turn. If you do, exile Féth Fíada. Return it to the battlefield under its owner's control at the beginning of your next upkeep. => [i]Landfall[/i] — Whenever a land enters under your control, investigate.
+[+2]: You may sacrifice an artifact. If you do, create a 1/1 white Human Soldier creature token.
+[-3]: You may play an additional land this turn. If you do, exile Féth Fíada. Return it to the battlefield under its owner's control at the beginning of your next upkeep.
+
+Curious Bauble
+
+Firefly Marsh
+
+Cunning Ranger
+
+Vanquish Evil
+
+Ponder the Unknowable
+
+Storm Conjurer
+
+Vengeful Crusader
+
+Grim Hunters
+
+Glow Blade Captain
+
+Search the Soul
+
+Against all Odds
+
+Blazing Skies
+
+Firelit Pier
+
+Phyrexian Abyss
+
+Shared Vengeance
+
+The Ancient One
+
+The Great Beyond
+
+Blatant Plagiarist
+
+Schoolyard Bully
+
+Waffle, Alpine Cub
+
+Head of the Bask
+
+Eternal Seraph
+
+Zweihander
+
+Tanir, Kingless
+
+Me First
+
+Call Your Mom
+
+Magus of Ordered Paths
+
+Tortured Secrets
+
+Apocalypse Wolverine
+
+Mimic Tear
+
+Release the Hounds
+
+Awakening of the Masses
+
+Mont'ka
+
+Placeholder
+
+Compleat Denial
+
+Aether Foundry
+
+Galazeth's Scale
+
+Hypercast
+
+Illusion of Symmetry
+
+Moonlight Blast
+
+Open the Gates
+
+Pained Contemplation
+
+Ragni Spellforge
+
+Rot Caster
+
+Refreshing of the Worlds
+
+Lightning Bottler
+
+Swirling Master
+
+Temple of Ever-Learning
+
+Wellspring of Knowledge
+
+Wills Force
+
+Salvage from the Depths
+
+Muraganda Trickster
+
+Be Mine
+
+Nicol Bolas, the Tyrant
+
+Ugin, Eternal Jailer
+
+Golden Slime
+
+Drake, Sexy Vampire
+
+Illuminator Of the World
+
+Bound Petroglyphs
+
+Petroglyph Theory
+
+Brissly Gears
+
+Petroglyph Guard
+
+Fields of Simplicity
+
+Silencing Grounds
+
+Faces in the Crowd
+
+Muraganda Locket
+
+Teera, Dawn of Mysteries
+
+Interception Systems
+
+Trial by Fire
+
+Humilitybringer
+
+Prometheus's Gift
+
+Joker's Gun
+
+Switch In
+
+Hyper Beam
+
+Augmentation of Curaga
+
+Hocus Pocus
+
+Mega Fire
+
+Shattered Psyche
+
+Volt Tackle
+
+Megidolaon
+
+Fly
+
+Nosferatu
+
+Dynamax
+
+Splash
+
+Necrocolonizing Thallid
+
+Trile, Who Walks on Mist
+
+Spirit of the Lost
+
+The Great Serpent of Ashina
+
+Akeen, Priest of Cosi
+
+Orcic Scholar
+
+Aetherborn Recluse
+
+Vengeful Haunt
+
+Imperious Angel
+
+Cerebroplasm
+
+Living Mirage
+
+Envoy of Joy
+
+The Great Mardu Citadel
+
+Painful Binder
+
+Unhallowed Hermit
+
+Glistenornithopter Elf
+
+The Royal Family
+
+Battle of the Twin Gods
+
+Spell of Celestial Focus
+
+Interplanar Confrontation
+
+Heartfelt Confession
+
+Slobad, and Glissa, Doomed
+
+Garruk and Rowan
+
+Eternal Defeat
+
+Joint Research
+
+Grim Research
+
+Karn and Liliana, Resolute
+
+As the Gods Will
+
+Ate Too Much
+
+Brothers' War
+
+Jaceferi, Mind Raveler
+
+Grand Feast
+
+The Sword in the Stone (1)
+
+The Fisher King
+
+Agravain, The Phoenix Knight
+
+Leodegrace of the Roundtable
+
+King Uther Pendragon
+
+King Arthur, the Worthy
+
+Attempted Assault
+
+Bridge of Death
+
+The Holy Hand Grenade
+
+Blessing from the Lord
+
+Grim Challenge
+
+Three Temptations
+
+Illusionary Test
+
+Failure's Reminder
+
+Suspicious Challenge
+
+Travel the Wilds
+rules_text: At the beginning of your upkeep, target creature you control explores.
+When you explore for the second time each turn, search your library for a creature card and exile it, then shuffle. Until the end of your next turn, you may cast that card. => At the beginning of your upkeep, target creature you control explores.
+When you explore for the second time each turn, search your library for a creature card, exile it, then shuffle. Until the end of your next turn, you may cast that card.
+
+Bertilak's Castle
+
+Cunning Hostess
+
+Fearless to the Last
+
+Summon the Knights
+
+Shatter and Replace
+
+The Sword in the Stone (2)
+
+Cling to Power
+
+Magical Assurance
+
+Zomaj Hauc, Schism Wielder
+
+Maya, Legendary Siren
+
+Nausicaa, Voice of the Wind
+
+Newt Scamander
+
+Xanathar, Crime Lord
+
+Varys, Weaver of Secrets
+
+The Snack That Smiles Back
+
+The Lorax
+
+Sleep Deprivation
+
+Ash Blossom & Joyous Spring
+
+Angry Oompas
+
+Enlightened Ultimatum
+
+General Grievous
+rules_text: Double strike
+Whenever a creature dealt damage by General Grievous this turn dies, attach all auras and equipment attached to that creature to General Grievous.
+{4}: General Grievous deals damage to any target equal to the number of equipment and auras attached to him. => Double strike
+Whenever a creature dealt damage by General Grievous this turn dies, attach all Auras and Equipment attached to that creature to General Grievous.
+{4}: General Grievous deals damage to any target equal to the number of Equipment and Auras attached to him.
+
+Gitgud Frog
+
+Humpty Dumpty
+
+Jebediah Kerman, Kerbonaut
+
+John Wick
+
+Majora's Mask
+
+Mother Goose
+
+My Girlfriend
+
+Omnath, Maelstrom Locus
+
+Scooby Snack
+
+Natural Experiment
+
+Class Clown
+
+Spell-Slingers Practice
+
+Yora, Nephalia Librarian
+
+Sluggish Student
+
+Spring Break
+
+Interplanar Syllabus
+
+Ace Procrastinator
+
+Detention
+
+Imperial Tutelage
+
+The Perfect Teacher
+
+Introduction to Pastmancy
+
+Gym Class (2)
+
+Sleep Through Class
+
+School Field Trip
+
+Oath Of The Educator
+
+Intro to Sleep Studies
+
+Third-Year Assassin
+
+Absorber en-Vec
+
+Triumph of Industry
+
+Encase in Amber
+
+Reduce to Dust
+
+Flawfish
+
+Overhead View
+
+Glistening Golem Core
+
+Abstract
+
+Ronin of Oblivion
+
+Concentrate Fire
+
+Counterblast
+
+False Fruition
+
+Giant's Steps
+
+Test of Mettle
+
+The Dark One
+
+Narcissist's Bane
+
+Daybreak
+
+Magelock
+
+Keeper of Endless Whispers
+
+Corrosive Spore Fungus
+
+Essence Vampire
+
+Disciple of Grist
+
+Arcane Warp
+
+Fumbling Vulpine
+
+Inspiring Confessor
+
+Ethersworn Overseer
+
+Oona's Pilferer
+
+Aerial Retrieval
+
+Relentless Rallier
+
+Oncoming Collapse
+
+Gremlin Breeder
+
+Beast of Zagoth
+
+Kolaghan's Warleader
+
+Shriek of Flame
+
+Scorned Scorched
+
+Ashgrazer
+
+Cliff Breaker Warkite
+
+Pursuant of Fate
+
+Primehorn, Stompherd Regal
+
+Twilight Sprite
+
+Sower of Sands
+
+Restless Draugr
+
+Rebel Refiner
+
+Ragavan, Mischievous
+
+Small Lessons
+
+Dead but Not Safe
+
+Parallax Remembrance
+
+Slaughter from the Sky
+
+Bookwyrm, Daydreamer
+
+Augmented Egotist
+
+Expedition Globe
+
+Postmortem
+
+Falling Into the Bottomless Pit
+
+Whisked by the Stars
+
+Mortality
+
+Grizzly Lineage
+
+Venomous Research
+
+The Third of May, 1808
+
+Clementine, Bar's Attendant
+
+Wanting
+
+Remember the Fallen
+
+Lucifer's Indignation
+
+Crash the Beachhead
+
+Flower Bed
+
+Skullkeeper
+
+Mama Bear
+
+Eternal Punishment
+
+Decant Knowledge
+
+Patron of the Snake-Twined
+
+Frozen Locus of Ronom
+
+Merchant's Crossroads
+
+Blessing in the Dream-Den
+
+Quest for the Dream-Den
+
+Kluuz, Ancient Tideclamper
+
+Hexfire Bounty
+
+Phyrexian Solstice
+
+Cryptshot
+
+Simic Experimentationalist
+
+Endless Fiddling
+
+Excitation
+
+Roiling Landscape
+
+Blooming Flumph
+
+Glimpse of Dread
+
+Recurring Tinkering
+
+Spoil the Soil
+
+Persistence of the WIlling
+
+Liris, Altered Offspring
+
+Underworld Gifts
+
+Glimpse (1)
+
+Glimpse of Hogaak
+
+Hogaak's Fury
+
+Deep Growth
+
+Express Commerce
+
+Yawgmoth's Needle
+
+Hamunaptra, City of the Dead
+
+Count Dracula
+
+Dwelling of the Creature
+
+Lycanthropic Hoarder
+
+It's Alive!
+
+Distorting Transformation
+
+The Creature's Curse
+
+Sealed for Eternity
+
+Retribution of the Waif
+
+Cannibals
+
+Sloughscales
+
+Dracula's Plan
+
+Restful Coffin
+
+Colin Weasler
+
+Sparkchance
+
+Fblthp Stumblespark
+
+The Roil Silenced
+
+Liliana Vess, Benevolent Physician
+
+Sigarda, Shattered Heron
+
+Bruna, Voice of Hope
+
+Tincture of Esis Root
+rules_text: When this artifact enters or is put into the graveyard from play, put a shield counter on up to one target creature you control.
+{2}, {T}, Sacrifice this artifact: You gain 3 life. => When this artifact enters or is put into your graveyard from the battlefield, put a shield counter on up to one target creature you control.
+{2}, {T}, Sacrifice this artifact: You gain 3 life.
+
+Odric, Remorseful Veteran
+
+Thalia, Bloodcrazed
+
+Lonely Hermit
+
+Swallow Up
+
+Ajani and Sarkhan, Maelstrom Brothers
+
+Esteemed Professor Vess
+
+Remnant of Zendikar
+
+Chandra, Radiant of Law
+
+Unceasing Power
+
+Rite of Harvest
+
+Pillaging Knight
+
+Lurking Behemoth (1)
+
+Aether Circuit
+
+Boomobil
+
+Overdrive
+
+Black Ice
+
+Aetius, Magister Multum
+
+Hunnic Lancer
+
+Visigoth Foederati
+
+Western Primicerius
+
+Mul Daya Pathfinder
+
+Heedless Guide
+
+Emboldened Exploration
+
+Arhana, Kazandu Beastcaller
+
+Friendly Detrivore
+
+Desedementation
+
+Emberstorm
+
+Halo
+
+Prohibition Tax
+
+Capenna Gun-Runners
+
+One More Week
+
+Gala Singer
+
+New Belle
+
+Explosive Distraction
+
+Rakawpter
+
+Lord Qyburn, Master of Whispers
+
+Brokers Barrister
+
+Maestros Command
+
+Sanguine Replication
+
+Dullness Cylinder
+
+Think Outside the Box
+
+Going Down in Flames
+
+Pitch In
+
+Speak of the Devil (1)
+
+Time is Money
+
+Cakewalk
+
+Quick on the Draw
+
+A Pie in the Sky
+
+Speak of the Devil (2)
+
+Speak of the Devil (3)
+
+You Can Say That Again
+
+Exploration-Tron MAC-10
+
+Watchful Symbiote
+
+Taint Mind
+
+Ietoku, Flowing Current
+
+Dogged Detective
+
+Undead Technomancer
+
+Loam Scryer
+
+Gevon Shaha, Druid Mage
+
+Devouring Ooze
+
+Calix, Compleated Enchanter
+
+Master the Four Elements
+
+Aetherplasm
+
+Baleful Tutor
+
+Call for Ally
+
+Call for Help
+
+Call for Minion
+
+Call for Warrior
+
+Call for Friend
+
+Call of The All-Mother
+
+Call the Storm
+
+Channel the Roil
+
+Chimes of War
+
+Gearforge Mystic
+
+Impulsive Consultation
+
+Lich's Call
+
+Math Tutor
+
+Reflect Unto the Mind
+
+Resourceful Provider
+
+Scholar of Forbidden Arts
+
+Calling of the Enchantress
+rules_text: Search your library for an enchantment with mana value X or less and put it onto the battlefield. => Search your library for an enchantment with mana value X or less and put it onto the battlefield, then shuffle.
+
+Solitary Tutor
+
+The Monkey's Paw (2)
+
+Tainted Desire
+
+The Beast Awakens
+
+Tribe of the Honorable
+
+Tribe of the Arcane
+
+Tribe of the Wrathful
+
+Tribe of the Wilds
+
+Tribe of the Damned
+
+Zacaect, Silverblow
+
+Gollea, Lady of the Forest
+
+Alanis, Forgotten Isle
+
+Brain Crow
+
+Brain Bolt
+rules_text: Draw a card.
+Choose any target creature. Reveal the top card of your library. Brain Bolt deals damage equal to that card's mana value to that creature. => Draw a card.
+Choose target creature. Reveal the top card of your library. Brain Bolt deals damage equal to that card's mana value to that creature.
+
+Nissa, One With Earth
+
+Chandra, One With Fire
+
+Kuroko Dial, Investigator
+
+Jack R. Terrier, Burglar
+
+Johnston, the Delayer
+
+Snapjaw Hatchling
+
+Worker Ant
+
+Azulman, the Passionate
+
+Manegran, the Grand Creation
+
+Rune Rescuer
+
+Servant of Erebos
+
+Volcanic Step
+
+Rise from Ashes
+
+Alberich, Soul Guide
+
+Curse of the Catacombs
+
+Soil to Sea
+
+Fertile Strider
+
+Aerie Angel
+
+Aven Phantasm
+
+Defender of Nature's Secrets
+
+Whispering Druid
+
+Shaledrake Monarch
+
+Raider Goblin
+
+Goblin Hunting Party
+
+Goblin Forerunner
+
+Goblin Fireweaver
+
+Gagger
+
+Karna, Vassal of Nahiri
+
+High Elf
+
+Oathbound Horde
+
+Elizabeth, Devotee of Serra
+
+Aetherforge Mystic
+
+The Big Reveal
+
+Barter
+
+Gruesome Rebirth
+
+Serra Angel, Titan of Gods
+
+All the Newton Elves
+
+Athgahg's Familiar
+
+Goblin Rage Instigator
+
+Cyborg Elf
+
+legnA arreS
+
+Shaman of the Shadow Graves
+
+Woebegotten Angel
+rules_text: Whenever a land enters under your control, put a +1/+1 counter on this creature. If this creature has three or more +1/+1 counters, put a flying counter on it instead. => [i]Landfall[/i] — Whenever a land enters under your control, put a +1/+1 counter on this creature. If this creature has three or more +1/+1 counters, put a flying counter on it instead.
+
+Abraxas
+
+Lithomancy
+
+Hypermnesia
+
+Hallowed Bloom
+
+Striking Gale
+
+Deep Dive
+
+Reign of Chaos
+
+Rampage
+
+Master Katara, Water Bender
+
+Linny, Cavy Leader
+
+Ming Ming, Brave Duck
+
+Tuck, Nice Turtle
+
+Courage the Cowardly
+
+Aku, Master of Darkness
+
+The Demon-Blood Sword
+
+Nicky, Ricky, Dicky, and Dawn
+
+Meddling Kids
+
+Ditto
+
+Sapphire
+
+Ruby
+
+Ed, Wayward Workhorse
+
+Edd, Intelligent Inventor
+
+Eddy, the Greedy General
+
+Marie-Pierre, Relentless
+
+Ben Tennyson
+
+Gilded Fish
+
+Leader of the Pack
+
+Angler Extraordinaire
+
+Heidi, Mother of Many
+
+Parental Protection
+
+Willow Hound
+
+Heart of the Great River
+
+Simon, Able Seacat
+
+Death-Never Skink
+
+Fish Food
+
+Herd Guardian
+
+Playful Cat
+
+Pell, Royal Gyrfalcon
+
+Bast, Feline Patron
+
+Underdog's Flourish
+
+Dainty Novice Stalker
+
+Inflaming Emberwhirl
+
+Koi Pond
+
+Nurturing Anemone
+
+Necrotic Centaur
+
+Wave of Change
+
+Triumph of the Guildpact
+
+Venomous Swamp
+
+Hezsho, Life's Last Kiss
+
+Tycoon's Descent
+
+Archangel's Mercy
+
+Cleanse the Cemetaries
+
+Bane of the Hollows
+
+Compleated Rakalite
+
+Guff's Last Chapter
+
+Saprazzan Plunderer
+
+Armageddon Pocketwatch
+
+Mycosynth Cycle
+
+Unstable Æther Portal
+
+Viashino Graveyard
+
+Timely Tide
+
+Time's Tide
+
+Call of the Night Swarm
+
+Tireless Spirit
+
+Apocalypse Whistle
+
+Bogcamp Bully
+
+Balefire's Burden
+
+Economies of Scale
+
+Unscrupulous Gravekeeper
+
+Return From the Past
+
+Decaying Flesh
+
+Muxus's Quartermaster
+
+Way of the Dragon
+
+Finishing Stunning Strike
+
+Go Nuts
+
+Goblin Assault Leader
+
+Barrens Elemental
+
+Searing Rage
+
+Covet What Is Thy Neighbor's
+
+Suppression Shield
+
+Ancient Outpost
+
+Old Oak
+
+Memory Ravager
+
+Mitotic Mound
+
+Bubonic Tutor
+
+Bargaining
+
+Mutiny, Being of Theseus
+
+Memorial
+
+Devil's Bargain
+
+Lethargy
+
+Schism
+
+Finding meaning in the fact that i couldn't come up with a card for this prompt bauble
+
+Nullscape Battlemage
+
+An Empty Feeling
+
+Binge Eating
+
+Moving Past
+
+Enrage
+
+Lay to Rest
+rules_text: Each player sacrifices a creature. Exile each player's graveyard.
+Exile Lay to Rest. => Each player sacrifices a creature of their choice. Exile each player's graveyard.
+Exile Lay to Rest.
+
+Learnt from Mistakes
+
+Stagnancy
+
+Anything But That
+
+Death's Denial
+
+C'est la Vie
+
+Deny Loss
+
+Grief Counselor
+
+Plea for Respite
+
+Untamable Boar
+
+Ifnir Recruitment
+
+Shivan Imitator
+
+Cathedral Blasphemers
+
+Blazebust
+
+Bound but Biding
+
+Reviled Witch
+
+Careless Son
+
+Fishermen Disciples
+
+Harbinger of a Hero
+
+Ace Predator
+
+Kalapin Kalapn
+
+Whelp Trainee
+
+Goblin Marauder
+
+Celestial Phoenix
+
+Elvish Squadleader
+
+Ceris, the Oncoming Storm
+
+Diremoon Spirit
+
+Hero's Quest
+
+A New Dragonlord
+
+Commune with Vumokh
+
+Eye of the Beyond
+
+Surging Manastorm
+
+Tezzeret, Cosmic Explorer
+
+Endless Lights
+
+Dreams of Dinosaurs
+
+Call of the Void
+
+Artificial Life
+
+Nimble Evasion
+
+Gaze of the Moths
+
+Murky Outpost
+
+Arachnus Nest
+
+Jula, Spirit of the Harvest
+
+Feast of Branches
+
+Arlinn, the Wild Woman
+
+Born of Aether
+
+Worldsoul of Eona
+
+Fathomless Pools
+
+Recon 12
+
+False Death Prowler
+
+Disorganise
+
+Woesource Manaflux
+
+Discover the Newborn World
+
+Swarming Resonance
+
+Shurr Wanderer
+
+Gergal Hunter
+
+Honey Lava
+
+Way of the Underbrush
+
+Swarmed Earth
+
+Nurgiryth's Nest
+
+Lion's Eye Lotus
+
+Tech Company
+
+Experimental Treatment
+
+Lightning Feedback
+
+Guide to the Instinctive
+
+Disastrous Timing
+
+Humuhumunukunukuapua'a
+
+Tree Farm
+
+Riverside Dumpsite
+
+Hall of the Swift
+
+Friendly Yeti
+
+Locality of Matter and Thought
+
+Snail Shell Gardens
+
+Protective Priest
+
+A Tasty Treat
+
+Felinic Dominion
+
+Ariistuun the Ravenous
+
+Cat O' Lantern
+
+Fear of Losing Control
+
+Ghostcloak
+
+Guardian Spirit
+
+Hallowed Reunion
+
+Haunt-Night Rider
+
+Irresistable Candy
+
+Moonlight Haunting
+
+Mummer's Guise
+
+Obscure Costume
+
+Pumpkin Carver
+
+Pumpkin Spice Latte
+
+Spreading Bonfire
+
+The Host of the Sidhe
+
+The Three Months of Christmas
+
+Trick for Treat
+
+Trick or Treat
+
+Trick-or-Treating
+
+Vigil for the Martyrs
+
+Archbishop's Charm
+
+Archpriest's Charm
+
+Devotion
+
+Lizinda, Communal Ritualist
+
+Cheleta, the Spectress
+
+Fear of Choice
+
+Class Counter
+
+Hago's Fury
+
+Jythera, Door to the Mind
+
+Azrith, Baron of Bones
+
+Confluence of Disease
+
+Obsessed Necromancer
+
+Sheoldred's Legacy
+
+Abaction
+
+Blazing Assault
+
+First Flame's Legacy
+
+Magmaclasm
+
+Earthrumbler Hydra
+
+Immertum's Faithful
+
+Sage of Gaea
+
+Titan of Fecundity
+
+Rubidium Pop Rocks
+
+Deep Soul Guide
+
+Rotting Necropolis
+
+Supply Raid
+
+Surging Disintegration
+
+March of Withiering Souls
+
+Rallying Whacker
+
+It That Unmakes
+
+Replicated Ruby
+
+Sanguine Syphon
+
+Compounding Studies
+
+Malaria
+
+Plblslm, Multiplicative Friend
+
+Foreshadowing Dragonstorm
+
+Manifest Legacy
+
+Percolate
+
+Wary Witness
+
+Desperate Summon
+
+Moonsnare Larcenist
+
+Talsin, Chrono Accelerator
+
+Thoughts and Prayers
+
+Abstraction
+
+Deserted Roads
+
+Do Not Swim
+
+Lord of the Bay
+
+Alone on the Waters
+
+Doorway to Nowhere
+
+Karmic Favor
+
+Shrine of the Forest
+
+Reflective Facade
+
+Endless Feast
+
+Fear of Detection
+
+Ossified Graspers
+
+Wild Tea Party
+
+Consumption (2)
+
+The Digital Realm
+
+Memory of Tomorrow
+
+Squirrel Shenanigans
+
+Blackjack
+
+Eurydice's Peril
+
+Start em' Young
+
+Epiphany (3)
+
+Epiphany (4)
+
+The Spirit-Gem
+
+Jace, Disillusioned
+
+Ice Era Acolyte
+
+Marit Lage's Hunger
+
+Grim Investigator
+
+Big Break
+
+Nahiri, Angel of Death
+
+Alluring Beacon
+
+Rock of Breaking
+
+Unbreakable Window
+
+Lysandra, Demonic Summoner
+
+Lysandra's Pact
+
+Rally the Reserves
+
+Selfless Recruit
+
+Novice Filcher
+
+Filch
+
+Hall of Faith // Provision Threshold
+
+Hall of Memory // Observation Threshold
+
+Scorched Earth Elemental
+
+Undying Flames
+
+Barrel Dragon
+
+Rokket Tracer
+
+Unwary Summoner
+
+Voracious Demon
+
+Drill Sergeant
+
+Recruits in Training
+
+Bloodforger Blacksmith
+
+Bloodforged Blade
+
+Ignition
+
+Chandra Firestarter
+
+Rubick, Grand Magus
+
+Spell Steal (2)
+
+Devotee of Ahassunu
+
+Ahushina's Devotees
+
+Gandurn Potion
+
+Witch's Antidote
+
+Dawnbreak Nurturer
+
+Sunrise
+
+3-Pointer
+
+Ajani, Baller of the Pride
+
+Angel of the Quorum
+
+Bastion Steward
+
+Grizzled Wayfarer
+
+Archers Signet
+
+Sigiled Shieldmage
+
+Mage of the Sigil
+
+Strength of the Ardent
+
+Dawnray Cavalier
+
+Esper Mindhopper
+
+Guardian Telemin
+
+The Etherium Crucible
+
+Crippled Pteramander
+
+Lars, Craftsmaster
+
+Militant Sentinel
+
+Tezzeret, Returned King
+
+Filagree Ascendant
+
+Grixis Lifeseeker
+
+Learn From Life
+
+Merchant of Death
+
+Apprentice Soulrender
+
+Rotrise
+
+Deathpitch Nightwing
+
+Visceral Force
+
+Screams of Agony
+
+Broodmate Ooze
+
+Broodpyre Elemental
+
+Draconic Mountain
+
+Wild Shaman
+
+Fireburp Hellkite
+
+Trained Iguanar
+
+Tyrant Advisors
+
+Goblin Scorcher
+
+Beast of Renewal
+
+Controlled Burn
+
+Canopy Tyrant
+
+Tigercaller Apprentice
+
+Spawn of the Godsire
+
+Prowling Behemoth
+
+Dibella, Mindsower
+
+Faerie Stallsmith
+
+Compounding Dementia
+
+Legion's Arms
+
+Thousand Moons Officer
+
+Pack Tactics
+
+Aliana, Spell-Casting Supremo
+
+Eager Eagle
+
+Glimpse (2)
+
+Tuskeri Berserker
+
+Bloodbraided Call
+
+Rhox Extortionist
+
+Ashiok's Griefdrinker
+
+Necromantic Perfection
+
+Akroan Warrior-Poet
+
+Fatecaster
+
+Foresighted Fleetpaw
+
+Twinbird Invocation
+
+Scarlet Women
+
+Farmer's Inheritance
+
+Foundation of Trust
+
+Secular Philosopher
+
+Trouble Brewing
+
+Ravenswood Pacifist
+
+Khaen-Groves of Hmolang
+
+Dissonate
+
+Synesthete Mentor
+
+Rediscover
+
+Shrill Flutekin
+
+Lamentor Decomposer
+
+Tainted Betrayal
+
+Joinage
+
+Corrupted Grove
+
+Soul Bomb
+
+Gerrard, Hopes Hero
+
+Captian Crucias
+
+Turkish Delight
+
+The First Christmas in a Century
+
+Vernal Pawprints
+
+Sir Peter Wolfsbane
+
+The White Witch
+
+Aslan's Breath
+
+Meowcenary Squad
+
+Elderseal
+
+Carve Up
+
+Charge Blade: Sword Mode
+
+Fatalis, the Black Dragon
+
+Elder's Recess
+
+Forcestop Security Chip
+
+Tamiyo Skullbomb
+
+Ancient Wing
+
+Anguish Engine
+
+Bellows of Industry
+
+Horizon Engine
+
+Icon of Desperate Faith
+
+Isochron Replicator
+
+The Lifewell
+
+Luna Ring
+
+Mjolnir Armor
+
+Recycling Station
+
+Regenerating Omnimatter
+
+Singularity Font
+
+Sporadic Listener
+
+Soul Jar
+
+Trinicube
+
+The Tunnel of Time
+
+Bronwel, Priest of the Forgotten
+
+Chilling Touch
+
+Dolerian, Mad Duke
+
+Prophet of the Black Rose
+
+The Mayor
+
+Mayor Graywater
+
+Caffeinated Grad Student
+
+Commodities Trader
+
+Dynamo Nexus Suppressor
+
+Ral, Gathering Storm
+
+Aspiring Thunderhelm
+
+Asha, Eternal Incarnation
+
+Excalibur, Blade of the King
+
+Irreverent Imperiosaur
+
+Radiant Metamorphosis
+
+Wed into Royalty
+
+Discerning Vivisector
+
+Guleia, Trusted Caretaker
+
+Necrogen Abomination
+
+Thought Flay
+
+Labyrinth of Ith
+
+Cordelian Dream
+
+Break Free
+
+Dreadnight Sights
+
+Permamancer
+
+Selective Amnesia
+
+Witchmail
+
+Revel in Ash
+
+Domestic Nightmare Scenario
+
+Solace of Solidarity
+
+Rank and Vile
+
+Establish Authority
+
+Assimilate
+
+Archaeology
+
+Grim Oneiromancer
+
+Scour the Tomes (2)
+
+Book Fire
+
+Wretched Auntie
+
+Liliana, Penitent Protector
+
+Defiance Now Sought
+rules_text: For each creature you control that leaves, exile target creature an opponent controls. => For each creature you control that leaves the battlefield this turn, exile target creature an opponent controls.
+
+
+VERSION 11 CHANGELOG
 ====================
 
 Lurking Behemoth (2) added.
