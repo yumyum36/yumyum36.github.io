@@ -1,4 +1,733 @@
-﻿VERSION 12 CHANGELOG
+﻿VERSION 13 CHANGELOG
+====================
+
+Town Square added.
+Mushroom Cow added.
+Store of Secrets added.
+Elsa, Queen of Ice and Death added.
+Leyline Compass added.
+Lutri, Firestarter added.
+Ritual Nails added.
+Thraben Conviction added.
+Flare Box added.
+Battle at Smiling Cow added.
+Wandering Trader added.
+Join the Party added.
+Typhoon Artist added.
+Abominable Tyrant added.
+Final Onslaught added.
+The Scavenger added.
+Daggerscuttler added.
+The Queen's Retinue added.
+Blazing Blitz added.
+Siegebreak Vanguard added.
+Thalara, Crown of the Canopy added.
+Shrine of Endless Hunger added.
+Kozilek's Shifter added.
+High Stakes added.
+Skelta, Cursed Knight added.
+Cursed Dagger added.
+High Density Mana Reactor added.
+Mana Purifier added.
+Emrakul, the Twisted Sky added.
+Battle of Thraben added.
+Shivan Aspirant added.
+Dragonfire Ritual added.
+Massacre Warship added.
+Astelli Soulguide added.
+Caricature of Finality added.
+Rudenberg's Showstopper added.
+Eclectogoyf added.
+Psalm of Deliverance added.
+Psalm of Clarity added.
+Psalm of Growth added.
+Psalm of Power added.
+Psalm of Creativity added.
+Seranaded Spirit added.
+Valki, Returned added.
+Service Extractors added.
+Kora, Voyeur Inventor added.
+First Steps Outside added.
+New Capenna Memorial Bar added.
+Obscura's Remains added.
+Desperate Contract added.
+Recalcitrant Assassin added.
+Falco Spara, the New Order added.
+Coup Plans added.
+Mrean, Head of Derot added.
+Imperative Alliance added.
+Frenzied Triceraptor added.
+Floating Spiralshell added.
+Ozolith, Soul of Ikoria added.
+Brush Tactics added.
+Poised Packleader added.
+World Sowing added.
+Koma, World Eater added.
+Dunedrifter added.
+Resolute Runecarver added.
+Fanatic of Koma added.
+Scarred Valkyrie added.
+Sherriff's Intuition added.
+Thunder Blaster added.
+Prickly Treasurekeeper added.
+Muzzio, Ingenious Collector added.
+Card Shark added.
+Fierce Lawman added.
+Hunt Down added.
+Vengeful Vigilante added.
+Grist, Swarm of Destiny added.
+Living Ferocity added.
+Grist's Swarm added.
+
+
+Titania's Court (1)
+rules_text: Titania's Court enters tapped.
+{T}: Add {G}.
+As long as you control eight or more lands, other lands you control are 1/1 creatures with hexproof. They're still lands.
+Whenever another land enters under your control, put a +1/+1 counter on each land you control. => Titania's Court enters tapped.
+{T}: Add {G}.
+As long as you control eight or more lands, other lands you control are 1/1 creatures with hexproof. They're still lands.
+Whenever another land you control enters, put a +1/+1 counter on each land you control.
+
+Stoke the Blaze
+rules_text: Whenever a creature enters under your control this turn, it gets +1/+1 and gains haste until end of turn.
+Add {R}{R}. => Whenever a creature you control enters this turn, it gets +1/+1 and gains haste until end of turn.
+Add {R}{R}.
+
+Necromancer's Tome
+type: Artifact => Artifact — Book
+
+Nevinyrral's Tome
+type: Legendary Artifact => Legendary Artifact — Book
+
+Biomancer Class (1)
+rules_text: [i](Gain the next level as a sorcery to add its ability.)[/i]
+When this Class enters, put a +1/+1 counter on target creature you control.
+{1}{G}: Level 2
+Whenever a creature enters under your control, put one of the following counters on it: Vigilance, Trample, +1/+1 or Hexproof.
+{3}{G}: Level 3
+Creatures you control get +X/+X, where X is the number of counters on them. => [i](Gain the next level as a sorcery to add its ability.)[/i]
+When this Class enters, put a +1/+1 counter on target creature you control.
+{1}{G}: Level 2
+Whenever a creature you control enters, put one of the following counters on it: Vigilance, Trample, +1/+1 or Hexproof.
+{3}{G}: Level 3
+Creatures you control get +X/+X, where X is the number of counters on them.
+special_text: [i](Gain the next level as a sorcery to add its ability.)[/i]
+When this Class enters, put a +1/+1 counter on target creature you control.
+{1}{G}: Level 2
+Whenever a creature enters under your control, put one of the following counters on it: Vigilance, Trample, +1/+1 or Hexproof.
+{3}{G}: Level 3
+Creatures you control get +X/+X, where X is the number of counters on them. => [i](Gain the next level as a sorcery to add its ability.)[/i]
+When this Class enters, put a +1/+1 counter on target creature you control.
+{1}{G}: Level 2
+Whenever a creature you control enters, put one of the following counters on it: Vigilance, Trample, +1/+1 or Hexproof.
+{3}{G}: Level 3
+Creatures you control get +X/+X, where X is the number of counters on them.
+
+Grisilda, Mayor of Sweettooth
+rules_text: Menace, lifelink
+{G}, Sacrifice a non-artifact creature: Create a 2/2 colorless Food Golem artifact creature token with “{2}, {T}, Sacrifice this permanent: You gain 3 life.”
+{B}, Sacrifice a Food: Target creature gains menace and lifelink until end of turn. => Menace, lifelink
+{G}, Sacrifice a nonartifact creature: Create a 2/2 colorless Food Golem artifact creature token with “{2}, {T}, Sacrifice this permanent: You gain 3 life.”
+{B}, Sacrifice a Food: Target creature gains menace and lifelink until end of turn.
+
+Starfield Alignment
+rules_text: [i]Constellation[/i] — Whenever Starfield Alignment or another enchantment enters under your control, you gain X life and exile up to X target cards from graveyards, where X is the number of enchantments you control.
+At the beginning of your upkeep, if you control ten or more enchantments with different names, you win the game. => [i]Constellation[/i] — Whenever Starfield Alignment or another enchantment you control enters, you gain X life and exile up to X target cards from graveyards, where X is the number of enchantments you control.
+At the beginning of your upkeep, if you control ten or more enchantments with different names, you win the game.
+
+Dancing in September
+rules_text: Creatures you control get +0/+1.
+Whenever a creature enters under your control, if this enchantment has fewer than 21 night counters on it, put a number of night counters on this enchantment equal to that creature's power.
+As long as there are exactly 21 night counters on this enchantment, creatures you control get an additional +4/+3 and have trample, lifelink, and haste. => Creatures you control get +0/+1.
+Whenever a creature you control enters, if this enchantment has fewer than 21 night counters on it, put a number of night counters on this enchantment equal to that creature's power.
+As long as there are exactly 21 night counters on this enchantment, creatures you control get an additional +4/+3 and have trample, lifelink, and haste.
+
+
+type: Creature — Human => Legendary Land
+cost: {1}{B} => 
+rules_text: When this creature enters, if you control an undead creature, draw a card. [i](Shades, Spirits, Skeletons, Vampires, Wraiths and Zombies are Undead.)[/i] => All cards that aren't on the battlefield, spells and nonland permanents lose all subtypes.
+pt: 2/2 => 
+
+Alexander, The Great
+rules_text: Creatures your opponents control must block each turn if able.
+Whenever Alexander, The Great is blocked, attacking creatures gain +X/+X where X is the greatest power among creatures your opponent control and first strike. => Creatures your opponents control must block each turn if able.
+Whenever Alexander, The Great is blocked, attacking creatures gain +X/+X where X is the greatest power among creatures your opponents control and first strike.
+
+Depths of the Mind
+rules_text: Delve [i](Each card you exile from your graveyard while casting this spell pays for {1}.)[/i]
+Gravestorm [i](When you cast this spell, copy it for each permanent put into a graveyard from the battlefield this turn. You may choose new targets for the copies.)[/i]
+Target player mills 3. => Delve [i](Each card you exile from your graveyard while casting this spell pays for {1}.)[/i]
+Gravestorm [i](When you cast this spell, copy it for each permanent put into a graveyard from the battlefield this turn. You may choose new targets for the copies.)[/i]
+Target player mills three cards.
+
+Faerie Trickster
+rules_text: Flash
+Flying, hexproof
+When this creature or another Faerie creature enters under your control, counter target spell unless its controller pays {1}.
+If it's not your turn and you already cast a Faerie spell this turn, you may pay {1}{U} rather than pay this spell's mana cost. => Flash
+Flying, hexproof
+When this creature or another Faerie creature you control enters, counter target spell unless its controller pays {1}.
+If it's not your turn and you already cast a Faerie spell this turn, you may pay {1}{U} rather than pay this spell's mana cost.
+
+Ferocious Behemoth
+rules_text: Trample, haste, double strike
+Whenever this creature deals combat damage to a player, it deals 7 damage divided as you choose among any number of target creatures. 
+When this creature dies, it deals 7 damage to each creature your opponent controls. => Trample, haste, double strike
+Whenever this creature deals combat damage to a player, it deals 7 damage divided as you choose among any number of target creatures. 
+When this creature dies, it deals 7 damage to each creature your opponents control.
+
+Laryel, The Eternal Void
+rules_text: Indestructible, hexproof
+[i]Eminence[/i] — As long as Laryel is in the command zone or on the battlefield, whenever a non-token Eldrazi creature enters, create a 1/1 colorless Eldrazi Scion creature token with “Sacrifice this token: Add {C}.”
+{2}, Sacrifice five Eldrazi Scions: Search your library for an Eldrazi creature and put it onto the battlefield, then shuffle. => Indestructible, hexproof
+[i]Eminence[/i] — As long as Laryel is in the command zone or on the battlefield, whenever a nontoken Eldrazi creature enters, create a 1/1 colorless Eldrazi Scion creature token with “Sacrifice this token: Add {C}.”
+{2}, Sacrifice five Eldrazi Scions: Search your library for an Eldrazi creature and put it onto the battlefield, then shuffle.
+
+Overseer of the Hunt
+rules_text: Whenever a creature your opponent controls dies, you draw a card and gain 2 life. => Whenever a creature an opponent controls dies, you draw a card and gain 2 life.
+
+Siege Preparations
+rules_text: You may reveal two Rhino cards from your hand instead of paying this spell's mana cost.
+Whenever a Rhino enters under your control, each opponent loses 3 life and you gain 3 life. => You may reveal two Rhino cards from your hand instead of paying this spell's mana cost.
+Whenever a Rhino you control enters, each opponent loses 3 life and you gain 3 life.
+
+Thanos, He Who Balances
+type: Legendary Creature — Giant Soldier => Legendary Creature — Eternal Giant Soldier
+
+Kessig Farmstead
+rules_text: {T}: Add {C}
+{T}, Sacrifice an Ox, Sheep, Goat, Bird, Plant or Food: Create a Treasure token.
+{T}: Sacrifice four Treasures: Transform Kessig Farmstead. => {T}: Add {C}
+{T}, Sacrifice an Ox, Sheep, Goat, Bird, Plant or Food: Create a Treasure token.
+{T}: Sacrifice four Treasures: Transform this land.
+
+Surfaceward Guide
+rules_text: [i]Constellation[/i] — Whenever this creature or another enchantment enters under your control, target creature card in your graveyard gains escape until end of turn. The escape cost is equal to its mana cost plus exile three other cards from your graveyard. => [i]Constellation[/i] — Whenever this creature or another enchantment you control enters, target creature card in your graveyard gains escape until end of turn. The escape cost is equal to its mana cost plus exile three other cards from your graveyard.
+
+Deus Ex Machina
+rules_text: Miracle {G}{W} [i](You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)[/i]
+Look at the top 7 cards of your library. you may reveal a Divine card from among them and put it into your hand. If this spell was cast for its miracle cost, put it onto the battlefield instead. [i](Gods, Angels, Clerics and Enchantments are Divine)[/i] => Miracle {G}{W} [i](You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)[/i]
+Look at the top seven cards of your library. You may reveal a Divine card from among them and put it into your hand. If this spell was cast for its miracle cost, put it onto the battlefield instead. [i](Gods, Angels, Clerics and Enchantments are Divine.)[/i]
+
+Skye, Curiosity Incarnate
+rules_text: Flying, indestructible
+{5}{U}: Draw a card, this ability costs {1} less for each other Divine permanent you control. [i](Gods, Angels, Clerics and Enchantments are Divine)[/i] => Flying, indestructible
+{5}{U}: Draw a card, this ability costs {1} less for each other Divine permanent you control. [i](Gods, Angels, Clerics and Enchantments are Divine.)[/i]
+
+Eager Cartographer
+rules_text: [i]Landfall[/i] — Whenever a land enters under your control, create a Map token.
+Activated abilities of Maps you control cost {1} less to activate. => [i]Landfall[/i] — Whenever a land you control enters, create a Map token.
+Activated abilities of Maps you control cost {1} less to activate.
+
+Hunters of Sky Rock
+rules_text: When this creature enters, it explores.
+[i]Fateful Hour[/i] — As long as you have 5 or less life, whenever another Ally enters under your control, each Ally you control explores. => When this creature enters, it explores.
+[i]Fateful Hour[/i] — As long as you have 5 or less life, whenever another Ally you control enters, each Ally you control explores.
+
+Archdruid's Hollow
+rules_text: This land enters tapped.
+{T}, Pay 1 life: Add one mana of any color.
+When you cast your second spell each turn, this land becomes a 2/2 Druid creature with shroud until end of turn. It's still a land. => This land enters tapped.
+{T}, Pay 1 life: Add one mana of any color.
+Whenever you cast your second spell each turn, this land becomes a 2/2 Druid creature with shroud until end of turn. It's still a land.
+
+Vesuvan Marsh
+rules_text: [i]Imprint[/i] — When Vesuvan Marsh enters you may exile a creature card from your hand.
+{T}: Add one mana of any of the exiled card's colors.
+{X}{2}: Until end of turn, Vesuvan Marsh becomes a copy of the exiled card. It's still a land. X is the mana value of the exiled card. => [i]Imprint[/i] — When Vesuvan Marsh enters, you may exile a creature card from your hand.
+{T}: Add one mana of any of the exiled card's colors.
+{X}{2}: Until end of turn, Vesuvan Marsh becomes a copy of the exiled card. It's still a land. X is the mana value of the exiled card.
+
+Stirrer of Hearts
+rules_text: Haste
+{T}: Add {R}, {G} or {W}. Spend this mana only to cast a creature spell.
+Whenever a troop enters under your control, if it's the second permanent to do so this turn, create a 1/1 green Archer creature token with reach. [i](Archers, Knights and Soldiers are troops.)[/i] => Haste
+{T}: Add {R}, {G} or {W}. Spend this mana only to cast a creature spell.
+Whenever a troop you control enters, if it's the second permanent to do so this turn, create a 1/1 green Archer creature token with reach. [i](Archers, Knights and Soldiers are troops.)[/i]
+
+Kraxious, Beckoner of Storm
+rules_text: This spell costs {1} less to cast for each instant and sorcery card in your graveyard.
+Whenever a sea monster you control attacks, you may cast an instant or sorcery spell with lesser mana value than it from your graveyard without paying its mana cost. [i](Krakens, Leviathans, Octopi, and Serpents are sea monsters.)[/i] => This spell costs {1} less to cast for each instant and sorcery card in your graveyard.
+Whenever a sea monster you control attacks, you may cast an instant or sorcery spell with lesser mana value than it from your graveyard without paying its mana cost. [i](Krakens, Leviathans, Octopuses, Serpents, and Whales are sea monsters.)[/i]
+
+Jacque, Grizzeled Captain
+rules_text: {1}, {T}: Tap target creature. If a sea monster is targeted this way, put a stun counter on it and Jacque. [i](Krakens, Leviathans, Octopi, and Serpents are sea monsters.)[/i] => {1}, {T}: Tap target creature. If a sea monster is targeted this way, put a stun counter on it and Jacque. [i](Krakens, Leviathans, Octopuses, Serpents, and Whales are sea monsters.)[/i]
+
+Call the Monster
+rules_text: As an additional cost to cast this spell, sacrifice a creature.
+Return target creature card from your graveyard to the battlefield. If a sea monster is return this way, put a hexproof counter on it. [i](Krakens, Leviathans, Octopi, and Serpents are sea monsters.)[/i] => As an additional cost to cast this spell, sacrifice a creature.
+Return target creature card from your graveyard to the battlefield. If a sea monster is return this way, put a hexproof counter on it. [i](Krakens, Leviathans, Octopuses, Serpents, and Whales are sea monsters.)[/i]
+
+Cavern Fisherman
+rules_text: {T}: Add {G}.
+{T}: Mill 3 cards. Add {U}{U}. Spend this mana only to cast sea monsters. [i](Krakens, Leviathans, Octopi, and Serpents are sea monsters.)[/i] => {T}: Add {G}.
+{T}: Mill three cards. Add {U}{U}. Spend this mana only to cast sea monsters. [i](Krakens, Leviathans, Octopuses, Serpents, and Whales are sea monsters.)[/i]
+
+The Many-Mother
+rules_text: Convoke
+Sea monsters you cast have Offspring {1}. [i](Krakens, Leviathans, Octopi, and Serpents are sea monsters.)[/i]
+Whenever a sea monster you control enters or attacks, you may untap a permanent you control. => Convoke
+Sea monsters you cast have Offspring {1}. [i](Krakens, Leviathans, Octopuses, Serpents, and Whales are sea monsters.)[/i]
+Whenever a sea monster you control enters or attacks, you may untap a permanent you control.
+
+Jellicle Moon
+rules_text: Mana produced by non-basic lands is Jellicle [i](Mana produced by them is Jellicle)[/i]
+Cats cast with Jellicle mana enter with a +1/+1 counter for each mana spent on them that was Jellicle. => Mana produced by nonbasic lands is Jellicle [i](Mana produced by them is Jellicle)[/i]
+Cats cast with Jellicle mana enter with a +1/+1 counter for each mana spent on them that was Jellicle.
+
+Botanist Class
+rules_text: [i](Gain the next level as a sorcery to add its ability.)[/i]
+At the beginning of your upkeep, if you control no Plants, create a 0/1 green Plant creature token.
+{2}{G}: Level 2
+Whenever a creature enters under your control, put a +1/+1 counter on each each Plant you control.
+{4}{G}: Level 3
+At the beginning of your upkeep, create a 0/1 green Plant creature token for each Plant you control. => [i](Gain the next level as a sorcery to add its ability.)[/i]
+At the beginning of your upkeep, if you control no Plants, create a 0/1 green Plant creature token.
+{2}{G}: Level 2
+Whenever a creature you control enters, put a +1/+1 counter on each each Plant you control.
+{4}{G}: Level 3
+At the beginning of your upkeep, create a 0/1 green Plant creature token for each Plant you control.
+special_text: [i](Gain the next level as a sorcery to add its ability.)[/i]
+At the beginning of your upkeep, if you control no Plants, create a 0/1 green Plant creature token.
+{2}{G}: Level 2
+Whenever a creature enters under your control, put a +1/+1 counter on each each Plant you control.
+{4}{G}: Level 3
+At the beginning of your upkeep, create a 0/1 green Plant creature token for each Plant you control. => [i](Gain the next level as a sorcery to add its ability.)[/i]
+At the beginning of your upkeep, if you control no Plants, create a 0/1 green Plant creature token.
+{2}{G}: Level 2
+Whenever a creature you control enters, put a +1/+1 counter on each each Plant you control.
+{4}{G}: Level 3
+At the beginning of your upkeep, create a 0/1 green Plant creature token for each Plant you control.
+
+Mercenary Class
+rules_text: [i](Gain the next level as a sorcery to add its ability.)[/i]
+{2}, {T}: Search your library for a Mercenary card with mana value 2 or less. Put that card onto the battlefield, then shuffle.
+{1}{B}: Level 2
+The activated abilities of other Mercenaries you control cost {1} less to activate.
+{3}{B}{B}: Level 3
+Whenever a Mercenary enters under your control, choose one —
+• Create a Treasure token.
+• Target player discards a card. => [i](Gain the next level as a sorcery to add its ability.)[/i]
+{2}, {T}: Search your library for a Mercenary card with mana value 2 or less. Put that card onto the battlefield, then shuffle.
+{1}{B}: Level 2
+The activated abilities of other Mercenaries you control cost {1} less to activate.
+{3}{B}{B}: Level 3
+Whenever a Mercenary you control enters, choose one —
+• Create a Treasure token.
+• Target player discards a card.
+special_text: [i](Gain the next level as a sorcery to add its ability.)[/i]
+{2}, {T}: Search your library for a Mercenary card with mana value 2 or less. Put that card onto the battlefield, then shuffle.
+{1}{B}: Level 2
+The activated abilities of other Mercenaries you control cost {1} less to activate.
+{3}{B}{B}: Level 3
+Whenever a Mercenary enters under your control, choose one —
+• Create a Treasure token.
+• Target player discards a card. => [i](Gain the next level as a sorcery to add its ability.)[/i]
+{2}, {T}: Search your library for a Mercenary card with mana value 2 or less. Put that card onto the battlefield, then shuffle.
+{1}{B}: Level 2
+The activated abilities of other Mercenaries you control cost {1} less to activate.
+{3}{B}{B}: Level 3
+Whenever a Mercenary you control enters, choose one —
+• Create a Treasure token.
+• Target player discards a card.
+
+Terminator Class
+rules_text: [i](Gain the next level as a sorcery to add its ability.)[/i]
+When this Class enters, target creature you control gains “{2}{R}, {T}: Create Lightning Orb, a legendary artifact token with ‘At the beginning of your end step, deal 1 damage to each opponent. When this artifact is put into a graveyard, it deals 2 damage to each opponent.'”
+{2}{U}{R}: Level 2
+When this Class becomes level 2, target creature you control gains “{3}{U}, {T}: Create Frost Orb, a legendary artifact token with ‘At the beginning of your end step, target creature doesn't untap during its controller's next untap step. When this artifact is put into your graveyard, each creature your opponent controls doesn't untap during its controller's next untap step.'”
+{3}{U}{R}: Level 3
+{1}{U}{R}: Target creature you control gains “{2}{R}, {T}: Create Lightning Orb.”
+{2}{U}{R}: Target creature you control gains “{3}{U}, {T}: Create Frost Orb.”
+Activated abilities of permanents you control cost {1} less to activate. => [i](Gain the next level as a sorcery to add its ability.)[/i]
+When this Class enters, target creature you control gains “{2}{R}, {T}: Create Lightning Orb, a legendary artifact token with ‘At the beginning of your end step, deal 1 damage to each opponent. When this artifact is put into a graveyard, it deals 2 damage to each opponent.'”
+{2}{U}{R}: Level 2
+When this Class becomes level 2, target creature you control gains “{3}{U}, {T}: Create Frost Orb, a legendary artifact token with ‘At the beginning of your end step, target creature doesn't untap during its controller's next untap step. When this artifact is put into your graveyard, each creature your opponents control don't untap during its controller's next untap step.'”
+{3}{U}{R}: Level 3
+{1}{U}{R}: Target creature you control gains “{2}{R}, {T}: Create Lightning Orb.”
+{2}{U}{R}: Target creature you control gains “{3}{U}, {T}: Create Frost Orb.”
+Activated abilities of permanents you control cost {1} less to activate.
+special_text: [i](Gain the next level as a sorcery to add its ability.)[/i]
+When this Class enters, target creature you control gains “{2}{R}, {T}: Create Lightning Orb, a legendary artifact token with ‘At the beginning of your end step, deal 1 damage to each opponent. When this artifact is put into a graveyard, it deals 2 damage to each opponent.'”
+{2}{U}{R}: Level 2
+When this Class becomes level 2, target creature you control gains “{3}{U}, {T}: Create Frost Orb, a legendary artifact token with ‘At the beginning of your end step, target creature doesn't untap during its controller's next untap step. When this artifact is put into your graveyard, each creature your opponent controls doesn't untap during its controller's next untap step.'”
+{3}{U}{R}: Level 3
+{1}{U}{R}: Target creature you control gains “{2}{R}, {T}: Create Lightning Orb.”
+{2}{U}{R}: Target creature you control gains “{3}{U}, {T}: Create Frost Orb.”
+Activated abilities of permanents you control cost {1} less to activate. => [i](Gain the next level as a sorcery to add its ability.)[/i]
+When this Class enters, target creature you control gains “{2}{R}, {T}: Create Lightning Orb, a legendary artifact token with ‘At the beginning of your end step, deal 1 damage to each opponent. When this artifact is put into a graveyard, it deals 2 damage to each opponent.'”
+{2}{U}{R}: Level 2
+When this Class becomes level 2, target creature you control gains “{3}{U}, {T}: Create Frost Orb, a legendary artifact token with ‘At the beginning of your end step, target creature doesn't untap during its controller's next untap step. When this artifact is put into your graveyard, each creature your opponents control don't untap during its controller's next untap step.'”
+{3}{U}{R}: Level 3
+{1}{U}{R}: Target creature you control gains “{2}{R}, {T}: Create Lightning Orb.”
+{2}{U}{R}: Target creature you control gains “{3}{U}, {T}: Create Frost Orb.”
+Activated abilities of permanents you control cost {1} less to activate.
+
+Scout Class
+rules_text: [i](Gain the next level as a sorcery to add its ability.)[/i]
+When this Class enters, reveal cards from the top of your library until you reveal a land card. Put that card onto the battlefield and the rest on the bottom of your library in a random order.
+{2}{G}{G}: Level 2
+Whenever a creature enters under your control, it explores.
+{3}{G}{G}: Level 3
+When this Class becomes level 3, you gain X life and distribute X +1/+1 counters among creatures you control, where X is the number of differently named lands you control. => [i](Gain the next level as a sorcery to add its ability.)[/i]
+When this Class enters, reveal cards from the top of your library until you reveal a land card. Put that card onto the battlefield and the rest on the bottom of your library in a random order.
+{2}{G}{G}: Level 2
+Whenever a creature you control enters, it explores.
+{3}{G}{G}: Level 3
+When this Class becomes level 3, you gain X life and distribute X +1/+1 counters among creatures you control, where X is the number of differently named lands you control.
+special_text: [i](Gain the next level as a sorcery to add its ability.)[/i]
+When this Class enters, reveal cards from the top of your library until you reveal a land card. Put that card onto the battlefield and the rest on the bottom of your library in a random order.
+{2}{G}{G}: Level 2
+Whenever a creature enters under your control, it explores.
+{3}{G}{G}: Level 3
+When this Class becomes level 3, you gain X life and distribute X +1/+1 counters among creatures you control, where X is the number of differently named lands you control. => [i](Gain the next level as a sorcery to add its ability.)[/i]
+When this Class enters, reveal cards from the top of your library until you reveal a land card. Put that card onto the battlefield and the rest on the bottom of your library in a random order.
+{2}{G}{G}: Level 2
+Whenever a creature you control enters, it explores.
+{3}{G}{G}: Level 3
+When this Class becomes level 3, you gain X life and distribute X +1/+1 counters among creatures you control, where X is the number of differently named lands you control.
+
+Anti-Auntie
+rules_text: When this creature enters, offer your opponent a piece of candy or sacrifice this creature.
+{3}{U}{B}, {T}: Exchange control of another target permanent you control and target permanent you don't control. If your permanent was more expensive, also exchange ownership. => When this creature enters, offer an opponent a piece of candy or sacrifice this creature.
+{3}{U}{B}, {T}: Exchange control of another target permanent you control and target permanent you don't control. If your permanent was more expensive, also exchange ownership.
+
+Flash of Inspiration
+rules_text: Mill 4 cards, scry 3, draw two cards, then discard a card. Then if you control a card named Shay, Wastebin Wunderkind, search your graveyard for a card named Shay's Dragster. Exile it and this card, then meld them into Shay's Masterpiece. => Mill four cards, scry 3, draw two cards, then discard a card. Then if you control a card named Shay, Wastebin Wunderkind, search your graveyard for a card named Shay's Dragster. Exile it and this card, then meld them into Shay's Masterpiece.
+
+Natain Milk Mage
+rules_text: When another Minotaur or Ox attacks and you control no Food, you may search your library for a card named Cheese Wheel, put it onto the battlefield tapped, then shuffle.
+{6}{W}: Target Minotaur or Ox gets +3/+3 and Prowess until end of turn. You may remove any number of Dairy Counters from among Food you control to reduce this cost by {1} for each Dairy counter removed this way. => When another Minotaur or Ox attacks and you control no Food, you may search your library for a card named Cheese Wheel, put it onto the battlefield tapped, then shuffle.
+{6}{W}: Target Minotaur or Ox gets +3/+3 and Prowess until end of turn. You may remove any number of Dairy counters from among Food you control to reduce this cost by {1} for each Dairy counter removed this way.
+
+Frozen Suns
+type: Sorcery => Snow Sorcery
+
+The Hero's Awakening
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Create a 2/2 green and white Elf Warrior creature token.
+Put a +1/+1 counter and a vigilance counter on target creature you control.
+Put a +1/+1 counter a sword counter on target creature you control. It gains protection from black. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Create a 2/2 green and white Elf Warrior creature token.
+Put a +1/+1 counter and a vigilance counter on target creature you control.
+Put a +1/+1 counter and a sword counter on target creature you control. It gains protection from black.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Create a 2/2 green and white Elf Warrior creature token.
+Put a +1/+1 counter and a vigilance counter on target creature you control.
+Put a +1/+1 counter a sword counter on target creature you control. It gains protection from black. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Create a 2/2 green and white Elf Warrior creature token.
+Put a +1/+1 counter and a vigilance counter on target creature you control.
+Put a +1/+1 counter and a sword counter on target creature you control. It gains protection from black.
+
+Shadowblade Titan
+rules_text: Fear
+Ward {3}
+Whenever this creature deals combat damage to a player, each opponent sacrifices a permanent and discards a card. => Fear
+Ward {3}
+Whenever this creature deals combat damage to a player, each opponent sacrifices a permanent of their choice and discards a card.
+
+Dust Walker
+rules_text: When this creature enters or attack, you may sacrifice a land. If you, destroy target non-basic land an opponent controls.
+{3}, Discard this card: Search your library for a Wastes, put it onto the battlefield tapped, then shuffle. => When this creature enters or attack, you may sacrifice a land. If you, destroy target nonbasic land an opponent controls.
+{3}, Discard this card: Search your library for a Wastes, put it onto the battlefield tapped, then shuffle.
+
+Dral, Hideout Inspector
+rules_text: Flying
+Whenever a Lair enters under your control, you may play an additional non-Lair land this turn.
+You may play Lair cards from your graveyard. => Flying
+Whenever a Lair you control enters, you may play an additional non-Lair land this turn.
+You may play Lair cards from your graveyard.
+
+A Horse with No Name
+rules_text: Whenever a Desert enters under your control, you gain 2 life.
+{1}{U}, Tap an untapped Desert you control: A Horse with No Name phases out. [i](Treat it and anything attached to it as though they don't exist until its controller's next turn.)[/i] => Whenever a Desert you control enters, you gain 2 life.
+{1}{U}, Tap an untapped Desert you control: A Horse with No Name phases out. [i](Treat it and anything attached to it as though they don't exist until its controller's next turn.)[/i]
+
+Samuel, Guard Dissenter
+rules_text: Partner with Clarie, Garden Tender
+Whenever a creature with mana value 4 or greater enters under your control, it gains haste and trample until end of turn. => Partner with Clarie, Garden Tender
+Whenever a creature you control with mana value 4 or greater enters, it gains haste and trample until end of turn.
+
+Nilry's Codex
+type: Legendary Artifact => Legendary Artifact — Book
+
+Hope Rides Alone
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create a 3/3 red Construct artifact token with haste.
+II — Each non-artifact creature you control gains exalted until end of turn.
+III — Artifact creatures you control phase out. Destroy all creatures. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create a 3/3 red Construct artifact token with haste.
+II — Each nonartifact creature you control gains exalted until end of turn.
+III — Artifact creatures you control phase out. Destroy all creatures.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create a 3/3 red Construct artifact token with haste.
+II — Each non-artifact creature you control gains exalted until end of turn.
+III — Artifact creatures you control phase out. Destroy all creatures. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create a 3/3 red Construct artifact token with haste.
+II — Each nonartifact creature you control gains exalted until end of turn.
+III — Artifact creatures you control phase out. Destroy all creatures.
+
+Standard of the People
+rules_text: Whenever a creature with base power and toughness 1/1 enters under your control, draw a card.
+{2}{G}{G}{W}{W}, Sacrifice Standard of the People: Creatures you control with base power and toughness 1/1 get +X/+X and gain indestructible until end of turn, where X is the number of creatures you control. => Whenever a creature you control with base power and toughness 1/1 enters, draw a card.
+{2}{G}{G}{W}{W}, Sacrifice Standard of the People: Creatures you control with base power and toughness 1/1 get +X/+X and gain indestructible until end of turn, where X is the number of creatures you control.
+
+Summoning Circle
+rules_text: When a creature enters under your control, put a cultist counter on it. Then if you control six creatures with cultist counters, sacrifice each creature with a cultist counter on it and this enchantment, search your library for a creature card and put that card onto the battlefield under your control, then shuffle. => When a creature you control enters, put a cultist counter on it. Then if you control six creatures with cultist counters, sacrifice each creature with a cultist counter on it and this enchantment, search your library for a creature card and put that card onto the battlefield under your control, then shuffle.
+
+Kondira, Sekipra's Protector
+
+The Last Sliver
+rules_text: Indestructible
+Whenever The Last Sliver or another Sliver enters under your control, merge all Sliver creatures you control. [i](When a creature merges, put it over or under the creature it's merging with. They merge into the creature on top plus all abilities from under it.)[/i]
+Whenever a Sliver you control merges, put a +1/+1 counter on The Last Sliver. => Indestructible
+Whenever The Last Sliver or another Sliver you control enters, merge all Sliver creatures you control. [i](When a creature merges, put it over or under the creature it's merging with. They merge into the creature on top plus all abilities from under it.)[/i]
+Whenever a Sliver you control merges, put a +1/+1 counter on The Last Sliver.
+
+Ethereal Dragon
+rules_text: Flying
+You and permanents you control have protection from oppoonents who have cast no spells this turn.
+When this creature becomes the target of a spell or ability, sacrifice it. => Flying
+You and permanents you control have protection from opponents who have cast no spells this turn.
+When this creature becomes the target of a spell or ability, sacrifice it.
+
+First of the Brood
+rules_text: Flying
+{3}: Put a 2/2 red Dragon creature token onto the battlefield.
+Whenever another Dragon creature enters under your control, you may have it fight another target creature. => Flying
+{3}: Put a 2/2 red Dragon creature token onto the battlefield.
+Whenever another Dragon creature you control enters, you may have it fight another target creature.
+
+Song of the River
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Mill 3 cards.
+Draw a card for each land card in your graveyard with a different name.
+If there are five or more lands in your graveyard with the same name, exile this Saga, then return it to the battlefield transformed. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Mill three cards.
+Draw a card for each land card in your graveyard with a different name.
+If there are five or more lands in your graveyard with the same name, exile this Saga, then return it to the battlefield transformed.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Mill 3 cards.
+Draw a card for each land card in your graveyard with a different name.
+If there are five or more lands in your graveyard with the same name, exile this Saga, then return it to the battlefield transformed. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Mill three cards.
+Draw a card for each land card in your graveyard with a different name.
+If there are five or more lands in your graveyard with the same name, exile this Saga, then return it to the battlefield transformed.
+
+Mysterious Tome
+type: Legendary Artifact => Legendary Artifact — Book
+
+Convuluted Enchanter
+rules_text: [i]Constellation[/i] — Whenever an enchantment enters under your control, you draw a card and lose 1 life.
+Nonenchantment, nonland cards you own have Transmute. The Transmute cost is equal to half that spell's mana value, rounded up. => [i]Constellation[/i] — Whenever an enchantment you control enters, you draw a card and lose 1 life.
+Nonenchantment, nonland cards you own have Transmute. The Transmute cost is equal to half that spell's mana value, rounded up.
+
+Ulfric, the Half-Caste
+rules_text: Trample
+Whenever an artifact enters under your control, scry 2, then search your library for a basic land card, and put it onto the battlefield tapped, then shuffle. => Trample
+Whenever an artifact you control enters, scry 2, then search your library for a basic land card, and put it onto the battlefield tapped, then shuffle.
+
+Officer Shark
+rules_text: When this creature enters or at the beginning of your upkeep, detain target creature. [i](Until your next turn, that creature can't attack or block and its activated abilities can't be activated.)[/i] => Whenever this creature enters and at the beginning of your upkeep, detain target creature. [i](Until your next turn, that creature can't attack or block and its activated abilities can't be activated.)[/i]
+
+Izrat, Allied Sliver
+rules_text: Creatures you control are both Slivers and Allies in addition to their other types. The same is true for creature spells you control and creature cards you own that aren't on the battlefield.
+Slivers you control have “[i]Rally[/i] — When an Ally enters under your control, this creature deals 1 damage to target creature, draw a card, then you may put a land card from your hand onto the battlefield tapped.” => Creatures you control are both Slivers and Allies in addition to their other types. The same is true for creature spells you control and creature cards you own that aren't on the battlefield.
+Slivers you control have “[i]Rally[/i] — When an Ally you control enters, this creature deals 1 damage to target creature, draw a card, then you may put a land card from your hand onto the battlefield tapped.”
+
+Blood Mox
+rules_text: Paincast [i](This spell costs {1} less to cast for each life your opponent lost this turn.)[/i]
+Discard a card: Add {R}, this artifact deals 3 damage to you. => Paincast [i](This spell costs {1} less to cast for each life your opponents lost this turn.)[/i]
+Discard a card: Add {R}, this artifact deals 3 damage to you.
+
+Skyguardian's Memorial
+rules_text: When Skyguardian's Memorial enters, create two 4/4 white Angel creature tokens with flying.
+Whenever a white creature enters under your control, you gain 2 life.
+{X}{X}{W}{W}{W}{W}, {T}: Create X 4/4 white Angel creature tokens with flying. Activate only as a sorcery. => When Skyguardian's Memorial enters, create two 4/4 white Angel creature tokens with flying.
+Whenever a white creature you control enters, you gain 2 life.
+{X}{X}{W}{W}{W}{W}, {T}: Create X 4/4 white Angel creature tokens with flying. Activate only as a sorcery.
+
+Garruk, Unleashed
+rules_text: Whenever a creature enters under your control, it fights target creature an opponent controls.
+[0]: Create two 3/3 green Beast tokens.
+[-4]: Draw a card for each creature card in your graveyard. => Whenever a creature you control enters, it fights target creature an opponent controls.
+[0]: Create two 3/3 green Beast tokens.
+[-4]: Draw a card for each creature card in your graveyard.
+special_text: Whenever a creature enters under your control, it fights target creature an opponent controls.
+[0]: Create two 3/3 green Beast tokens.
+[-4]: Draw a card for each creature card in your graveyard. => Whenever a creature you control enters, it fights target creature an opponent controls.
+[0]: Create two 3/3 green Beast tokens.
+[-4]: Draw a card for each creature card in your graveyard.
+
+Feth Fiada, Guided by Mist
+rules_text: [i]Landfall[/i] — Whenever a land enters under your control, investigate.
+[+2]: You may sacrifice an artifact. If you do, create a 1/1 white Human Soldier creature token.
+[-3]: You may play an additional land this turn. If you do, exile Féth Fíada. Return it to the battlefield under its owner's control at the beginning of your next upkeep. => [i]Landfall[/i] — Whenever a land you control enters, investigate.
+[+2]: You may sacrifice an artifact. If you do, create a 1/1 white Human Soldier creature token.
+[-3]: You may play an additional land this turn. If you do, exile Féth Fíada. Return it to the battlefield under its owner's control at the beginning of your next upkeep.
+special_text: [i]Landfall[/i] — Whenever a land enters under your control, investigate.
+[+2]: You may sacrifice an artifact. If you do, create a 1/1 white Human Soldier creature token.
+[-3]: You may play an additional land this turn. If you do, exile Féth Fíada. Return it to the battlefield under its owner's control at the beginning of your next upkeep. => [i]Landfall[/i] — Whenever a land you control enters, investigate.
+[+2]: You may sacrifice an artifact. If you do, create a 1/1 white Human Soldier creature token.
+[-3]: You may play an additional land this turn. If you do, exile Féth Fíada. Return it to the battlefield under its owner's control at the beginning of your next upkeep.
+
+Be Mine
+rules_text: Enchant creature you control
+When this Aura enters, choose a creature your opponent controls and flip a coin. If heads, gain control of the chosen creature until this Aura leaves the battlefield. Otherwise, return this Aura and enchanted creature to their owner's hand. => Enchant creature you control
+When this Aura enters, choose target creature an opponent controls and flip a coin. If you win, gain control of the chosen creature until this Aura leaves the battlefield. Otherwise, return this Aura and enchanted creature to their owner's hand.
+
+Shattered Psyche
+rules_text: At the beginning of each player's main and combat phases, that player exiles a card from their hand.
+At the beginning of each end step, return each card exiled with Shattered Psyche to their owner's hand. Shattered Psyche deals damage to each player for each card returned to their hand this way. => At the beginning of each player's main and combat phases, that player exiles a card from their hand.
+At the beginning of each end step, return each card exiled with this enchantment to their owner's hand. This enchantment deals damage to each player for each card returned to their hand this way.
+
+Unhallowed Hermit
+rules_text: Deathtouch
+Whenever this creature enters or transforms into this creature, mill 2.
+At the beginning of each upkeep, if no creatures died last turn, you may return this card from the graveyard to the battlefield transformed. => Deathtouch
+Whenever this creature enters or transforms into this creature, mill two cards.
+At the beginning of each upkeep, if no creatures died last turn, you may return this card from the graveyard to the battlefield transformed.
+
+Sleep Deprivation
+rules_text: At the beginning of your upkeep, you may discard a card. If you do, each opponent discards a card.
+[i]Amnesia [/i]— As long as your opponent has one or fewer cards in hand, this enchantment is a 2/1 creature with shroud and unblockable. => At the beginning of your upkeep, you may discard a card. If you do, each opponent discards a card.
+[i]Amnesia [/i]— As long as an opponent has one or fewer cards in hand, this enchantment is a 2/1 creature with shroud and unblockable.
+
+Gitgud Frog
+rules_text: Pay 2 life: You may play an extra land this turn. Activate this ability only once each turn.
+[i]Landfall[/i] — Whenever a land enters under your control, you gain 1 life and surveil 1. => Pay 2 life: You may play an extra land this turn. Activate this ability only once each turn.
+[i]Landfall[/i] — Whenever a land you control enters, you gain 1 life and surveil 1.
+
+Hamunaptra, City of the Dead
+
+Lycanthropic Hoarder
+rules_text: Whenever an artifact or enchantment enters under your control, this creature gets +2/+2, gains menace and first strike, and isn't a Human until end of turn. This ability triggers only once each turn.
+{T}: Return a permanent you control to its owner's hand. => Whenever an artifact or enchantment you control enters, this creature gets +2/+2, gains menace and first strike, and isn't a Human until end of turn. This ability triggers only once each turn.
+{T}: Return a permanent you control to its owner's hand.
+
+Capenna Gun-Runners
+rules_text: Each Vehicle spell you cast has blitz {2}{BR}.
+Whenever a Vehicle enters under your control, it becomes a creature until end of turn, in addition to its other types. => Each Vehicle spell you cast has blitz {2}{BR}.
+Whenever a Vehicle you control enters , it becomes a creature until end of turn, in addition to its other types.
+
+Gevon Shaha, Druid Mage
+rules_text: [i]Delirium[/i] — If there are four or more card types among cards in your graveyard, Gevon Shaha enters with twice as many loyalty counters on it.
+[+1]: Mill 3 cards, then return a permanent card from your graveyard to your hand.
+[-6]: You get an emblem with, “Spells you cast have ‘[i]Spell Mastery[/i] — If there are two or more instant and/or sorcery cards in your graveyard, draw three cards.'” => [i]Delirium[/i] — If there are four or more card types among cards in your graveyard, Gevon Shaha enters with twice as many loyalty counters on it.
+[+1]: Mill three cards, then return a permanent card from your graveyard to your hand.
+[-6]: You get an emblem with, “Spells you cast have ‘[i]Spell Mastery[/i] — If there are two or more instant and/or sorcery cards in your graveyard, draw three cards.'”
+special_text: [i]Delirium[/i] — If there are four or more card types among cards in your graveyard, Gevon Shaha enters with twice as many loyalty counters on it.
+[+1]: Mill 3 cards, then return a permanent card from your graveyard to your hand.
+[-6]: You get an emblem with, “Spells you cast have ‘[i]Spell Mastery[/i] — If there are two or more instant and/or sorcery cards in your graveyard, draw three cards.'” => [i]Delirium[/i] — If there are four or more card types among cards in your graveyard, Gevon Shaha enters with twice as many loyalty counters on it.
+[+1]: Mill three cards, then return a permanent card from your graveyard to your hand.
+[-6]: You get an emblem with, “Spells you cast have ‘[i]Spell Mastery[/i] — If there are two or more instant and/or sorcery cards in your graveyard, draw three cards.'”
+
+Calix, Compleated Enchanter
+rules_text: Compleated [i]({GWP} can be paid with {G}, {W}, or 2 life. If life was paid, this planeswalker enters with two fewer loyalty counters.)[/i]
+[i]Constellation[/i] — Whenever an enchantment enters under your control, put a loyalty counter on Calix and draw a card.
+[-1]: Calix deals damage to target creature or planeswalker equal to the number of artifacts you control plus the number of enchantments you control.
+[-X]: Return up to one artifact card and up to one enchantment card with total mana value X or less from your graveyard to the battlefield. => Compleated [i]({GWP} can be paid with {G}, {W}, or 2 life. If life was paid, this planeswalker enters with two fewer loyalty counters.)[/i]
+[i]Constellation[/i] — Whenever an enchantment you control enters, put a loyalty counter on Calix and draw a card.
+[-1]: Calix deals damage to target creature or planeswalker equal to the number of artifacts you control plus the number of enchantments you control.
+[-X]: Return up to one artifact card and up to one enchantment card with total mana value X or less from your graveyard to the battlefield.
+special_text: Compleated [i]({GWP} can be paid with {G}, {W}, or 2 life. If life was paid, this planeswalker enters with two fewer loyalty counters.)[/i]
+[i]Constellation[/i] — Whenever an enchantment enters under your control, put a loyalty counter on Calix and draw a card.
+[-1]: Calix deals damage to target creature or planeswalker equal to the number of artifacts you control plus the number of enchantments you control.
+[-X]: Return up to one artifact card and up to one enchantment card with total mana value X or less from your graveyard to the battlefield. => Compleated [i]({GWP} can be paid with {G}, {W}, or 2 life. If life was paid, this planeswalker enters with two fewer loyalty counters.)[/i]
+[i]Constellation[/i] — Whenever an enchantment you control enters, put a loyalty counter on Calix and draw a card.
+[-1]: Calix deals damage to target creature or planeswalker equal to the number of artifacts you control plus the number of enchantments you control.
+[-X]: Return up to one artifact card and up to one enchantment card with total mana value X or less from your graveyard to the battlefield.
+
+Call of The All-Mother
+rules_text: Search your library for a creature card, reveal that card, and put it into your hand. Then shuffle.
+Basic landcycling {G} [i]({G}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)[/i] => Search your library for a creature card, reveal that card, put it into your hand, then shuffle.
+Basic landcycling {G} [i]({G}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)[/i]
+
+Gollea, Lady of the Forest
+rules_text: Whenever a land enters under your control, if it entered from your library, create an X/X green Elemental creature token, where X is half the number of lands you control, rounded down. => Whenever a land you control enters from your library, create an X/X green Elemental creature token, where X is half the number of lands you control, rounded down.
+
+Servant of Erebos
+rules_text: [i]Constellation[/i] — When this creature or another enchantment enters under your control, each opponent loses 1 life and you gain 1 life.
+Sacrifice an enchantment: Return target non-enchantment creature card from your graveyard to the battlefield. => [i]Constellation[/i] — When this creature or another enchantment you control enters, each opponent loses 1 life and you gain 1 life.
+Sacrifice an enchantment: Return target nonenchantment creature card from your graveyard to the battlefield.
+
+Woebegotten Angel
+rules_text: [i]Landfall[/i] — Whenever a land enters under your control, put a +1/+1 counter on this creature. If this creature has three or more +1/+1 counters, put a flying counter on it instead. => [i]Landfall[/i] — Whenever a land you control enters, put a +1/+1 counter on this creature. If this creature has three or more +1/+1 counters, put a flying counter on it instead.
+
+Deep Dive
+rules_text: Choose one — 
+• Each player mills 5, then exile all cards from each opponent's graveyard.
+• Scry 3, draw a card, then lose 2 life.
+[i]Adamant[/i] — If at least three mana of the same color was used to cast this spell, you may choose both. => Choose one — 
+• Each player mills five cards, then exile all cards from each opponent's graveyard.
+• Scry 3, draw a card, then lose 2 life.
+[i]Adamant[/i] — If at least three mana of the same color was used to cast this spell, you may choose both.
+
+Reign of Chaos
+rules_text: Choose one — 
+• Each player discards a card at random.
+• Destroy target non-basic land.
+[i]Adamant[/i] — If at least three mana of the same color was used to cast this spell, you may choose both. => Choose one — 
+• Each player discards a card at random.
+• Destroy target nonbasic land.
+[i]Adamant[/i] — If at least three mana of the same color was used to cast this spell, you may choose both.
+
+Heidi, Mother of Many
+rules_text: Vigilance
+Whenever a nontoken Rabbit enters under your control, create a 1/1 white Rabbit creature token.
+Nontoken Rabbits you control get +X/+X, where X is the number of Rabbit tokens you control. => Vigilance
+Whenever a nontoken Rabbit you control enters, create a 1/1 white Rabbit creature token.
+Nontoken Rabbits you control get +X/+X, where X is the number of Rabbit tokens you control.
+
+Nurturing Anemone
+rules_text: Whenever a Fish enters under your control, if only mana from Island sources you control were spent to cast it, it gains shroud until the beginning of your next upkeep. => Whenever a Fish you control enters, if only mana from Island sources you control were spent to cast it, it gains shroud until the beginning of your next upkeep.
+
+Old Oak
+rules_text: Reach
+As long as you control 3 or more lands, this creature assigns combat damage equal to its toughness rather than its power.
+As long as you control 4 or more lands, this creature has defender. => Reach
+As long as you control three or more lands, this creature assigns combat damage equal to its toughness rather than its power.
+As long as you control four or more lands, this creature has defender.
+
+Lightning Feedback
+rules_text: Lightning Feedback deals 2 damage to each player. If you've been Greedy this turn, it deals 4 damage instead. [i](You've been greedy when you pay life or discards to pay costs or activate abilities of cards you control.)[/i] => Lightning Feedback deals 2 damage to each player. If you've been Greedy this turn, it deals 4 damage instead. [i](You've been greedy when you pay life or discard cards to pay costs or activate abilities of cards you control.)[/i]
+
+Cat O' Lantern
+rules_text: As this creature enters, exile a non-token Food you control until this creature leaves the battlefield. This creature has +2/+2 and hexproof if a card was exiled this way. => As this creature enters, exile a nontoken Food you control until this creature leaves the battlefield. This creature has +2/+2 and hexproof if a card was exiled this way.
+
+Rubidium Pop Rocks
+rules_text: Magneto-Storm [i](When you cast this spell, copy it for each Magnetic or Artifact spell cast before it this turn.)[/i]
+Flip a coin. If it's heads add {R}. Otherwise, this spell deals 2 damage to you. => Magneto-Storm [i](When you cast this spell, copy it for each Magnetic or Artifact spell cast before it this turn.)[/i]
+Flip a coin. If you win the flip, add {R}. Otherwise, this spell deals 2 damage to you.
+
+Wild Tea Party
+rules_text: Gain X life, where X is the total number of different creature types among non-human permanents you control. If X was 10 of greater, draw a card. => Gain X life, where X is the total number of different creature types among non-Human permanents you control. If X was 10 of greater, draw a card.
+
+Start em' Young
+rules_text: Whenever a creature token with base power 1 enters under your control, roll a d6. If the result is 1, sacrifice all tokens you control. Otherwise, create treasure tokens equal to the result. => Whenever a creature token you control with base power 1 enters, roll a d6. If the result is 1, sacrifice all tokens you control. Otherwise, create treasure tokens equal to the result.
+
+Wild Shaman
+rules_text: {T}, Awaken 1: This creature deals 1 damage to any target. [i](To awaken 1, put a +1/+1 counter on a creature you control.)[/i] => {T}, Awaken 1: This creature deals 1 damage to any target. [i](To awaken 1, put a +1/+1 counter on a creature you don't control.)[/i]
+
+Beast of Renewal
+rules_text: Whenever a creature enters under your control, sunder 2. [i](To sunder 2, sacrifice a land and create two Treasure tokens.)[/i]
+Sacrifice four Treasures: Return a noncreature land card from your graveyard to the battlefield tapped. => Whenever a creature you control enters, sunder 2. [i](To sunder 2, sacrifice a land and create two Treasure tokens.)[/i]
+Sacrifice four Treasures: Return a noncreature land card from your graveyard to the battlefield tapped.
+
+Canopy Tyrant
+rules_text: [i]Wildsurge[/i] — Whenever this creature or another creature with power 5 or greater enters under your control, it fights up to one target creature an opponent controls. => [i]Wildsurge[/i] — Whenever this creature or another creature you control with power 5 or greater enters, it fights up to one target creature an opponent controls.
+
+Tigercaller Apprentice
+rules_text: [i]Wildsurge[/i] — Whenever this creature or another creature with power 5 or greater enters under your control, you may create a 1/1 white Cat creature token. => [i]Wildsurge[/i] — Whenever this creature or another creature you control with power 5 or greater enters, you may create a 1/1 white Cat creature token.
+
+Regenerating Omnimatter
+
+Break Free
+rules_text: For each player, choose up to one target nonland permanent they control. Return those permanents to their owners' hands. If you return an enchanted permanent to your hand this way, draw two cards. => For each player, choose up to one target nonland permanent they control. Return those permanents to their owners' hands. If you returned an enchanted permanent to your hand this way, draw two cards.
+
+
+VERSION 12 CHANGELOG
 ====================
 
 Dream Plumes added.
